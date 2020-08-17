@@ -1,0 +1,142 @@
+{
+    "ID" : "hardpointdatadef_hammertimeomni",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+				"chrprfweap_hammertimeomni_leftarm_laser_eh1",
+				"chrprfweap_hammertimeomni_leftarm_ac20_bh1",
+				"chrprfweap_hammertimeomni_leftarm_flamer_eh1",
+				"chrprfweap_hammertimeomni_leftarm_gauss_bh1",
+				"chrprfweap_hammertimeomni_leftarm_mg_bh1",
+				"chrprfweap_hammertimeomni_leftarm_srm4_mh1",
+				"chrprfweap_hammertimeomni_leftarm_lrm10_mh1",
+				"chrprfweap_hammertimeomni_leftarm_ppc_eh1"					
+				],
+				[
+				"chrprfweap_hammertimeomni_leftarm_ppc_eh2"		
+				]                
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+				"chrprfweap_hammertimeomni_lefttorso_laser_eh1",
+				"chrprfweap_hammertimeomni_lefttorso_ac20_bh1",
+				"chrprfweap_hammertimeomni_lefttorso_flamer_eh1",
+				"chrprfweap_hammertimeomni_lefttorso_gauss_bh1",
+				"chrprfweap_hammertimeomni_lefttorso_mg_bh1",
+				"chrprfweap_hammertimeomni_lefttorso_srm6_mh1",
+				"chrprfweap_hammertimeomni_lefttorso_lrm20_mh1",
+				"chrprfweap_hammertimeomni_lefttorso_lrm15_mh1",
+				"chrprfweap_hammertimeomni_lefttorso_lrm10_mh1",
+				"chrprfweap_hammertimeomni_lefttorso_lrm5_mh1",
+				"chrprfweap_hammertimeomni_lefttorso_ppc_eh1"					
+				],
+                [
+				"chrprfweap_hammertimeomni_lefttorso_lrm10_mh2",
+				"chrprfweap_hammertimeomni_lefttorso_lrm5_mh2"					
+				]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+				"chrprfweap_hammertimeomni_rightarm_laser_eh1",
+				"chrprfweap_hammertimeomni_rightarm_ac20_bh1",
+				"chrprfweap_hammertimeomni_rightarm_flamer_eh1",
+				"chrprfweap_hammertimeomni_rightarm_gauss_bh1",
+				"chrprfweap_hammertimeomni_rightarm_mg_bh1",
+				"chrprfweap_hammertimeomni_rightarm_srm4_mh1",
+				"chrprfweap_hammertimeomni_rightarm_lrm10_mh1",
+				"chrprfweap_hammertimeomni_rightarm_ppc_eh1"					
+				],
+				[
+				"chrprfweap_hammertimeomni_rightarm_ppc_eh2"		
+				] 			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+				"chrprfweap_hammertimeomni_righttorso_laser_eh1",
+				"chrprfweap_hammertimeomni_righttorso_ac20_bh1",
+				"chrprfweap_hammertimeomni_righttorso_flamer_eh1",
+				"chrprfweap_hammertimeomni_righttorso_gauss_bh1",
+				"chrprfweap_hammertimeomni_righttorso_mg_bh1",
+				"chrprfweap_hammertimeomni_righttorso_srm6_mh1",
+				"chrprfweap_hammertimeomni_righttorso_srm20_mh1",
+				"chrprfweap_hammertimeomni_righttorso_ppc_eh1"					
+				],
+				[
+				"chrprfweap_hammertimeomni_righttorso_srm6_mh2",
+				"chrprfweap_hammertimeomni_righttorso_srm20_mh2"
+				]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+                [
+				"chrprfweap_hammertimeomni_centertorso_laser_eh1",
+				"chrprfweap_hammertimeomni_centertorso_flamer_eh1",
+				"chrprfweap_hammertimeomni_centertorso_ppc_eh1",
+				"chrprfweap_hammertimeomni_centertorso_mg_bh1",
+				"chrprfweap_hammertimeomni_centertorso_ac20_bh1",
+				"chrprfweap_hammertimeomni_centertorso_gauss_bh1"				
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+                [
+				"chrprfweap_hammertimeomni_head_laser_eh1",
+				"chrprfweap_hammertimeomni_head_flamer_eh1",
+				"chrprfweap_hammertimeomni_head_mg_bh1"				
+				]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

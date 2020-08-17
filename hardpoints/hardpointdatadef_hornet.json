@@ -1,0 +1,114 @@
+{
+    "ID" : "hardpointdatadef_hornet",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_hornet_leftarm_laser_eh1",
+			"chrPrfWeap_hornet_leftarm_flamer_eh1",
+			"chrPrfWeap_hornet_leftarm_mg_bh1",
+			"chrPrfWeap_hornet_leftarm_ac10_bh1",
+			"chrPrfWeap_hornet_leftarm_srm6_mh1"
+			]			
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_hornet_lefttorso_laser_eh1",
+			"chrPrfWeap_hornet_lefttorso_flamer_eh1",
+			"chrPrfWeap_hornet_lefttorso_mg_bh1",
+			"chrPrfWeap_hornet_lefttorso_ac10_bh1",
+			"chrPrfWeap_hornet_lefttorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_hornet_rightarm_laser_eh1",
+			"chrPrfWeap_hornet_rightarm_flamer_eh1",
+			"chrPrfWeap_hornet_rightarm_mg_bh1",
+			"chrPrfWeap_hornet_rightarm_ac10_bh1",
+			"chrPrfWeap_hornet_rightarm_srm6_mh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_hornet_righttorso_laser_eh1",
+			"chrPrfWeap_hornet_righttorso_flamer_eh1",
+			"chrPrfWeap_hornet_righttorso_mg_bh1",
+			"chrPrfWeap_hornet_righttorso_ac10_bh1",
+			"chrPrfWeap_hornet_righttorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_hornet_head_laser_eh1",
+			"chrPrfWeap_hornet_head_flamer_eh1",
+			"chrPrfWeap_hornet_head_mg_bh1",
+			"chrPrfWeap_hornet_head_ac10_bh1",
+			"chrPrfWeap_hornet_head_srm6_mh1"
+			]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_hornet_centertorso_laser_eh1",
+			"chrPrfWeap_hornet_centertorso_flamer_eh1",
+			"chrPrfWeap_hornet_centertorso_mg_bh1",
+			"chrPrfWeap_hornet_centertorso_ac10_bh1",
+			"chrPrfWeap_hornet_centertorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

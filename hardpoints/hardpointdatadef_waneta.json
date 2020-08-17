@@ -1,0 +1,127 @@
+{
+    "ID" : "hardpointdatadef_waneta",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_waneta_leftarm_laser_eh1",
+			"chrPrfWeap_waneta_leftarm_flamer_eh1",
+			"chrPrfWeap_waneta_leftarm_ppc_eh1",			
+			"chrPrfWeap_waneta_leftarm_mg_bh1",
+			"chrPrfWeap_waneta_leftarm_ac20_bh1",
+			"chrPrfWeap_waneta_leftarm_gauss_bh1",
+			"chrPrfWeap_waneta_leftarm_srm6_mh1",
+			"chrPrfWeap_waneta_leftarm_lrm15_mh1"			
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_waneta_lefttorso_laser_eh1",
+			"chrPrfWeap_waneta_lefttorso_flamer_eh1",
+			"chrPrfWeap_waneta_lefttorso_ppc_eh1",			
+			"chrPrfWeap_waneta_lefttorso_mg_bh1",
+			"chrPrfWeap_waneta_lefttorso_ac20_bh1",
+			"chrPrfWeap_waneta_lefttorso_gauss_bh1",
+			"chrPrfWeap_waneta_lefttorso_srm6_mh1",
+			"chrPrfWeap_waneta_lefttorso_lrm15_mh1"			
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_waneta_rightarm_laser_eh1",
+			"chrPrfWeap_waneta_rightarm_flamer_eh1",
+			"chrPrfWeap_waneta_rightarm_mg_bh1",
+			"chrPrfWeap_waneta_rightarm_ac20_bh1",
+			"chrPrfWeap_waneta_rightarm_gauss_bh1",
+			"chrPrfWeap_waneta_rightarm_srm6_mh1",
+			"chrPrfWeap_waneta_rightarm_lrm15_mh1"			
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_waneta_righttorso_laser_eh1",
+			"chrPrfWeap_waneta_righttorso_flamer_eh1",
+			"chrPrfWeap_waneta_righttorso_mg_bh1",
+			"chrPrfWeap_waneta_righttorso_ac20_bh1",
+			"chrPrfWeap_waneta_righttorso_gauss_bh1",
+			"chrPrfWeap_waneta_righttorso_srm6_mh1",
+			"chrPrfWeap_waneta_righttorso_lrm15_mh1"			
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_waneta_head_laser_eh1",
+			"chrPrfWeap_waneta_head_flamer_eh1",
+			"chrPrfWeap_waneta_head_mg_bh1",
+			"chrPrfWeap_waneta_head_ac20_bh1",
+			"chrPrfWeap_waneta_head_gauss_bh1",
+			"chrPrfWeap_waneta_head_srm6_mh1",
+			"chrPrfWeap_waneta_head_lrm15_mh1"			
+			]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_waneta_centertorso_laser_eh1",
+			"chrPrfWeap_waneta_centertorso_flamer_eh1",
+			"chrPrfWeap_waneta_centertorso_mg_bh1",
+			"chrPrfWeap_waneta_centertorso_ac20_bh1",
+			"chrPrfWeap_waneta_centertorso_gauss_bh1",
+			"chrPrfWeap_waneta_centertorso_srm6_mh1",
+			"chrPrfWeap_waneta_centertorso_lrm15_mh1"			
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+             
+            ]
+        }
+    ]
+}

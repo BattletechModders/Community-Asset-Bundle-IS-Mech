@@ -1,0 +1,167 @@
+{
+    "ID" : "hardpointdatadef_firebee",
+    "HardpointData" : [
+        {
+            "location" : "centertorso",
+            "weapons" : [
+				[
+					"chrprfweap_firebee_centertorso_laser_eh1",
+					"chrprfweap_firebee_centertorso_srm2_mh1",
+					"chrprfweap_firebee_centertorso_srm4_mh1"
+				],
+				[
+					"chrprfweap_firebee_centertorso_laser_eh2"
+				]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+				[
+					
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+					"chrprfweap_firebee_leftarm_srm2_mh1",
+					"chrprfweap_firebee_leftarm_lrm10_mh1",
+					"chrprfweap_firebee_leftarm_lrm5_mh1",
+					"chrprfweap_firebee_leftarm_narc_mh1",
+					"chrprfweap_firebee_leftarm_srm6_mh1"
+                ],
+                [
+					"chrprfweap_firebee_leftarm_srm2_mh2",
+					"chrprfweap_firebee_leftarm_lrm5_mh2"
+                ],
+                [
+					"chrprfweap_firebee_leftarm_srm2_mh3",
+					"chrprfweap_firebee_leftarm_lrm5_mh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrprfweap_firebee_lefttorso_laser_eh1",
+					"chrprfweap_firebee_lefttorso_srm2_mh1",
+					"chrprfweap_firebee_lefttorso_flamer_eh1",
+					"chrprfweap_firebee_lefttorso_lrm5_mh1",
+					"chrprfweap_firebee_lefttorso_ppc_eh1",
+					"chrprfweap_firebee_lefttorso_srm4_mh1"
+                ],
+                [
+					"chrprfweap_firebee_lefttorso_srm2_mh2",
+					"chrprfweap_firebee_lefttorso_srm4_mh2",
+					"chrprfweap_firebee_lefttorso_lrm5_mh2",
+					"chrprfweap_firebee_lefttorso_laser_eh2",
+					"chrprfweap_firebee_lefttorso_flamer_eh2",
+					"chrprfweap_firebee_lefttorso_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+					"chrprfweap_firebee_rightarm_laser_eh1",
+					"chrprfweap_firebee_rightarm_flamer_eh1",
+					"chrprfweap_firebee_rightarm_lrm5_mh1",
+					"chrprfweap_firebee_rightarm_ppc_eh1"
+                ],
+                [
+					"chrprfweap_firebee_rightarm_laser_eh2",
+					"chrprfweap_firebee_rightarm_ppc_eh2",
+					"chrprfweap_firebee_rightarm_flamer_eh2"
+                ],
+                [
+					"chrprfweap_firebee_rightarm_laser_eh3",
+					"chrprfweap_firebee_rightarm_flamer_eh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+					"chrprfweap_firebee_righttorso_laser_eh1",
+					"chrprfweap_firebee_righttorso_srm2_mh1",
+					"chrprfweap_firebee_righttorso_flamer_eh1",
+					"chrprfweap_firebee_righttorso_lrm5_mh1",
+					"chrprfweap_firebee_righttorso_ppc_eh1",
+					"chrprfweap_firebee_righttorso_srm4_mh1"
+                ],
+                [
+					"chrprfweap_firebee_righttorso_srm2_mh2",
+					"chrprfweap_firebee_righttorso_srm4_mh2",
+					"chrprfweap_firebee_righttorso_lrm5_mh2",
+					"chrprfweap_firebee_righttorso_laser_eh2",
+					"chrprfweap_firebee_righttorso_flamer_eh2",
+					"chrprfweap_firebee_righttorso_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

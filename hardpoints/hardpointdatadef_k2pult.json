@@ -1,0 +1,119 @@
+{
+    "ID" : "hardpointdatadef_k2pult",
+    "HardpointData" : [
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_k2pult_centertorso_flamer_eh1",
+                    "chrPrfWeap_k2pult_centertorso_laser_eh1",
+                    "chrPrfWeap_k2pult_centertorso_mg_bh1",
+                    "chrPrfWeap_k2pult_centertorso_srm6_mh1"				
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrPrfWeap_k2pult_head_flamer_eh1",
+                    "chrPrfWeap_k2pult_head_laser_eh1",
+                    "chrPrfWeap_k2pult_head_mg_bh1",
+                    "chrPrfWeap_k2pult_head_srm6_mh1"					
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_k2pult_leftarm_gauss_bh1",
+                    "chrPrfWeap_k2pult_leftarm_laser_eh1",
+                    "chrPrfWeap_k2pult_leftarm_ppc_eh1",
+                    "chrPrfWeap_k2pult_leftarm_ac20_bh1",
+                    "chrPrfWeap_k2pult_leftarm_srm20_mh1",
+                    "chrPrfWeap_k2pult_leftarm_mg_bh1",
+                    "chrPrfWeap_k2pult_leftarm_flamer_eh1"					
+                ]
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_k2pult_lefttorso_ac20_bh1",
+                    "chrPrfWeap_k2pult_lefttorso_gauss_bh1",
+                    "chrPrfWeap_k2pult_lefttorso_mg_bh1"
+                ],
+				[
+                    "chrPrfWeap_k2pult_lefttorso_flamer_eh1",
+                    "chrPrfWeap_k2pult_lefttorso_laser_eh1",
+                    "chrPrfWeap_k2pult_lefttorso_ppc_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_k2pult_rightarm_gauss_bh1",
+                    "chrPrfWeap_k2pult_rightarm_laser_eh1",
+                    "chrPrfWeap_k2pult_rightarm_ppc_eh1",
+                    "chrPrfWeap_k2pult_rightarm_ac20_bh1",
+                    "chrPrfWeap_k2pult_rightarm_srm20_mh1",
+                    "chrPrfWeap_k2pult_rightarm_mg_bh1",
+                    "chrPrfWeap_k2pult_rightarm_flamer_eh1"					
+                ]
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_k2pult_righttorso_ac20_bh1",
+                    "chrPrfWeap_k2pult_righttorso_gauss_bh1",
+                    "chrPrfWeap_k2pult_righttorso_mg_bh1"
+                ],
+				[
+                    "chrPrfWeap_k2pult_righttorso_flamer_eh1",
+                    "chrPrfWeap_k2pult_righttorso_laser_eh1",
+                    "chrPrfWeap_k2pult_righttorso_ppc_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

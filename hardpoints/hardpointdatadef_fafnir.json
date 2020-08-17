@@ -1,0 +1,97 @@
+{
+    "ID": "hardpointdatadef_fafnir",
+    "HardpointData": [
+        {
+            "location": "leftarm",
+            "weapons": [
+                [
+                    "chrprfweap_fafnir_leftarm_laser_eh1",
+                    "chrprfweap_fafnir_leftarm_ppc_eh1",
+                    "chrprfweap_fafnir_leftarm_ac10_bh1",
+                    "chrprfweap_fafnir_leftarm_gauss_bh1",
+                    "chrprfweap_fafnir_leftarm_lrm15_mh1",
+                    "chrprfweap_fafnir_leftarm_srm6_mh1"
+                ],
+                [
+                    "chrprfweap_fafnir_leftarm_laser_eh2",
+                    "chrprfweap_fafnir_leftarm_ppc_eh2",
+                    "chrprfweap_fafnir_leftarm_ac5_bh2",
+                    "chrprfweap_fafnir_leftarm_srm6_mh2"
+                ]
+            ],
+            "blanks": [],
+            "mountingPoints": []
+        },
+        {
+            "location": "lefttorso",
+            "weapons": [
+                [
+                    "chrprfweap_fafnir_lefttorso_gauss_bh1",
+                    "chrprfweap_fafnir_lefttorso_ac10_bh1",
+                    "chrprfweap_fafnir_lefttorso_laser_eh1",
+                    "chrprfweap_fafnir_lefttorso_ppc_eh1"
+                ],
+                [
+                    "chrprfweap_fafnir_lefttorso_laser_eh2",
+                    "chrprfweap_fafnir_lefttorso_ppc_eh2",
+                    "chrprfweap_fafnir_lefttorso_ac5_bh2"
+                ]
+            ],
+            "blanks": [],
+            "mountingPoints": []
+        },
+        {
+            "location": "rightarm",
+            "weapons": [
+                [
+                    "chrprfweap_fafnir_rightarm_laser_eh1",
+                    "chrprfweap_fafnir_rightarm_ppc_eh1",
+                    "chrprfweap_fafnir_rightarm_ac10_bh1",
+                    "chrprfweap_fafnir_rightarm_gauss_bh1",
+                    "chrprfweap_fafnir_rightarm_lrm15_mh1",
+                    "chrprfweap_fafnir_rightarm_srm6_mh1"
+                ],
+                [
+                    "chrprfweap_fafnir_rightarm_laser_eh2",
+                    "chrprfweap_fafnir_rightarm_ppc_eh2",
+                    "chrprfweap_fafnir_rightarm_ac5_bh2",
+                    "chrprfweap_fafnir_rightarm_srm6_mh2"
+                ]
+            ],
+            "blanks": [],
+            "mountingPoints": []
+        },
+        {
+            "location": "righttorso",
+            "weapons": [
+                [
+                    "chrprfweap_fafnir_righttorso_gauss_bh1",
+                    "chrprfweap_fafnir_righttorso_ac10_bh1",
+                    "chrprfweap_fafnir_righttorso_laser_eh1",
+                    "chrprfweap_fafnir_righttorso_ppc_eh1"
+                ],
+                [
+                    "chrprfweap_fafnir_righttorso_laser_eh2",
+                    "chrprfweap_fafnir_righttorso_ppc_eh2",
+                    "chrprfweap_fafnir_righttorso_ac5_bh2"
+                ]
+            ],
+            "blanks": [],
+            "mountingPoints": []
+        },
+        {
+            "location": "centertorso",
+            "weapons": [],
+            "blanks": [],
+            "mountingPoints": []
+        },
+        {
+            "location": "head",
+            "weapons": [
+                "chrprfweap_fafnir_head_laser_eh1"
+            ],
+            "blanks": [],
+            "mountingPoints": []
+        }
+    ]
+}

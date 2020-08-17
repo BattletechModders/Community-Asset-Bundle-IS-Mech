@@ -1,0 +1,66 @@
+{
+    "ID" : "hardpointdatadef_bruin",
+	
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_bruin_lefttorso_laser_eh1",
+			"chrPrfWeap_bruin_lefttorso_ac5_bh1",
+			"chrPrfWeap_bruin_lefttorso_lrm5_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_bruin_lefttorso_laser_eh1",
+			"chrPrfWeap_bruin_lefttorso_ac5_bh1",
+			"chrPrfWeap_bruin_lefttorso_lrm5_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_bruin_lefttorso_laser_eh1",
+			"chrPrfWeap_bruin_lefttorso_ac5_bh1",
+			"chrPrfWeap_bruin_lefttorso_lrm5_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		        {
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_bruin_lefttorso_laser_eh1",
+			"chrPrfWeap_bruin_lefttorso_ac5_bh1",
+			"chrPrfWeap_bruin_lefttorso_lrm5_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_bruin_lefttorso_laser_eh1",
+			"chrPrfWeap_bruin_lefttorso_ac5_bh1",
+			"chrPrfWeap_bruin_lefttorso_lrm5_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        }
+    ]
+}

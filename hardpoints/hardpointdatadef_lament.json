@@ -1,0 +1,139 @@
+{
+    "ID" : "hardpointdatadef_lament",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_lament_leftarm_laser_eh1",
+			"chrprfweap_lament_leftarm_ppc_eh1",
+			"chrprfweap_lament_leftarm_flamer_eh1",
+			"chrprfweap_lament_leftarm_mg_bh1",
+			"chrprfweap_lament_leftarm_gauss_bh1",
+			"chrprfweap_lament_leftarm_ac10_bh1",
+			"chrprfweap_lament_leftarm_ac20_bh1"
+			],
+			[
+			"chrprfweap_lament_leftarm_laser_eh2",
+			"chrprfweap_lament_leftarm_ppc_eh2",
+			"chrprfweap_lament_leftarm_flamer_eh2"	
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_lament_lefttorso_srm6_mh1",
+			"chrprfweap_lament_lefttorso_ppc_eh1",
+			"chrprfweap_lament_lefttorso_lrm10_mh1",
+			"chrprfweap_lament_lefttorso_lrm20_mh1",
+			"chrprfweap_lament_lefttorso_laser_eh1",
+			"chrprfweap_lament_lefttorso_flamer_eh1"
+			],
+			[
+			"chrprfweap_lament_lefttorso_ppc_eh2",
+			"chrprfweap_lament_lefttorso_laser_eh2",
+			"chrprfweap_lament_lefttorso_flamer_eh2"		
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_lament_rightarm_laser_eh1",
+			"chrprfweap_lament_rightarm_ppc_eh1",
+			"chrprfweap_lament_rightarm_flamer_eh1",
+			"chrprfweap_lament_rightarm_mg_bh1",
+			"chrprfweap_lament_rightarm_gauss_bh1",
+			"chrprfweap_lament_rightarm_ac10_bh1",
+			"chrprfweap_lament_rightarm_ac20_bh1"
+			],
+			[
+			"chrprfweap_lament_rightarm_laser_eh2",
+			"chrprfweap_lament_rightarm_ppc_eh2",
+			"chrprfweap_lament_rightarm_flamer_eh2"	
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_lament_righttorso_srm6_mh1",
+			"chrprfweap_lament_righttorso_ppc_eh1",
+			"chrprfweap_lament_righttorso_lrm10_mh1",
+			"chrprfweap_lament_righttorso_lrm20_mh1",
+			"chrprfweap_lament_righttorso_laser_eh1",
+			"chrprfweap_lament_righttorso_flamer_eh1"
+			],
+			[
+			"chrprfweap_lament_righttorso_ppc_eh2",
+			"chrprfweap_lament_righttorso_laser_eh2",
+			"chrprfweap_lament_righttorso_flamer_eh2"		
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrprfweap_lament_head_laser_eh1",
+			"chrprfweap_lament_head_flamer_eh1",
+			"chrprfweap_lament_head_srm6_mh1",
+			"chrprfweap_lament_head_mg_bh1"			
+			]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_lament_centertorso_laser_eh1",
+			"chrprfweap_lament_centertorso_srm6_mh1",
+			"chrprfweap_lament_centertorso_mg_bh1",
+			"chrprfweap_lament_centertorso_lrm10_mh1",
+			"chrprfweap_lament_centertorso_ac10_bh1"		
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

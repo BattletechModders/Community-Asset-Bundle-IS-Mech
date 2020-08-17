@@ -1,0 +1,130 @@
+{
+    "ID" : "hardpointdatadef_blitzkrieg",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+					"chrPrfWeap_blitzkrieg_leftarm_laser_eh1",
+					"chrPrfWeap_blitzkrieg_leftarm_flamer_eh1",
+					"chrPrfWeap_blitzkrieg_leftarm_ppc_eh1",
+					"chrPrfWeap_blitzkrieg_leftarm_mg_bh1",
+					"chrPrfWeap_blitzkrieg_leftarm_ac20_bh1",
+					"chrPrfWeap_blitzkrieg_leftarm_gauss_bh1",
+					"chrPrfWeap_blitzkrieg_leftarm_srm6_mh1",
+					"chrPrfWeap_blitzkrieg_leftarm_srm20_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrPrfWeap_blitzkrieg_lefttorso_laser_eh1",
+					"chrPrfWeap_blitzkrieg_lefttorso_flamer_eh1",
+					"chrPrfWeap_blitzkrieg_lefttorso_ppc_eh1",
+					"chrPrfWeap_blitzkrieg_lefttorso_mg_bh1",
+					"chrPrfWeap_blitzkrieg_lefttorso_ac20_bh1",
+					"chrPrfWeap_blitzkrieg_lefttorso_gauss_bh1",
+					"chrPrfWeap_blitzkrieg_lefttorso_srm6_mh1",
+					"chrPrfWeap_blitzkrieg_lefttorso_srm20_mh1"
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+					"chrPrfWeap_blitzkrieg_rightarm_laser_eh1",
+					"chrPrfWeap_blitzkrieg_rightarm_flamer_eh1",
+					"chrPrfWeap_blitzkrieg_rightarm_ppc_eh1",
+					"chrPrfWeap_blitzkrieg_rightarm_mg_bh1",
+					"chrPrfWeap_blitzkrieg_rightarm_ac20_bh1",
+					"chrPrfWeap_blitzkrieg_rightarm_gauss_bh1",
+					"chrPrfWeap_blitzkrieg_rightarm_srm6_mh1",
+					"chrPrfWeap_blitzkrieg_rightarm_srm20_mh1"
+                ]				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+					"chrPrfWeap_blitzkrieg_righttorso_laser_eh1",
+					"chrPrfWeap_blitzkrieg_righttorso_flamer_eh1",
+					"chrPrfWeap_blitzkrieg_righttorso_ppc_eh1",
+					"chrPrfWeap_blitzkrieg_righttorso_mg_bh1",
+					"chrPrfWeap_blitzkrieg_righttorso_ac20_bh1",
+					"chrPrfWeap_blitzkrieg_righttorso_gauss_bh1",
+					"chrPrfWeap_blitzkrieg_righttorso_srm6_mh1",
+					"chrPrfWeap_blitzkrieg_righttorso_srm20_mh1"
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+					"chrPrfWeap_blitzkrieg_centertorso_laser_eh1",
+					"chrPrfWeap_blitzkrieg_centertorso_flamer_eh1",
+					"chrPrfWeap_blitzkrieg_centertorso_ppc_eh1",
+					"chrPrfWeap_blitzkrieg_centertorso_mg_bh1",
+					"chrPrfWeap_blitzkrieg_centertorso_ac20_bh1",
+					"chrPrfWeap_blitzkrieg_centertorso_gauss_bh1",
+					"chrPrfWeap_blitzkrieg_centertorso_srm6_mh1",
+					"chrPrfWeap_blitzkrieg_centertorso_srm20_mh1"
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+					"chrPrfWeap_blitzkrieg_head_laser_eh1",
+					"chrPrfWeap_blitzkrieg_head_flamer_eh1",
+					"chrPrfWeap_blitzkrieg_head_ppc_eh1",
+					"chrPrfWeap_blitzkrieg_head_mg_bh1",
+					"chrPrfWeap_blitzkrieg_head_ac20_bh1",
+					"chrPrfWeap_blitzkrieg_head_srm6_mh1",
+					"chrPrfWeap_blitzkrieg_head_srm20_mh1"
+                ]				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }		
+    ]
+}

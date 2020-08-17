@@ -1,0 +1,148 @@
+{
+    "ID" : "hardpointdatadef_anubis",
+    "HardpointData" : [
+        {
+            "location" : "head",
+            "weapons" : [
+				[
+                    "chrPrfWeap_anubis_head_srm2_mh1",
+					"chrPrfWeap_anubis_head_laser_eh1",
+                    "chrPrfWeap_anubis_head_mg_bh1"
+                ]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+				[
+                    "chrPrfWeap_anubis_centertorso_srm2_mh1",
+					"chrPrfWeap_anubis_centertorso_flamer_eh1",
+                    "chrPrfWeap_anubis_centertorso_mg_bh1"
+                ],
+				[
+                    "chrPrfWeap_anubis_centertorso_srm2_mh2",
+					"chrPrfWeap_anubis_centertorso_flamer_eh2",
+                    "chrPrfWeap_anubis_centertorso_mg_bh2"
+                ]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_anubis_leftarm_flamer_eh1",
+					"chrPrfWeap_anubis_leftarm_laser_eh1",
+					"chrPrfWeap_anubis_leftarm_ppc_eh1",
+				    "chrPrfWeap_anubis_leftarm_srm4_mh1",
+					"chrPrfWeap_anubis_leftarm_mg_bh1"
+				],
+                [
+                    "chrPrfWeap_anubis_leftarm_flamer_eh2",
+                    "chrPrfWeap_anubis_leftarm_laser_eh2",
+                    "chrPrfWeap_anubis_leftarm_ppc_eh2",
+					"chrPrfWeap_anubis_leftarm_srm4_mh2",
+					"chrPrfWeap_anubis_leftarm_mg_bh2"
+				]
+				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+				[
+                    "chrPrfWeap_anubis_lefttorso_flamer_eh1",
+					"chrPrfWeap_anubis_lefttorso_laser_eh1",
+					"chrPrfWeap_anubis_lefttorso_ppc_eh1",
+				    "chrPrfWeap_anubis_lefttorso_mg_bh1",
+					"chrPrfWeap_anubis_lefttorso_srm6_mh1",
+					"chrPrfWeap_anubis_lefttorso_lrm5_mh1"
+				],
+                [
+                    "chrPrfWeap_anubis_lefttorso_flamer_eh2",
+                    "chrPrfWeap_anubis_lefttorso_laser_eh2",
+                    "chrPrfWeap_anubis_lefttorso_ppc_eh2",
+				    "chrPrfWeap_anubis_lefttorso_mg_bh2",
+					"chrPrfWeap_anubis_lefttorso_srm6_mh2",
+					"chrPrfWeap_anubis_lefttorso_lrm5_mh2"
+                ]
+				
+			],
+            "blanks" : [
+			
+			],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_anubis_rightarm_flamer_eh1",
+					"chrPrfWeap_anubis_rightarm_laser_eh1",
+					"chrPrfWeap_anubis_rightarm_ppc_eh1",
+				    "chrPrfWeap_anubis_rightarm_srm4_mh1",
+					"chrPrfWeap_anubis_rightarm_mg_bh1"
+				],
+                [
+                    "chrPrfWeap_anubis_rightarm_flamer_eh2",
+                    "chrPrfWeap_anubis_rightarm_laser_eh2",
+                    "chrPrfWeap_anubis_rightarm_ppc_eh2",
+					"chrPrfWeap_anubis_rightarm_srm4_mh2",
+					"chrPrfWeap_anubis_rightarm_mg_bh2"
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+				[
+                    "chrPrfWeap_anubis_righttorso_flamer_eh1",
+					"chrPrfWeap_anubis_righttorso_laser_eh1",
+					"chrPrfWeap_anubis_righttorso_ppc_eh1",
+				    "chrPrfWeap_anubis_righttorso_mg_bh1",
+					"chrPrfWeap_anubis_righttorso_srm6_mh1",
+					"chrPrfWeap_anubis_righttorso_lrm5_mh1"
+				],
+                [
+                    "chrPrfWeap_anubis_righttorso_flamer_eh2",
+                    "chrPrfWeap_anubis_righttorso_laser_eh2",
+                    "chrPrfWeap_anubis_righttorso_ppc_eh2",
+				    "chrPrfWeap_anubis_righttorso_mg_bh2",
+					"chrPrfWeap_anubis_righttorso_srm6_mh2",
+					"chrPrfWeap_anubis_righttorso_lrm5_mh2"
+                ]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "ID" : "hardpointdatadef_ostwar",
+    "HardpointData" : [
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostwar_head_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_head_mg_bh1"
+                ]				
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+            ]
+        },
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostwar_centertorso_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_centertorso_mg_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_centertorso_srm6_mh1"
+                ]			
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+            ]
+        },		
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostwar_leftarm_srm6_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_leftarm_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_leftarm_ac10_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_leftarm_mg_bh1"
+                ]				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostwar_lefttorso_ppc_eh1"
+				],
+				[
+                    "chrPrfWeap_ostwar_lefttorso_laser_eh1"
+				],
+				[
+                    "chrPrfWeap_ostwar_lefttorso_laser_eh2"
+                ],
+				[
+                    "chrPrfWeap_ostwar_lefttorso_lrm15_mh1"
+                ],
+				[
+                    "chrPrfWeap_ostwar_lefttorso_mg_bh1"
+                ],
+				[
+                    "chrPrfWeap_ostwar_lefttorso_ac10_bh1"
+                ]			
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostwar_rightarm_srm6_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_rightarm_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_rightarm_ac10_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostwar_rightarm_mg_bh1"
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostwar_righttorso_ppc_eh1"
+				],
+				[
+                    "chrPrfWeap_ostwar_righttorso_laser_eh1"
+				],
+				[
+                    "chrPrfWeap_ostwar_righttorso_laser_eh2"
+                ],
+				[
+                    "chrPrfWeap_ostwar_righttorso_lrm15_mh1"
+                ],
+				[
+                    "chrPrfWeap_ostwar_righttorso_mg_bh1"
+                ],
+				[
+                    "chrPrfWeap_ostwar_righttorso_ac10_bh1"
+                ]				
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

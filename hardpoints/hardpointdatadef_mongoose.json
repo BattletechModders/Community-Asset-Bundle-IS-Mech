@@ -1,0 +1,133 @@
+{
+    "ID" : "hardpointdatadef_mongoose",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_mongoose_leftarm_laser_eh1",
+			"chrPrfWeap_mongoose_leftarm_ac20_bh1",
+			"chrPrfWeap_mongoose_leftarm_flamer_eh1",
+			"chrPrfWeap_mongoose_leftarm_ppc_eh1",
+			"chrPrfWeap_mongoose_leftarm_mg_bh1",
+			"chrPrfWeap_mongoose_leftarm_gauss_bh1"
+			],
+			[
+			"chrPrfWeap_mongoose_leftarm_laser_eh2",
+			"chrPrfWeap_mongoose_leftarm_flamer_eh2",
+			"chrPrfWeap_mongoose_leftarm_ppc_eh2"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mongoose_lefttorso_laser_eh1",
+			"chrPrfWeap_mongoose_lefttorso_flamer_eh1",
+			"chrPrfWeap_mongoose_lefttorso_ppc_eh1",
+			"chrPrfWeap_mongoose_lefttorso_mg_bh1",
+			"chrPrfWeap_mongoose_lefttorso_ac20_bh1",
+			"chrPrfWeap_mongoose_lefttorso_gauss_bh1",
+			"chrPrfWeap_mongoose_lefttorso_lrm5_mh1",
+			"chrPrfWeap_mongoose_lefttorso_srm6_mh1",
+			"chrPrfWeap_mongoose_lefttorso_lrm10_mh1",
+			"chrPrfWeap_mongoose_lefttorso_srm4_mh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_mongoose_rightarm_laser_eh1",
+			"chrPrfWeap_mongoose_rightarm_ac20_bh1",
+			"chrPrfWeap_mongoose_rightarm_flamer_eh1",
+			"chrPrfWeap_mongoose_rightarm_ppc_eh1",
+			"chrPrfWeap_mongoose_rightarm_mg_bh1",
+			"chrPrfWeap_mongoose_rightarm_gauss_bh1"
+			],
+			[
+			"chrPrfWeap_mongoose_rightarm_laser_eh2",
+			"chrPrfWeap_mongoose_rightarm_flamer_eh2",
+			"chrPrfWeap_mongoose_rightarm_ppc_eh2"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mongoose_righttorso_laser_eh1",
+			"chrPrfWeap_mongoose_righttorso_flamer_eh1",
+			"chrPrfWeap_mongoose_righttorso_ppc_eh1",
+			"chrPrfWeap_mongoose_righttorso_mg_bh1",
+			"chrPrfWeap_mongoose_righttorso_ac20_bh1",
+			"chrPrfWeap_mongoose_righttorso_gauss_bh1",
+			"chrPrfWeap_mongoose_righttorso_lrm5_mh1",
+			"chrPrfWeap_mongoose_righttorso_srm6_mh1",
+			"chrPrfWeap_mongoose_righttorso_lrm10_mh1",
+			"chrPrfWeap_mongoose_righttorso_srm4_mh1"
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_mongoose_head_laser_eh1",
+			"chrPrfWeap_mongoose_head_flamer_eh1",
+			"chrPrfWeap_mongoose_head_mg_bh1"
+			]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mongoose_centertorso_flamer_eh1",
+			"chrPrfWeap_mongoose_centertorso_ppc_eh1",
+			"chrPrfWeap_mongoose_centertorso_laser_eh1",
+			"chrPrfWeap_mongoose_centertorso_mg_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

@@ -1,0 +1,124 @@
+{
+    "ID" : "hardpointdatadef_urbanmech50",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_urbanmech50_leftarm_flamer_eh1",
+                    "chrPrfWeap_urbanmech50_leftarm_laser_eh1",
+                    "chrPrfWeap_urbanmech50_leftarm_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_urbanmech50_leftarm_flamer_eh2",
+                    "chrPrfWeap_urbanmech50_leftarm_laser_eh2",
+                    "chrPrfWeap_urbanmech50_leftarm_ppc_eh2"
+                ],
+                [
+                    "chrPrfWeap_urbanmech50_leftarm_flamer_eh3",
+                    "chrPrfWeap_urbanmech50_leftarm_laser_eh3",
+                    "chrPrfWeap_urbanmech50_leftarm_ppc_eh3"
+                ],
+                [
+                    "chrPrfWeap_urbanmech50_leftarm_flamer_eh4",
+                    "chrPrfWeap_urbanmech50_leftarm_laser_eh4"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_urbanmech50_lefttorso_flamer_eh1",
+                    "chrPrfWeap_urbanmech50_lefttorso_laser_eh1",
+                    "chrPrfWeap_urbanmech50_lefttorso_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_urbanmech50_lefttorso_flamer_eh2",
+                    "chrPrfWeap_urbanmech50_lefttorso_laser_eh2",
+                    "chrPrfWeap_urbanmech50_lefttorso_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_urbanmech50_rightarm_ac10_bh1",
+                    "chrPrfWeap_urbanmech50_rightarm_ac20_bh1",
+                    "chrPrfWeap_urbanmech50_rightarm_ac2_bh1",
+                    "chrPrfWeap_urbanmech50_rightarm_ac5_bh1",
+                    "chrPrfWeap_urbanmech50_rightarm_gauss_bh1",
+                    "chrPrfWeap_urbanmech50_rightarm_lbx_bh1",
+                    "chrPrfWeap_urbanmech50_rightarm_mg_bh1",
+                    "chrPrfWeap_urbanmech50_rightarm_uac5_bh1"
+                ],
+                [
+                    "chrPrfWeap_urbanmech50_rightarm_ac2_bh2",
+                    "chrPrfWeap_urbanmech50_rightarm_ac5_bh2",
+                    "chrPrfWeap_urbanmech50_rightarm_mg_bh2",
+                    "chrPrfWeap_urbanmech50_rightarm_uac5_bh2"
+                ],
+                [
+                    "chrPrfWeap_urbanmech50_rightarm_ac2_bh3",
+                    "chrPrfWeap_urbanmech50_rightarm_ac5_bh3",
+                    "chrPrfWeap_urbanmech50_rightarm_mg_bh3"
+                ],
+                [
+                    "chrPrfWeap_urbanmech50_rightarm_ac2_bh4",
+                    "chrPrfWeap_urbanmech50_rightarm_ac5_bh4",
+                    "chrPrfWeap_urbanmech50_rightarm_mg_bh4"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_firestarter_righttorso_ac10_bh1",
+                    "chrPrfWeap_firestarter_righttorso_ac20_bh1",
+                    "chrPrfWeap_firestarter_righttorso_ac2_bh1",
+                    "chrPrfWeap_firestarter_righttorso_ac5_bh1",
+                    "chrPrfWeap_firestarter_righttorso_flamer_eh1",
+                    "chrPrfWeap_firestarter_righttorso_gauss_bh1",
+                    "chrPrfWeap_firestarter_righttorso_laser_eh1",
+                    "chrPrfWeap_firestarter_righttorso_lbx_bh1",
+                    "chrPrfWeap_firestarter_righttorso_mg_bh1",
+                    "chrPrfWeap_firestarter_righttorso_ppc_eh1",
+                    "chrPrfWeap_firestarter_righttorso_uac5_bh1"
+                ],
+                [
+                    "chrPrfWeap_firestarter_righttorso_ac2_bh2",
+                    "chrPrfWeap_firestarter_righttorso_ac5_bh2",
+                    "chrPrfWeap_firestarter_righttorso_lbx_bh2",
+                    "chrPrfWeap_firestarter_righttorso_mg_bh2",
+                    "chrPrfWeap_firestarter_righttorso_uac5_bh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

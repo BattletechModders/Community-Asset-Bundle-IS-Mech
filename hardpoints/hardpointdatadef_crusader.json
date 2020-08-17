@@ -1,0 +1,117 @@
+{
+    "ID" : "hardpointdatadef_crusader",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrprfweap_crusader_leftarm_flamer_eh1",
+                    "chrprfweap_crusader_leftarm_laser_eh1",
+                    "chrprfweap_crusader_leftarm_ppc_eh1"
+                ],
+                [
+                    "chrprfweap_crusader_leftarm_flamer_eh2",
+                    "chrprfweap_crusader_leftarm_laser_eh2",
+                    "chrprfweap_crusader_leftarm_mg_bh2",
+                    "chrprfweap_crusader_leftarm_ppc_eh2"
+                ],
+                [
+                    "chrprfweap_crusader_leftarm_lrm15_mh1",
+                    "chrprfweap_crusader_leftarm_srm6_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftleg",
+            "weapons" : [
+                [
+                    "chrprfweap_crusader_leftleg_srm6_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrprfweap_crusader_rightarm_flamer_eh1",
+                    "chrprfweap_crusader_rightarm_laser_eh1",
+                    "chrprfweap_crusader_rightarm_ppc_eh1"
+                ],
+                [
+                    "chrprfweap_crusader_rightarm_flamer_eh2",
+                    "chrprfweap_crusader_rightarm_laser_eh2",
+                    "chrprfweap_crusader_rightarm_mg_bh2",
+                    "chrprfweap_crusader_rightarm_ppc_eh2"
+                ],
+                [
+                    "chrprfweap_crusader_rightarm_lrm15_mh1",
+                    "chrprfweap_crusader_rightarm_srm6_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightleg",
+            "weapons" : [
+                [
+                    "chrprfweap_crusader_rightleg_srm6_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrprfweap_crusader_righttorso_laser_eh1",
+                    "chrprfweap_crusader_righttorso_ppc_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrprfweap_crusader_centertorso_laser_eh1"
+                ],
+				[
+				"chrprfweap_crusader_centertorso_laser_eh2"
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

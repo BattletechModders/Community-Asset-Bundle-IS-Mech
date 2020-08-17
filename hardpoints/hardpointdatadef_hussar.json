@@ -1,0 +1,131 @@
+{
+    "ID" : "hardpointdatadef_hussar",
+    "HardpointData" : [
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_hussar_centertorso_laser_eh1",
+					"chrPrfWeap_hussar_centertorso_flamer_eh1",
+					"chrPrfWeap_hussar_centertorso_ppc_eh1",
+					"chrPrfWeap_hussar_centertorso_mg_bh1",
+					"chrPrfWeap_hussar_centertorso_ac10_bh1",
+					"chrPrfWeap_hussar_centertorso_gauss_bh1",
+					"chrPrfWeap_hussar_centertorso_srm6_mh1",
+					"chrPrfWeap_hussar_centertorso_lrm10_mh1"				
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_hussar_leftarm_laser_eh1",
+					"chrPrfWeap_hussar_leftarm_flamer_eh1",
+					"chrPrfWeap_hussar_leftarm_ppc_eh1",
+					"chrPrfWeap_hussar_leftarm_mg_bh1",
+					"chrPrfWeap_hussar_leftarm_ac10_bh1",
+					"chrPrfWeap_hussar_leftarm_gauss_bh1",
+					"chrPrfWeap_hussar_leftarm_srm6_mh1",
+					"chrPrfWeap_hussar_leftarm_lrm10_mh1"				
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_hussar_lefttorso_laser_eh1",
+					"chrPrfWeap_hussar_lefttorso_flamer_eh1",
+					"chrPrfWeap_hussar_lefttorso_ppc_eh1",
+					"chrPrfWeap_hussar_lefttorso_mg_bh1",
+					"chrPrfWeap_hussar_lefttorso_ac10_bh1",
+					"chrPrfWeap_hussar_lefttorso_gauss_bh1",
+					"chrPrfWeap_hussar_lefttorso_srm6_mh1",
+					"chrPrfWeap_hussar_lefttorso_lrm10_mh1"				
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_hussar_rightarm_laser_eh1",
+					"chrPrfWeap_hussar_rightarm_flamer_eh1",
+					"chrPrfWeap_hussar_rightarm_ppc_eh1",
+					"chrPrfWeap_hussar_rightarm_mg_bh1",
+					"chrPrfWeap_hussar_rightarm_ac10_bh1",
+					"chrPrfWeap_hussar_rightarm_gauss_bh1",
+					"chrPrfWeap_hussar_rightarm_srm6_mh1",
+					"chrPrfWeap_hussar_rightarm_lrm10_mh1"				
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_hussar_righttorso_laser_eh1",
+					"chrPrfWeap_hussar_righttorso_flamer_eh1",
+					"chrPrfWeap_hussar_righttorso_ppc_eh1",
+					"chrPrfWeap_hussar_righttorso_mg_bh1",
+					"chrPrfWeap_hussar_righttorso_ac10_bh1",
+					"chrPrfWeap_hussar_righttorso_gauss_bh1",
+					"chrPrfWeap_hussar_righttorso_srm6_mh1",
+					"chrPrfWeap_hussar_righttorso_lrm10_mh1"				
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrPrfWeap_hussar_head_laser_eh1",
+					"chrPrfWeap_hussar_head_flamer_eh1",
+					"chrPrfWeap_hussar_head_ppc_eh1",
+					"chrPrfWeap_hussar_head_mg_bh1",
+					"chrPrfWeap_hussar_head_ac10_bh1",
+					"chrPrfWeap_hussar_head_gauss_bh1",
+					"chrPrfWeap_hussar_head_srm6_mh1",
+					"chrPrfWeap_hussar_head_lrm10_mh1"				
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

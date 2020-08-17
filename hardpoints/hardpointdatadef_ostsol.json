@@ -1,0 +1,163 @@
+{
+    "ID" : "hardpointdatadef_ostsol",
+    "HardpointData" : [
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostsol_head_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_head_mg_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_head_srm4_mh1"
+                ]				
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+            ]
+        },
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostsol_centertorso_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_centertorso_laser_eh2"
+                ],
+                [
+                    "chrPrfWeap_ostsol_centertorso_mg_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_centertorso_srm4_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_centertorso_srm4_mh2"
+                ]				
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+            ]
+        },		
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostsol_leftarm_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_leftarm_ac10_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_leftarm_mg_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_leftarm_srm4_mh1"
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostsol_lefttorso_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_lefttorso_laser_eh2"
+                ],
+                [
+                    "chrPrfWeap_ostsol_lefttorso_laser_eh3"
+                ],
+                [
+                    "chrPrfWeap_ostsol_lefttorso_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_lefttorso_gauss_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_lefttorso_ac5_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_lefttorso_ac10_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_lefttorso_srm6_mh1"
+                ]			
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                    "chrPrfWeap_ostsol_lefttorso_mount_bh1",
+                    "chrPrfWeap_ostsol_lefttorso_mount_eh1"					
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostsol_rightarm_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_rightarm_ac10_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_rightarm_mg_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_rightarm_srm4_mh1"
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostsol_righttorso_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_righttorso_laser_eh2"
+                ],
+                [
+                    "chrPrfWeap_ostsol_righttorso_laser_eh3"
+                ],
+                [
+                    "chrPrfWeap_ostsol_righttorso_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_righttorso_gauss_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_righttorso_ac5_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_righttorso_ac10_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostsol_righttorso_srm6_mh1"
+                ]				
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                     "chrPrfWeap_ostsol_righttorso_mount_bh1",
+                    "chrPrfWeap_ostsol_righttorso_mount_eh1"				
+            ]
+        }
+    ]
+}

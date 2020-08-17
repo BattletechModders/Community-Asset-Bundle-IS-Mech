@@ -1,0 +1,156 @@
+{
+    "ID" : "hardpointdatadef_imp",
+    "HardpointData" : [
+		{
+            "location" : "leftarm",
+            "weapons" : [
+                [
+					"chrprfweap_imp_leftarm_ac20_bh1",
+					"chrprfweap_imp_leftarm_ac10_bh1",
+					"chrprfweap_imp_leftarm_gauss_bh1",
+					"chrprfweap_imp_leftarm_laser_eh1",
+					"chrprfweap_imp_leftarm_mg_ah1",
+					"chrprfweap_imp_leftarm_ppc_eh1"
+                ],
+                [
+					"chrprfweap_imp_leftarm_laser_eh2",
+					"chrprfweap_imp_leftarm_ppc_eh2"
+                ],
+                [
+					"chrprfweap_imp_leftarm_laser_eh3",
+					"chrprfweap_imp_leftarm_ppc_eh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrprfweap_imp_lefttorso_ac20_bh1",
+					"chrprfweap_imp_lefttorso_mortar_bh1",
+					"chrprfweap_imp_lefttorso_gauss_bh1",
+					"chrprfweap_imp_lefttorso_laser_eh1",
+					"chrprfweap_imp_lefttorso_lrm10_mh1",
+					"chrprfweap_imp_lefttorso_arrow_mh1",
+					"chrprfweap_imp_lefttorso_lrm20_mh1",
+					"chrprfweap_imp_lefttorso_lrm5_mh1",
+					"chrprfweap_imp_lefttorso_mg_bh1",
+					"chrprfweap_imp_lefttorso_artillery_bh1",
+					"chrprfweap_imp_lefttorso_ppc_eh1",
+					"chrprfweap_imp_lefttorso_srm6_mh1"
+                ],
+                [
+					"chrprfweap_imp_lefttorso_ppc_eh2",
+					"chrprfweap_imp_lefttorso_laser_eh2"
+                ],
+                [
+					"chrprfweap_imp_lefttorso_ppc_eh3",
+					"chrprfweap_imp_lefttorso_laser_eh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+					"chrprfweap_imp_righttorso_ac20_bh1",
+					"chrprfweap_imp_righttorso_mortar_bh1",
+					"chrprfweap_imp_righttorso_gauss_bh1",
+					"chrprfweap_imp_righttorso_laser_eh1",
+					"chrprfweap_imp_righttorso_lrm10_mh1",
+					"chrprfweap_imp_righttorso_arrow_mh1",
+					"chrprfweap_imp_righttorso_lrm20_mh1",
+					"chrprfweap_imp_righttorso_lrm5_mh1",
+					"chrprfweap_imp_righttorso_mg_bh1",
+					"chrprfweap_imp_righttorso_artillery_bh1",
+					"chrprfweap_imp_righttorso_ppc_eh1",
+					"chrprfweap_imp_righttorso_srm6_mh1"
+                ],
+                [
+					"chrprfweap_imp_righttorso_ppc_eh2",
+					"chrprfweap_imp_righttorso_laser_eh2"
+                ],
+                [
+					"chrprfweap_imp_righttorso_ppc_eh3",
+					"chrprfweap_imp_righttorso_laser_eh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+					"chrprfweap_imp_rightarm_ac20_bh1",
+					"chrprfweap_imp_rightarm_gauss_bh1",
+					"chrprfweap_imp_rightarm_laser_eh1",
+					"chrprfweap_imp_rightarm_mg_bh1",
+					"chrprfweap_imp_rightarm_arrow_mh1",
+					"chrprfweap_imp_rightarm_ppc_eh1",
+					"chrprfweap_imp_rightarm_uac5_bh1",
+					"chrprfweap_imp_rightarm_lrm20_mh1",
+					"chrprfweap_imp_rightarm_lrm10_mh1"
+                ],
+                [
+					"chrprfweap_imp_rightarm_lrm20_mh2",
+					"chrprfweap_imp_rightarm_lrm10_mh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrprfweap_imp_head_laser_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrprfweap_imp_centertorso_laser_eh1"
+                ],
+				[
+                    "chrprfweap_imp_centertorso_laser_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+		
+    ]
+}

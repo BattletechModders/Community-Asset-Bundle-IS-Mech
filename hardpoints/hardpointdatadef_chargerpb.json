@@ -1,0 +1,47 @@
+{
+    "ID" : "hardpointdatadef_chargerpb",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+		    "chrprfweap_chargerpb_leftarm_flamer_eh1",
+		    "chrprfweap_chargerpb_leftarm_laser_eh1",
+		    "chrprfweap_chargerpb_leftarm_ppc_eh1"
+                ],
+		[
+		    "chrprfweap_chargerpb_leftarm_flamer_eh2",
+		    "chrprfweap_chargerpb_leftarm_laser_eh2",
+		    "chrprfweap_chargerpb_leftarm_ppc_eh2"
+		]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+		    "chrprfweap_chargerpb_rightarm_flamer_eh1",
+		    "chrprfweap_chargerpb_rightarm_laser_eh1",
+		    "chrprfweap_chargerpb_rightarm_ppc_eh1"
+                ],
+		[
+		    "chrprfweap_chargerpb_rightarm_flamer_eh2",
+		    "chrprfweap_chargerpb_rightarm_laser_eh2",
+		    "chrprfweap_chargerpb_rightarm_ppc_eh2"
+		]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

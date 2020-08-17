@@ -1,0 +1,96 @@
+{
+    "ID" : "hardpointdatadef_toro",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_toro_leftarm_ac20_bh1",
+			"chrPrfWeap_toro_leftarm_gauss_bh1",
+			"chrPrfWeap_toro_leftarm_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_toro_leftarm_laser_eh1"
+			],
+			[
+			"chrPrfWeap_toro_leftarm_mg_bh1"
+			],
+			[
+			"chrPrfWeap_toro_leftarm_flamer_eh1"
+			]
+            ],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_toro_lefttorso_gauss_bh1",
+			"chrPrfWeap_toro_lefttorso_ac20_bh1"
+			],
+			[
+			"chrPrfWeap_toro_lefttorso_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_toro_lefttorso_lrm5_mh1",
+			"chrPrfWeap_toro_lefttorso_srm4_mh1"
+			],
+			[
+			"chrPrfWeap_toro_lefttorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_toro_lefttorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_toro_lefttorso_flamer_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_toro_righttorso_gauss_bh1",
+			"chrPrfWeap_toro_righttorso_ac20_bh1"
+			],
+			[
+			"chrPrfWeap_toro_righttorso_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_toro_righttorso_lrm5_mh1",
+			"chrPrfWeap_toro_righttorso_srm4_mh1"
+			],
+			[
+			"chrPrfWeap_toro_righttorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_toro_righttorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_toro_righttorso_flamer_eh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_toro_centertorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_toro_centertorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_toro_centertorso_flamer_eh1"
+			]		
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        }
+    ]
+}

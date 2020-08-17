@@ -1,0 +1,148 @@
+{
+    "ID" : "hardpointdatadef_nightstar",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+					"chrprfweap_nightstar_leftarm_laser_eh1",
+					"chrprfweap_nightstar_leftarm_flamer_eh1",
+					"chrprfweap_nightstar_leftarm_ppc_eh1",
+					"chrprfweap_nightstar_leftarm_mg_bh1",
+					"chrprfweap_nightstar_leftarm_ac10_bh1",
+					"chrprfweap_nightstar_leftarm_gauss_bh1",
+					"chrprfweap_nightstar_leftarm_srm6_mh1"					
+				],
+				[
+					"chrprfweap_nightstar_leftarm_laser_eh2",
+					"chrprfweap_nightstar_leftarm_flamer_eh2",
+					"chrprfweap_nightstar_leftarm_ppc_eh2",
+					"chrprfweap_nightstar_leftarm_mg_bh2",
+					"chrprfweap_nightstar_leftarm_ac5_bh2"
+				]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrprfweap_nightstar_lefttorso_laser_eh1",
+					"chrprfweap_nightstar_lefttorso_ppc_eh1",
+					"chrprfweap_nightstar_lefttorso_flamer_eh1",
+					"chrprfweap_nightstar_lefttorso_srm6_mh1",
+					"chrprfweap_nightstar_lefttorso_lrm15_mh1",
+					"chrprfweap_nightstar_lefttorso_ac10_bh1",
+					"chrprfweap_nightstar_lefttorso_gauss_bh1",
+					"chrprfweap_nightstar_lefttorso_mg_bh1"
+				],
+				[
+					"chrprfweap_nightstar_lefttorso_srm6_mh2",
+					"chrprfweap_nightstar_lefttorso_lrm15_mh2"
+				]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+					"chrprfweap_nightstar_rightarm_laser_eh1",
+					"chrprfweap_nightstar_rightarm_flamer_eh1",
+					"chrprfweap_nightstar_rightarm_ppc_eh1",
+					"chrprfweap_nightstar_rightarm_mg_bh1",
+					"chrprfweap_nightstar_rightarm_ac10_bh1",
+					"chrprfweap_nightstar_rightarm_gauss_bh1",
+					"chrprfweap_nightstar_rightarm_srm6_mh1"					
+				],
+				[
+					"chrprfweap_nightstar_rightarm_laser_eh2",
+					"chrprfweap_nightstar_rightarm_flamer_eh2",
+					"chrprfweap_nightstar_rightarm_ppc_eh2",
+					"chrprfweap_nightstar_rightarm_mg_bh2",
+					"chrprfweap_nightstar_rightarm_ac5_bh2"
+				]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+					"chrprfweap_nightstar_righttorso_laser_eh1",
+					"chrprfweap_nightstar_righttorso_ppc_eh1",
+					"chrprfweap_nightstar_righttorso_flamer_eh1",
+					"chrprfweap_nightstar_righttorso_srm6_mh1",
+					"chrprfweap_nightstar_righttorso_lrm15_mh1",
+					"chrprfweap_nightstar_righttorso_mg_bh1",
+					"chrprfweap_nightstar_righttorso_ac10_bh1",
+					"chrprfweap_nightstar_righttorso_gauss_bh1"
+				],
+				[
+					"chrprfweap_nightstar_righttorso_laser_eh2",
+					"chrprfweap_nightstar_righttorso_ppc_eh2",
+					"chrprfweap_nightstar_righttorso_flamer_eh2",
+					"chrprfweap_nightstar_righttorso_srm6_mh2",
+					"chrprfweap_nightstar_righttorso_lrm15_mh2"
+				]
+            ],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+				[
+					"chrprfweap_nightstar_centertorso_srm6_mh1",
+					"chrprfweap_nightstar_centertorso_laser_eh1",
+					"chrprfweap_nightstar_centertorso_mg_bh1",
+					"chrprfweap_nightstar_centertorso_ac10_bh1",
+					"chrprfweap_nightstar_centertorso_ppc_eh1",
+					"chrprfweap_nightstar_centertorso_flamer_eh1"				
+				]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+				[
+					"chrprfweap_nightstar_head_laser_eh1",
+					"chrprfweap_nightstar_head_mg_bh1",
+					"chrprfweap_nightstar_head_srm6_mh1"					
+				]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

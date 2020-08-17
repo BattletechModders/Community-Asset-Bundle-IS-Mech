@@ -1,0 +1,73 @@
+{
+    "ID" : "hardpointdatadef_warthoglamv2",
+	
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_warthoglamv2_leftarm_laser_eh1",
+			"chrPrfWeap_warthoglamv2_leftarm_ppc_eh1",
+			"chrPrfWeap_warthoglamv2_leftarm_ac2_bh1",
+			"chrPrfWeap_warthoglamv2_leftarm_lrm5_mh1"			
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_warthoglamv2_lefttorso_laser_eh1",
+			"chrPrfWeap_warthoglamv2_lefttorso_ppc_eh1",
+			"chrPrfWeap_warthoglamv2_lefttorso_ac10_bh1",
+			"chrPrfWeap_warthoglamv2_lefttorso_lrm10_mh1",
+			"chrPrfWeap_warthoglamv2_lefttorso_srm6_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_warthoglamv2_rightarm_laser_eh1",
+			"chrPrfWeap_warthoglamv2_rightarm_ppc_eh1",
+			"chrPrfWeap_warthoglamv2_rightarm_ac2_bh1",
+			"chrPrfWeap_warthoglamv2_rightarm_lrm5_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_warthoglamv2_righttorso_laser_eh1",
+			"chrPrfWeap_warthoglamv2_righttorso_ppc_eh1",
+			"chrPrfWeap_warthoglamv2_righttorso_ac10_bh1",
+			"chrPrfWeap_warthoglamv2_righttorso_lrm10_mh1",
+			"chrPrfWeap_warthoglamv2_righttorso_srm6_mh1"			
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },	
+		{
+            "location" : "centertorso",
+           "weapons" : [
+			[
+			"chrPrfWeap_warthoglamv2_centertorso_ac2_bh1",
+			"chrPrfWeap_warthoglamv2_centertorso_lrm15_mh1",
+			"chrPrfWeap_warthoglamv2_centertorso_laser_eh1",
+			"chrPrfWeap_warthoglamv2_centertorso_ppc_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        }
+    ]
+}

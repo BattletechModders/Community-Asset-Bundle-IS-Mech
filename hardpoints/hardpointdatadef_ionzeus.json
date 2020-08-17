@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_ionzeus",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_ionzeus_leftarm_laser_eh1",
+			"chrprfweap_ionzeus_leftarm_lrm10_mh1",
+			"chrprfweap_ionzeus_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_ionzeus_lefttorso_laser_eh1",
+			"chrprfweap_ionzeus_lefttorso_lrm10_mh1",
+			"chrprfweap_ionzeus_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_ionzeus_rightarm_laser_eh1",
+			"chrprfweap_ionzeus_rightarm_lrm10_mh1",
+			"chrprfweap_ionzeus_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_ionzeus_righttorso_laser_eh1",
+			"chrprfweap_ionzeus_righttorso_lrm10_mh1",
+			"chrprfweap_ionzeus_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_ionzeus_centertorso_laser_eh1",
+			"chrprfweap_ionzeus_centertorso_lrm10_mh1",
+			"chrprfweap_ionzeus_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

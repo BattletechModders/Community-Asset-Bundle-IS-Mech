@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_wraith",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_wraith_leftarm_laser_eh1",
+			"chrprfweap_wraith_leftarm_lrm10_mh1",
+			"chrprfweap_wraith_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_wraith_lefttorso_laser_eh1",
+			"chrprfweap_wraith_lefttorso_lrm10_mh1",
+			"chrprfweap_wraith_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_wraith_rightarm_laser_eh1",
+			"chrprfweap_wraith_rightarm_lrm10_mh1",
+			"chrprfweap_wraith_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_wraith_righttorso_laser_eh1",
+			"chrprfweap_wraith_righttorso_lrm10_mh1",
+			"chrprfweap_wraith_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_wraith_centertorso_laser_eh1",
+			"chrprfweap_wraith_centertorso_lrm10_mh1",
+			"chrprfweap_wraith_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

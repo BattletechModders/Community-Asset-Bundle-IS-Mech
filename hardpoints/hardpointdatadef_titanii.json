@@ -1,0 +1,179 @@
+{
+    "ID" : "hardpointdatadef_titanii",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_titanii_leftarm_ppc_eh1",
+			"chrPrfWeap_titanii_leftarm_ac20_bh1",
+			"chrPrfWeap_titanii_leftarm_gauss_bh1"			
+			],
+			[
+			"chrPrfWeap_titanii_leftarm_srm6_mh1",
+			"chrPrfWeap_titanii_leftarm_lrm15_mh1"			
+			],
+			[
+			"chrPrfWeap_titanii_leftarm_laser_eh1"			
+			],
+			[
+			"chrPrfWeap_titanii_leftarm_laser_eh2"			
+			],
+			[
+			"chrPrfWeap_titanii_leftarm_flamer_eh1"			
+			],
+			[
+			"chrPrfWeap_titanii_leftarm_flamer_eh2"			
+			],
+			[
+			"chrPrfWeap_titanii_leftarm_mg_bh1"			
+			],
+			[
+			"chrPrfWeap_titanii_leftarm_mg_bh2"			
+			]			
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_titanii_lefttorso_srm6_mh1",
+			"chrPrfWeap_titanii_lefttorso_lrm15_mh1"
+			],
+			[
+			"chrPrfWeap_titanii_lefttorso_ac20_bh1",
+			"chrPrfWeap_titanii_lefttorso_gauss_bh1"
+			],
+			[
+			"chrPrfWeap_titanii_lefttorso_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_titanii_lefttorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_titanii_lefttorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_titanii_lefttorso_flamer_eh1"
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_titanii_rightarm_ppc_eh1",
+			"chrPrfWeap_titanii_rightarm_ac20_bh1",
+			"chrPrfWeap_titanii_rightarm_gauss_bh1"			
+			],
+			[
+			"chrPrfWeap_titanii_rightarm_srm6_mh1",
+			"chrPrfWeap_titanii_rightarm_lrm15_mh1"			
+			],
+			[
+			"chrPrfWeap_titanii_rightarm_laser_eh1"			
+			],
+			[
+			"chrPrfWeap_titanii_rightarm_laser_eh2"			
+			],
+			[
+			"chrPrfWeap_titanii_rightarm_flamer_eh1"			
+			],
+			[
+			"chrPrfWeap_titanii_rightarm_flamer_eh2"			
+			],
+			[
+			"chrPrfWeap_titanii_rightarm_mg_bh1"			
+			],
+			[
+			"chrPrfWeap_titanii_rightarm_mg_bh2"			
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_titanii_righttorso_srm6_mh1",
+			"chrPrfWeap_titanii_righttorso_lrm15_mh1"
+			],
+			[
+			"chrPrfWeap_titanii_righttorso_ac20_bh1",
+			"chrPrfWeap_titanii_righttorso_gauss_bh1"
+			],
+			[
+			"chrPrfWeap_titanii_righttorso_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_titanii_righttorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_titanii_righttorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_titanii_righttorso_flamer_eh1"
+			]				
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_titanii_head_mg_bh1",
+			"chrPrfWeap_titanii_head_laser_eh1"
+			]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_titanii_centertorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_titanii_centertorso_flamer_eh1"
+			],
+			[
+			"chrPrfWeap_titanii_centertorso_mg_bh1"			
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

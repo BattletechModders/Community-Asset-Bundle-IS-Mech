@@ -1,0 +1,149 @@
+{
+    "ID" : "hardpointdatadef_ostroc",
+    "HardpointData" : [
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostroc_head_srm4_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_head_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_head_mg_bh1"
+                ]				
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+            ]
+        },
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostroc_centertorso_srm4_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_centertorso_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_centertorso_mg_bh1"
+                ]			
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+            ]
+        },		
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostroc_leftarm_srm4_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_leftarm_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_leftarm_mg_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_leftarm_ac10_bh1"
+                ]					
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostroc_lefttorso_srm4_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_lefttorso_srm2_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_lefttorso_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_lefttorso_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_lefttorso_laser_eh2"
+                ],
+                [
+                    "chrPrfWeap_ostroc_lefttorso_lrm15_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_lefttorso_ac10_bh1"
+                ]				
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostroc_rightarm_srm4_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_rightarm_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_rightarm_mg_bh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_rightarm_ac10_bh1"
+                ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_ostroc_righttorso_srm4_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_righttorso_srm2_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_righttorso_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_righttorso_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_righttorso_laser_eh2"
+                ],
+                [
+                    "chrPrfWeap_ostroc_righttorso_lrm15_mh1"
+                ],
+                [
+                    "chrPrfWeap_ostroc_righttorso_ac10_bh1"
+                ]			
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

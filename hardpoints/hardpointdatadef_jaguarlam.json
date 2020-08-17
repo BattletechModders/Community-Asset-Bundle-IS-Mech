@@ -1,0 +1,73 @@
+{
+    "ID" : "hardpointdatadef_jaguarlam",
+	
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_jaguarlam_leftarm_laser_eh1",
+			"chrPrfWeap_jaguarlam_leftarm_ppc_eh1",
+			"chrPrfWeap_jaguarlam_leftarm_ac2_bh1",
+			"chrPrfWeap_jaguarlam_leftarm_lrm5_mh1"			
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_jaguarlam_lefttorso_laser_eh1",
+			"chrPrfWeap_jaguarlam_lefttorso_ppc_eh1",
+			"chrPrfWeap_jaguarlam_lefttorso_ac10_bh1",
+			"chrPrfWeap_jaguarlam_lefttorso_lrm10_mh1",
+			"chrPrfWeap_jaguarlam_lefttorso_srm6_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_jaguarlam_rightarm_laser_eh1",
+			"chrPrfWeap_jaguarlam_rightarm_ppc_eh1",
+			"chrPrfWeap_jaguarlam_rightarm_ac2_bh1",
+			"chrPrfWeap_jaguarlam_rightarm_lrm5_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_jaguarlam_righttorso_laser_eh1",
+			"chrPrfWeap_jaguarlam_righttorso_ppc_eh1",
+			"chrPrfWeap_jaguarlam_righttorso_ac10_bh1",
+			"chrPrfWeap_jaguarlam_righttorso_lrm10_mh1",
+			"chrPrfWeap_jaguarlam_righttorso_srm6_mh1"			
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },	
+		{
+            "location" : "centertorso",
+           "weapons" : [
+			[
+			"chrPrfWeap_jaguarlam_centertorso_ac2_bh1",
+			"chrPrfWeap_jaguarlam_centertorso_lrm15_mh1",
+			"chrPrfWeap_jaguarlam_centertorso_laser_eh1",
+			"chrPrfWeap_jaguarlam_centertorso_ppc_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        }
+    ]
+}

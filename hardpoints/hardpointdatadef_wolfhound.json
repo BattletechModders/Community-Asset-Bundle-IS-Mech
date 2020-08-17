@@ -1,0 +1,136 @@
+{
+    "ID" : "hardpointdatadef_wolfhound",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+				"chrprfweap_wolfhound_leftarm_mg_bh1",
+				"chrprfweap_wolfhound_leftarm_laser_eh1",
+				"chrprfweap_wolfhound_leftarm_srm6_mh1",
+				"chrprfweap_wolfhound_leftarm_ac10_bh1",
+				"chrprfweap_wolfhound_leftarm_flamer_eh1"
+				]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+				"chrprfweap_wolfhound_lefttorso_laser_eh1",
+				"chrprfweap_wolfhound_lefttorso_ppc_eh1",
+				"chrprfweap_wolfhound_lefttorso_flamer_eh1",
+				"chrprfweap_wolfhound_lefttorso_mg_bh1",
+				"chrprfweap_wolfhound_lefttorso_srm6_mh1",
+				"chrprfweap_wolfhound_lefttorso_ac10_bh1"				
+				],
+				[
+				"chrprfweap_wolfhound_lefttorso_laser_eh2",
+				"chrprfweap_wolfhound_lefttorso_ppc_eh2",
+				"chrprfweap_wolfhound_lefttorso_flamer_eh2"
+				]				
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+				"chrprfweap_wolfhound_rightarm_laser_eh1",
+				"chrprfweap_wolfhound_rightarm_ppc_eh1",
+				"chrprfweap_wolfhound_rightarm_flamer_eh1",
+				"chrprfweap_wolfhound_rightarm_gauss_bh1",
+				"chrprfweap_wolfhound_rightarm_srm6_mh1",
+				"chrprfweap_wolfhound_rightarm_lrm10_mh1"				
+				],
+				[
+				"chrprfweap_wolfhound_rightarm_laser_eh2",
+				"chrprfweap_wolfhound_rightarm_ppc_eh2",
+				"chrprfweap_wolfhound_rightarm_flamer_eh2",
+				"chrprfweap_wolfhound_rightarm_gauss_bh2"				
+				]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [				
+                [
+				"chrprfweap_wolfhound_righttorso_laser_eh1",
+				"chrprfweap_wolfhound_righttorso_ppc_eh1",
+				"chrprfweap_wolfhound_righttorso_flamer_eh1",
+				"chrprfweap_wolfhound_righttorso_mg_bh1",
+				"chrprfweap_wolfhound_righttorso_srm6_mh1",
+				"chrprfweap_wolfhound_righttorso_ac10_bh1"				
+				],
+				[
+				"chrprfweap_wolfhound_righttorso_laser_eh2",
+				"chrprfweap_wolfhound_righttorso_ppc_eh2",
+				"chrprfweap_wolfhound_righttorso_flamer_eh2"
+				]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [ 
+                [
+				"chrprfweap_wolfhound_centertorso_laser_eh1",
+				"chrprfweap_wolfhound_centertorso_flamer_eh1",
+				"chrprfweap_wolfhound_centertorso_ppc_eh1",
+				"chrprfweap_wolfhound_centertorso_mg_bh1",
+				"chrprfweap_wolfhound_centertorso_srm6_mh1",
+				"chrprfweap_wolfhound_centertorso_ac10_bh1"				
+				],
+				[
+				"chrprfweap_wolfhound_centertorso_laser_eh2",
+				"chrprfweap_wolfhound_centertorso_flamer_eh2"
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "head",
+            "weapons" : [ 
+                [
+				"chrprfweap_wolfhound_head_laser_eh1",
+				"chrprfweap_wolfhound_head_mg_bh1",
+				"chrprfweap_wolfhound_head_srm6_mh1"				
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }		
+    ]
+	
+}

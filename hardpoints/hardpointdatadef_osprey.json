@@ -1,0 +1,54 @@
+{
+    "ID" : "hardpointdatadef_osprey",
+	
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_osprey_leftarm_laser_eh1",
+			"chrPrfWeap_osprey_leftarm_ac10_bh1",
+			"chrPrfWeap_osprey_leftarm_lrm10_mh1"	
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_osprey_lefttorso_laser_eh1",
+			"chrPrfWeap_osprey_lefttorso_ac10_bh1",
+			"chrPrfWeap_osprey_lefttorso_lrm10_mh1"	
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_osprey_rightarm_laser_eh1",
+			"chrPrfWeap_osprey_rightarm_ac10_bh1",
+			"chrPrfWeap_osprey_rightarm_lrm10_mh1"	
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_osprey_righttorso_laser_eh1",
+			"chrPrfWeap_osprey_righttorso_lrm10_mh1",
+			"chrPrfWeap_osprey_righttorso_ac10_bh1"		
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        }
+    ]
+}
