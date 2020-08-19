@@ -1,0 +1,11 @@
+Changelog for CAB-IS
+
+-----------------------------------------------------
+
+1.1
+
+Transient's texture updates (Crosscut, Guillotine, Ion Raptor, Devastator, Raptor, Starslayer, Bruin, Ion Cyclops, Ion Longbow, Viking, Razorback, Swordsman)
+
+1.0
+
+Initial Commit
