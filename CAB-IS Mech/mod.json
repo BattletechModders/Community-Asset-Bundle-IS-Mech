@@ -5106,6 +5106,31 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_srm2_mh3.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_blank_mh1.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" }
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_blank_mh1.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hazard/chrPrfComp_hazard_simgame.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_hazardbase-001.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hazard/chrPrfComp_hazard_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hazard/chrPrfComp_hazard_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" }
     ]
 }
