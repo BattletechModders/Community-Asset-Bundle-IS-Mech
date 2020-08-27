@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+1.3
+
+Full rebuild update of the Icarus II
+
 1.2
 
 Added the Hazard
