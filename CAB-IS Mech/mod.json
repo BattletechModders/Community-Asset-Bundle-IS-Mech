@@ -5158,6 +5158,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazard/chrprfweap_hazard_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hazardbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/grandtitan/chrPrfComp_grandtitan_simgame.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_grandtitanbase-001.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/grandtitan/chrPrfComp_grandtitan_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/grandtitan/chrPrfComp_grandtitan_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grandtitan/chrprfweap_grandtitan_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grandtitanbase-001" }
     ]
 }
