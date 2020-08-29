@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+1.5
+
+Added the Crockett
+
 1.4
 
 Added the Grand Titan
