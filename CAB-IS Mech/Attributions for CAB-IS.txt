@@ -1,0 +1,177 @@
+Attributions for CAB-IS
+
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model) and the license under which that author releases their model.
+
+Colobos/Crackfoxx
+License: 
+Creative Commons, Non-commercial
+
+Models:
+Phoenix Hawk LAM
+Stinger LAM
+Toro
+Titan II
+Wasp LAM
+
+Lt. Shade
+License: 
+Creative Commons, Attribution, Non-commercial
+
+Models:
+Archangel
+Argus
+Avatar
+Bombard
+Clint
+Dragon Fire
+Emperor
+Firebee
+Helepolis
+Hollander
+Huron Warrior (HuronW)
+Icarus II
+Imp
+Juggernaut
+Lament
+Lancelot
+Lao Hu
+Mackie
+Merlin
+Talos
+Templar
+Valiant
+Valkyrie II
+
+GentlePayload:
+License:
+xxx
+
+Models:
+Hauptmann
+Anubis
+Preta
+Thug
+
+Ion Raptor
+License:
+Creative Commons - Non-Commercial
+
+Models:
+Blitzkrieg
+Chimera
+Grand Titan
+Ion BruinIon Cyclops
+Ion Dolorie
+Ion Longbow
+Ion Raptor
+Ion Sunder
+Ion Zeus
+Owens
+Prometheus
+Raptor
+Razorback
+Strider
+Swordsman (swd)
+Wraith
+
+Transient74
+License:
+xxx
+
+Models:
+Bruin
+Hazard
+Jaguar LAM
+Osprey
+Phantom LAM
+SLUF LAM
+Warthog LAM
+
+Mason
+License:
+xxx
+
+Models:
+Viking
+Devastator
+Crockett (crk)
+Starslayer
+Guillotine
+
+SolahmaJoe
+License:
+xxx
+
+Models:
+Crusader
+Wasp
+Stinger
+Ostroc
+Ostwar
+Ostsol
+Valkyrie
+
+Piranha Games, Inc.
+License: 
+Unstated but seems to effectively be Creative Commons - Non-Commercial
+
+Models:
+Bushwacker
+Champion
+Charger
+Charger PB
+Dervish
+Fafnir
+Hatamoto-Chi
+Hatamoto-Chi Sam
+Hellspawn
+K2pult
+K9
+Marauder II
+Mauler
+Nightstar
+Osiris
+Roughneck
+Roughneck Crane
+RTCorsair 1-5
+Thanatos
+Urbanmech50
+Uziel
+Urbie
+UrbieLord
+Wolfhound
+Hammertime Omni
+Longbow
+Zeus X
+
+Rudy Valle
+License:
+Creative Commons - Non-Commercial
+
+Models:
+Mongoose
+
+JuodasVarnas 
+License:
+Creative Commons, Attribution, Non-commercial
+
+Models:
+Yeoman
+
+Smight:
+License:
+xxx
+
+Models:
+Hornet
+Hussar
+
+Mike.g
+License:
+xxx
+
+Models:
+Crosscut
+
+Unlicensed:
+Omega
