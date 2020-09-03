@@ -1883,31 +1883,6 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrprfweap_iondoloire_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrprfweap_iondoloire_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
 
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionkingfisher/chrPrfComp_ionkingfisher_simgame.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ionkingfisherbase-001.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionkingfisher/chrPrfComp_ionkingfisher_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionkingfisher/chrPrfComp_ionkingfisher_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionkingfisher/chrprfweap_ionkingfisher_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionkingfisherbase-001" },
-
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionlongbow/chrPrfComp_ionlongbow_simgame.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ionlongbowbase-001.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
 
