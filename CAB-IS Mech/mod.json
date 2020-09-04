@@ -5261,6 +5261,30 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/arthur/chrPrfComp_arthur_simgame.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_arthurbase-001.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/arthur/chrPrfComp_arthur_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" }
     ]
 }

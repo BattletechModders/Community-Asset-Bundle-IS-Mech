@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+2.0
+
+Added the (Arthur) Pendragon
+
 1.9
 
 Added the Huron Warrior Redux

@@ -77,6 +77,7 @@ Wraith
 Penetrator
 Vanquisher
 Neanderthal
+(Arthur) Pendragon
 
 Transient74
 License:
