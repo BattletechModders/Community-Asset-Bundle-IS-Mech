@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+1.6
+
+Added the Penetrator
+
 1.5
 
 Added the Crockett
