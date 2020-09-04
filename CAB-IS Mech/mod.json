@@ -5149,6 +5149,30 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/pen/chrprfweap_pen_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_penbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/pen/chrprfweap_pen_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_penbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/pen/chrprfweap_pen_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_penbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/pen/chrprfweap_pen_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_penbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/vanquisher/chrPrfComp_vanquisher_simgame.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_vanquisherbase-001.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/vanquisher/chrPrfComp_vanquisher_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" }
     ]
 }

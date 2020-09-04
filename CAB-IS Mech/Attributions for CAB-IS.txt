@@ -74,6 +74,7 @@ Strider
 Swordsman (swd)
 Wraith
 Penetrator
+Vanquisher
 
 Transient74
 License:
