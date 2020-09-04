@@ -78,6 +78,7 @@ Penetrator
 Vanquisher
 Neanderthal
 (Arthur) Pendragon
+Monster
 
 Transient74
 License:

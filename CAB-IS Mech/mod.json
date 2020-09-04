@@ -5285,6 +5285,30 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/arthur/chrprfweap_arthur_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_arthurbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/monster/chrPrfComp_monster_simgame.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_monsterbase-001.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/monster/chrPrfComp_monster_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/monster/chrprfweap_monster_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_monsterbase-001" }
     ]
 }
