@@ -1,0 +1,153 @@
+{
+    "ID" : "hardpointdatadef_huronwarrior",
+    "HardpointData" : [
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+					"chrprfweap_huronwarrior_centertorso_laser_eh1"
+
+                ],
+				[
+					"chrprfweap_huronwarrior_centertorso_laser_eh2"
+				]
+				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+					"chrprfweap_huronwarrior_leftarm_ac20_bh1",
+					"chrprfweap_huronwarrior_leftarm_flamer_eh1",
+					"chrprfweap_huronwarrior_leftarm_gauss_bh1",
+					"chrprfweap_huronwarrior_leftarm_hatchet_bh1",
+					"chrprfweap_huronwarrior_leftarm_laser_eh1",
+					"chrprfweap_huronwarrior_leftarm_lbx_bh1",
+					"chrprfweap_huronwarrior_leftarm_lrm15_mh1",
+					"chrprfweap_huronwarrior_leftarm_mg_bh1",
+					"chrprfweap_huronwarrior_leftarm_ppc_eh1",
+					"chrprfweap_huronwarrior_leftarm_srm6_mh1"
+                ],
+				[
+					"chrprfweap_huronwarrior_leftarm_flamer_eh2",
+					"chrprfweap_huronwarrior_leftarm_laser_eh2",
+					"chrprfweap_huronwarrior_leftarm_ppc_eh2"
+
+				],
+				[
+					"chrprfweap_huronwarrior_leftarm_flamer_eh3",
+					"chrprfweap_huronwarrior_leftarm_laser_eh3",
+					"chrprfweap_huronwarrior_leftarm_ppc_eh3"
+				]
+				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrprfweap_huronwarrior_lefttorso_ac20_bh1",
+					"chrprfweap_huronwarrior_lefttorso_flamer_eh1",
+					"chrprfweap_huronwarrior_lefttorso_gauss_bh1",
+					"chrprfweap_huronwarrior_lefttorso_laser_eh1",
+					"chrprfweap_huronwarrior_lefttorso_lrm15_mh1",
+					"chrprfweap_huronwarrior_lefttorso_mg_bh1",
+					"chrprfweap_huronwarrior_lefttorso_ppc_eh1",
+					"chrprfweap_huronwarrior_lefttorso_srm6_mh1",
+					"chrprfweap_huronwarrior_lefttorso_srm6_mh1",
+					"chrprfweap_huronwarrior_lefttorso_uac5_bh1"
+                ],
+				[
+					"chrprfweap_huronwarrior_lefttorso_flamer_eh2",
+					"chrprfweap_huronwarrior_lefttorso_laser_eh2",
+					"chrprfweap_huronwarrior_lefttorso_ppc_eh2",
+					"chrprfweap_huronwarrior_lefttorso_srm6_mh2"
+				],
+				[
+					"chrprfweap_huronwarrior_lefttorso_laser_eh3"
+				]
+				
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+					"chrprfweap_huronwarrior_rightarm_ac20_bh1",
+					"chrprfweap_huronwarrior_rightarm_gauss_bh1",
+					"chrprfweap_huronwarrior_rightarm_laser_eh1",
+					"chrprfweap_huronwarrior_rightarm_lrm15_mh1",
+					"chrprfweap_huronwarrior_rightarm_mg_bh1",
+					"chrprfweap_huronwarrior_rightarm_ppc_eh1",
+					"chrprfweap_huronwarrior_rightarm_srm6_mh1",
+					"chrprfweap_huronwarrior_rightarm_uac5_bh1"
+                ],
+				[
+					"chrprfweap_huronwarrior_rightarm_laser_eh2",
+					"chrprfweap_huronwarrior_rightarm_ppc_eh2"
+				],
+				[
+					"chrprfweap_huronwarrior_rightarm_laser_eh3"
+				]
+				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+					"chrprfweap_huronwarrior_righttorso_ac20_bh1",
+					"chrprfweap_huronwarrior_righttorso_flamer_eh1",
+					"chrprfweap_huronwarrior_righttorso_gauss_bh1",
+					"chrprfweap_huronwarrior_righttorso_laser_eh1",
+					"chrprfweap_huronwarrior_righttorso_lrm15_mh1",
+					"chrprfweap_huronwarrior_righttorso_mg_bh1",
+					"chrprfweap_huronwarrior_righttorso_ppc_eh1",
+					"chrprfweap_huronwarrior_righttorso_srm6_mh1",
+					"chrprfweap_huronwarrior_righttorso_uac5_bh1"
+                ],
+				[
+					"chrprfweap_huronwarrior_righttorso_flamer_eh2",
+					"chrprfweap_huronwarrior_righttorso_laser_eh2",
+					"chrprfweap_huronwarrior_righttorso_ppc_eh2",
+					"chrprfweap_huronwarrior_righttorso_srm6_mh2"
+				],
+				[
+					"chrprfweap_huronwarrior_righttorso_laser_eh3"
+				]
+				
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

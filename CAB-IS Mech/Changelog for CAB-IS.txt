@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+1.9
+
+Added the Huron Warrior Redux
+
 1.8
 
 Added the Neanderthal

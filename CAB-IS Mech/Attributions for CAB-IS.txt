@@ -28,7 +28,8 @@ Emperor
 Firebee
 Helepolis
 Hollander
-Huron Warrior (HuronW)
+Huron Warrior (huronw)
+Huron Warrior Redux (huronwarrior)
 Icarus II
 Imp
 Juggernaut
