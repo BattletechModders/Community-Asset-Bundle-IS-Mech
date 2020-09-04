@@ -75,6 +75,7 @@ Swordsman (swd)
 Wraith
 Penetrator
 Vanquisher
+Neanderthal
 
 Transient74
 License:
@@ -88,6 +89,7 @@ Osprey
 Phantom LAM
 SLUF LAM
 Warthog LAM
+Screamer
 
 Mason
 License:

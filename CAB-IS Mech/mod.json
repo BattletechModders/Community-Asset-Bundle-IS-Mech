@@ -5173,6 +5173,30 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vanquisher/chrprfweap_vanquisher_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_vanquisherbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/neand/chrPrfComp_neand_simgame.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_neandbase-001.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/neand/chrPrfComp_neand_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/neand/chrprfweap_neand_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_neandbase-001" }
     ]
 }

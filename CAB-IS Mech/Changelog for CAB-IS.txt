@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+1.8
+
+Added the Neanderthal
+
 1.7
 
 Added the Vanquisher
