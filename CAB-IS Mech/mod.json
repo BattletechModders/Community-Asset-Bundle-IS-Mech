@@ -5231,7 +5231,6 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_lefttorso_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_lefttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/huronwarrior/chrprfweap_huronwarrior_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_huronwarriorbase-001" },
