@@ -107,7 +107,7 @@ Guillotine
 
 SolahmaJoe
 License:
-xxx
+Creative Commons, Non-Commercial
 
 Models:
 Crusader

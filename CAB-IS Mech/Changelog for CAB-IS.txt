@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+2.2 
+
+Added the Bombard Redux
+
 2.1
 
 Added the Monster
