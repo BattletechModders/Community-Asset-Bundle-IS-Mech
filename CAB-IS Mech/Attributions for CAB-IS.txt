@@ -38,6 +38,7 @@ Lancelot
 Lao Hu
 Mackie
 Merlin
+Sorcerer
 Talos
 Templar
 Valiant
