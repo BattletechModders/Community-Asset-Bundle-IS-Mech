@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+2.3
+
+Added the Sorcerer 
+
 2.2 
 
 Added the Bombard Redux
