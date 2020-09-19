@@ -5393,6 +5393,30 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gladiator/chrPrfComp_gladiator_simgame.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gladiatorbase-001.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gladiator/chrPrfComp_gladiator_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" }
     ]
 }
