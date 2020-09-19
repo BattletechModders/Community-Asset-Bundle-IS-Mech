@@ -95,17 +95,6 @@ SLUF LAM
 Warthog LAM
 Screamer
 
-Mason
-License:
-xxx
-
-Models:
-Viking
-Devastator
-Crockett (crk)
-Starslayer
-Guillotine
-
 SolahmaJoe
 License:
 Creative Commons, Non-Commercial
@@ -166,20 +155,32 @@ Creative Commons, Attribution, Non-commercial
 Models:
 Yeoman
 
-Smight:
+SmallRobotsInAContainer
 License:
 xxx
 
+Models:
+Anvil
+
+
+Unlicensed Models
+Mason
+Models:
+Viking
+Devastator
+Crockett (crk)
+Starslayer
+Guillotine
+
+Smight
 Models:
 Hornet
 Hussar
 
 Mike.g
-License:
-xxx
-
 Models:
 Crosscut
 
-Unlicensed:
+Maker Unknown:
+Models:
 Omega

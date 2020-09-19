@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+2.4 
+
+Added the Anvil
+
 2.3
 
 Added the Sorcerer 

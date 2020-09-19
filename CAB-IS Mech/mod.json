@@ -5368,6 +5368,31 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/sorcerer/chrprfweap_sorcerer_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_sorcererbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/sorcerer/chrprfweap_sorcerer_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_sorcererbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/sorcerer/chrprfweap_sorcerer_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_sorcererbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/sorcerer/chrprfweap_sorcerer_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_sorcererbase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/sorcerer/chrprfweap_sorcerer_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_sorcererbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/anvil/chrPrfComp_anvil_simgame.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_anvilbase-001.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/anvil/chrPrfComp_anvil_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/anvil/chrPrfComp_anvil_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/anvil/chrprfweap_anvil_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_anvilbase-001" }
     ]
 }
