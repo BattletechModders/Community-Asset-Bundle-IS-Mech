@@ -165,6 +165,7 @@ Gladiator
 Salamander
 Wyvern
 Sentinel
+Wight
 
 Unlicensed Models
 Mason

@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+2.9 
+
+Added the Wight
+
 2.8
 
 Added the Sentinel

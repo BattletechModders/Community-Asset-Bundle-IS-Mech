@@ -5492,6 +5492,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sentinel/chrprfweap_sentinel_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_sentinelbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sentinel/chrprfweap_sentinel_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_sentinelbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sentinel/chrprfweap_sentinel_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_sentinelbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sentinel/chrprfweap_sentinel_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_sentinelbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/wight/chrPrfComp_wight_simgame.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_wightbase-001.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/wight/chrPrfComp_wight_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" }
     ]
 }
