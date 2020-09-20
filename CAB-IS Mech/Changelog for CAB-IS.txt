@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+2.7
+
+Added the Wyvern
+
 2.6
 
 Added the Salamander

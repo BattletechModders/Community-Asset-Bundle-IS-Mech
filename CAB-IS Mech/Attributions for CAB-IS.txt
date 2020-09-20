@@ -163,6 +163,7 @@ Models:
 Anvil
 Gladiator
 Salamander
+Wyvern
 
 Unlicensed Models
 Mason
