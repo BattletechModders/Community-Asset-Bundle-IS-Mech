@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+2.6
+
+Added the Salamander
+
 2.5
 
 Added the Gladiator

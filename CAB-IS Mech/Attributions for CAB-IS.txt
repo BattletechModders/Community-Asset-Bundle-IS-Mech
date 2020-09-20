@@ -155,14 +155,14 @@ Creative Commons, Attribution, Non-commercial
 Models:
 Yeoman
 
-SmallRobotsInAContainer
+SmallRobotsInAContainer/Napes
 License:
-xxx
+Creative Commons, Attribution, Non-commercial
 
 Models:
 Anvil
 Gladiator
-
+Salamander
 
 Unlicensed Models
 Mason

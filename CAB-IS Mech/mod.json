@@ -5417,6 +5417,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gladiator/chrprfweap_gladiator_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gladiatorbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/salamander/chrPrfComp_salamander_simgame.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_salamanderbase-001.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/salamander/chrPrfComp_salamander_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/salamander/chrPrfComp_salamander_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/salamander/chrprfweap_salamander_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_salamanderbase-001" }
     ]
 }
