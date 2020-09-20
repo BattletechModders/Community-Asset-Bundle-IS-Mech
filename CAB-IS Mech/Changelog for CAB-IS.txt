@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+2.8
+
+Added the Sentinel
+
 2.7
 
 Added the Wyvern

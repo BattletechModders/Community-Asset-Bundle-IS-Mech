@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_sentinel",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_sentinel_leftarm_laser_eh1",
+			"chrprfweap_sentinel_leftarm_lrm10_mh1",
+			"chrprfweap_sentinel_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_sentinel_lefttorso_laser_eh1",
+			"chrprfweap_sentinel_lefttorso_lrm10_mh1",
+			"chrprfweap_sentinel_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_sentinel_rightarm_laser_eh1",
+			"chrprfweap_sentinel_rightarm_lrm10_mh1",
+			"chrprfweap_sentinel_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_sentinel_righttorso_laser_eh1",
+			"chrprfweap_sentinel_righttorso_lrm10_mh1",
+			"chrprfweap_sentinel_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_sentinel_centertorso_laser_eh1",
+			"chrprfweap_sentinel_centertorso_lrm10_mh1",
+			"chrprfweap_sentinel_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

@@ -164,6 +164,7 @@ Anvil
 Gladiator
 Salamander
 Wyvern
+Sentinel
 
 Unlicensed Models
 Mason
