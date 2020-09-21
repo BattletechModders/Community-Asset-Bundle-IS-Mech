@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+3.0
+
+Added the Whitworth
+
 2.9 
 
 Added the Wight

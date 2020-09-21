@@ -166,6 +166,7 @@ Salamander
 Wyvern
 Sentinel
 Wight
+Whitworth
 
 Unlicensed Models
 Mason

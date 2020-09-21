@@ -5517,6 +5517,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wight/chrprfweap_wight_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wightbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/whitworth/chrPrfComp_whitworth_simgame.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_whitworthbase-001.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/whitworth/chrPrfComp_whitworth_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/whitworth/chrPrfComp_whitworth_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/whitworth/chrprfweap_whitworth_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_whitworthbase-001" }
     ]
 }
