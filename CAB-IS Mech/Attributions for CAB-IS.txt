@@ -167,6 +167,7 @@ Wyvern
 Sentinel
 Wight
 Whitworth
+Thorn
 
 Unlicensed Models
 Mason

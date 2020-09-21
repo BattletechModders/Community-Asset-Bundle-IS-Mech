@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+3.1
+
+Added the Thorn
+
 3.0
 
 Added the Whitworth
