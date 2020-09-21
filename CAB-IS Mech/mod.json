@@ -5567,6 +5567,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thorn/chrprfweap_thorn_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_thornbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thorn/chrprfweap_thorn_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_thornbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thorn/chrprfweap_thorn_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_thornbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thorn/chrprfweap_thorn_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_thornbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/talon/chrPrfComp_talon_simgame.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_talonbase-001.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/talon/chrPrfComp_talon_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/talon/chrPrfComp_talon_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" }
     ]
 }
