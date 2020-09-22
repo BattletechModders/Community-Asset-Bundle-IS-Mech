@@ -170,6 +170,7 @@ Whitworth
 Thorn
 Talon
 Berserker
+Chameleon
 
 Unlicensed Models
 Mason

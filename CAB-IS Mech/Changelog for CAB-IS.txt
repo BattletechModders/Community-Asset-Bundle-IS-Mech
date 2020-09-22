@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+3.4
+
+Added the Chameleon
+
 3.3
 
 Added the Berserker

@@ -5617,6 +5617,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/chameleon/chrPrfComp_chameleon_simgame.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_chameleonbase-001.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/chameleon/chrPrfComp_chameleon_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/chameleon/chrPrfComp_chameleon_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/chameleon/chrprfweap_chameleon_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_chameleonbase-001" }
     ]
 }
