@@ -5592,6 +5592,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/talon/chrprfweap_talon_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_talonbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/berserker/chrPrfComp_berserker_simgame.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_berserkerbase-001.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/berserker/chrPrfComp_berserker_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/berserker/chrPrfComp_berserker_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/berserker/chrprfweap_berserker_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_berserkerbase-001" }
     ]
 }

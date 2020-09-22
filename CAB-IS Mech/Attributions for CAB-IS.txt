@@ -169,6 +169,7 @@ Wight
 Whitworth
 Thorn
 Talon
+Berserker
 
 Unlicensed Models
 Mason
