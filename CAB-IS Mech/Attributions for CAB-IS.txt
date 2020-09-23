@@ -171,6 +171,7 @@ Thorn
 Talon
 Berserker
 Chameleon
+Firefly
 
 Unlicensed Models
 Mason
