@@ -172,6 +172,7 @@ Talon
 Berserker
 Chameleon
 Firefly
+Napes Osprey
 
 Unlicensed Models
 Mason
