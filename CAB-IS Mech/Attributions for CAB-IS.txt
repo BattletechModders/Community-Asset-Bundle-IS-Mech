@@ -173,6 +173,7 @@ Berserker
 Chameleon
 Firefly
 Napes Osprey
+Hector
 
 Unlicensed Models
 Mason

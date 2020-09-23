@@ -5691,6 +5691,30 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/napesosprey/chrprfweap_napesosprey_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_napesospreybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/napesosprey/chrprfweap_napesosprey_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_napesospreybase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/napesosprey/chrprfweap_napesosprey_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_napesospreybase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/napesosprey/chrprfweap_napesosprey_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_napesospreybase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hector/chrPrfComp_hector_simgame.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_hectorbase-001.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hector/chrPrfComp_hector_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hector/chrprfweap_hector_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hectorbase-001" }
     ]
 }
