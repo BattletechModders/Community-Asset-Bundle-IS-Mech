@@ -175,6 +175,7 @@ Chameleon
 Firefly
 Napes Osprey
 Hector
+Night Hawk
 
 Unlicensed Models
 Mason

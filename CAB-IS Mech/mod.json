@@ -5790,6 +5790,31 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_righttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_righttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/nighthawk/chrPrfComp_nighthawk_simgame.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_nighthawkbase-001.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/nighthawk/chrPrfComp_nighthawk_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/nighthawk/chrPrfComp_nighthawk_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/nighthawk/chrprfweap_nighthawk_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_nighthawkbase-001" }
     ]
 }
