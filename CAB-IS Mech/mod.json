@@ -5840,6 +5840,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hermes/chrprfweap_hermes_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hermesbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hermes/chrprfweap_hermes_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hermesbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hermes/chrprfweap_hermes_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hermesbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hermes/chrprfweap_hermes_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hermesbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phoenix/chrPrfComp_phoenix_simgame.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_phoenixbase-001.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phoenix/chrPrfComp_phoenix_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phoenix/chrPrfComp_phoenix_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phoenix/chrprfweap_phoenix_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phoenixbase-001" }
     ]
 }

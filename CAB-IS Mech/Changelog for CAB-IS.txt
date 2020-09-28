@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+4.1
+
+Added the Phoenix
+
 4.0
 
 Added the Hermes
