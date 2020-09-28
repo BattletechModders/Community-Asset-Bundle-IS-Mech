@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+4.0
+
+Added the Hermes
+
 3.9
 
 Added the Night Hawk

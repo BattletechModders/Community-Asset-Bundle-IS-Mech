@@ -176,6 +176,7 @@ Firefly
 Napes Osprey
 Hector
 Night Hawk
+Hermes
 
 Unlicensed Models
 Mason
