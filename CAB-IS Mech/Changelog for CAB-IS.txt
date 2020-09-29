@@ -2,6 +2,14 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+4.4
+
+Added the Blackheart
+
+4.3
+
+Added the Lynx 
+
 4.2
 
 Added the Thunder Hawk 

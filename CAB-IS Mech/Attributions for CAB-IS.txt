@@ -179,6 +179,8 @@ Night Hawk
 Hermes
 Phoenix
 Thunder Hawk
+Lynx
+Blackheart
 
 Unlicensed Models
 Mason
