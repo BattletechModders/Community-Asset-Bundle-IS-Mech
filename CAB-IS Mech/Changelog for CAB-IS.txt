@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+4.6
+
+Added the Warthog LAM v3
+
 4.5
 
 Added the Fireball

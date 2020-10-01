@@ -5963,6 +5963,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fireball/chrprfweap_fireball_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_fireballbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fireball/chrprfweap_fireball_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_fireballbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fireball/chrprfweap_fireball_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fireballbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fireball/chrprfweap_fireball_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fireballbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/warthoglamv3/chrPrfComp_warthoglamv3_simgame.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_warthoglamv3base-001.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/warthoglamv3/chrPrfComp_warthoglamv3_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" }
     ]
 }

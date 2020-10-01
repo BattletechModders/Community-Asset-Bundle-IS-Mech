@@ -93,7 +93,8 @@ Jaguar LAM
 Osprey
 Phantom LAM
 SLUF LAM
-Warthog LAM
+Warthog LAM v2
+Warthog LAM v3
 Screamer
 
 SolahmaJoe
