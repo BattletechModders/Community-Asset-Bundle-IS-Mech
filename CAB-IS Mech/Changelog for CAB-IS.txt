@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+4.8
+
+Added the Talos Redux 
+
 4.7
 
 Added the Battleaxe 
