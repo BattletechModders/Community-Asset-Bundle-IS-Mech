@@ -5988,6 +5988,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/warthoglamv3/chrprfweap_warthoglamv3_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_warthoglamv3base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/battleaxe/chrPrfComp_battleaxe_simgame.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_battleaxebase-001.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/battleaxe/chrPrfComp_battleaxe_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/battleaxe/chrPrfComp_battleaxe_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" }
     ]
 }

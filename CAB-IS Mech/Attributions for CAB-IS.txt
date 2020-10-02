@@ -183,6 +183,7 @@ Thunder Hawk
 Lynx
 Blackheart
 Fireball
+Battleaxe
 
 Unlicensed Models
 Mason
