@@ -6036,6 +6036,56 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battleaxe/chrprfweap_battleaxe_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_battleaxebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cockatrice/chrPrfComp_cockatrice_simgame.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_cockatricebase-001.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cockatrice/chrPrfComp_cockatrice_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatrice/chrprfweap_cockatrice_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cockatricebot/chrPrfComp_cockatricebot_simgame.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_cockatricebotbase-001.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cockatricebot/chrPrfComp_cockatricebot_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" }
     ]
 }

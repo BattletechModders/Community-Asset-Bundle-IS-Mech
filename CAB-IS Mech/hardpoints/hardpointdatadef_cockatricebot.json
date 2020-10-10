@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_cockatricebot",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_cockatricebot_leftarm_laser_eh1",
+			"chrprfweap_cockatricebot_leftarm_lrm10_mh1",
+			"chrprfweap_cockatricebot_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_cockatricebot_lefttorso_laser_eh1",
+			"chrprfweap_cockatricebot_lefttorso_lrm10_mh1",
+			"chrprfweap_cockatricebot_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_cockatricebot_rightarm_laser_eh1",
+			"chrprfweap_cockatricebot_rightarm_lrm10_mh1",
+			"chrprfweap_cockatricebot_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_cockatricebot_righttorso_laser_eh1",
+			"chrprfweap_cockatricebot_righttorso_lrm10_mh1",
+			"chrprfweap_cockatricebot_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_cockatricebot_centertorso_laser_eh1",
+			"chrprfweap_cockatricebot_centertorso_lrm10_mh1",
+			"chrprfweap_cockatricebot_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

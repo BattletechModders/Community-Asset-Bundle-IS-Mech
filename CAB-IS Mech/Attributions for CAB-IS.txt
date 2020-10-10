@@ -96,6 +96,7 @@ SLUF LAM
 Warthog LAM v2
 Warthog LAM v3
 Screamer
+Cockatrice LAM and Bot
 
 SolahmaJoe
 License:
