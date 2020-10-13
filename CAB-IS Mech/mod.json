@@ -6086,6 +6086,56 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cockatricebot/chrprfweap_cockatricebot_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cockatricebotbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gripger/chrPrfComp_gripger_simgame.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gripgerbase-001.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gripger/chrPrfComp_gripger_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripger/chrprfweap_gripger_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripgerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gripbot/chrPrfComp_gripbot_simgame.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gripbotbase-001.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gripbot/chrPrfComp_gripbot_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gripbot/chrprfweap_gripbot_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gripbotbase-001" }
     ]
 }

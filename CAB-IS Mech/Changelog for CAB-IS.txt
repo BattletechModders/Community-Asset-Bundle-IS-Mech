@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+5.0
+
+Added the Gripen LAM
+
 4.9
 
 Added the Cockatrice and Bot form.
