@@ -98,6 +98,8 @@ Warthog LAM v3
 Screamer
 Cockatrice LAM and Bot
 Gripen LAM and Bot
+Switchblade LAM
+Black Owl LAM
 
 SolahmaJoe
 License:
