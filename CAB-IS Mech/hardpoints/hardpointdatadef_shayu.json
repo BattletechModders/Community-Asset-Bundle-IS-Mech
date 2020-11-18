@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_shayu",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_shayu_leftarm_laser_eh1",
+			"chrprfweap_shayu_leftarm_lrm10_mh1",
+			"chrprfweap_shayu_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_shayu_lefttorso_laser_eh1",
+			"chrprfweap_shayu_lefttorso_lrm10_mh1",
+			"chrprfweap_shayu_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_shayu_rightarm_laser_eh1",
+			"chrprfweap_shayu_rightarm_lrm10_mh1",
+			"chrprfweap_shayu_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_shayu_righttorso_laser_eh1",
+			"chrprfweap_shayu_righttorso_lrm10_mh1",
+			"chrprfweap_shayu_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_shayu_centertorso_laser_eh1",
+			"chrprfweap_shayu_centertorso_lrm10_mh1",
+			"chrprfweap_shayu_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
