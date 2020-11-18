@@ -6232,6 +6232,31 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blackowl/chrprfweap_blackowl_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_blackowlbase-001" },		
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blackowl/chrprfweap_blackowl_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_blackowlbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blackowl/chrprfweap_blackowl_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_blackowlbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blackowl/chrprfweap_blackowl_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_blackowlbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/bombardier/chrPrfComp_bombardier_simgame.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_bombardierbase-001.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/bombardier/chrPrfComp_bombardier_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bombardier/chrprfweap_bombardier_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_bombardierbase-001" }
     ]
 }

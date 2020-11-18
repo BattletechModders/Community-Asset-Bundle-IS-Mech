@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+5.2
+
+Added the Bombardier
+
 5.1
 
 Added the Switchblade LAM and Black Owl LAM
