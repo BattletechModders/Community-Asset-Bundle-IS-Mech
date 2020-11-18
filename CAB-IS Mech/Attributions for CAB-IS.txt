@@ -99,6 +99,7 @@ Screamer
 Cockatrice LAM and Bot
 Gripen LAM and Bot
 Bombardier
+Sha Yu
 
 Transient74 and David L. of SupermotoXL Designs:
 License:
