@@ -6332,7 +6332,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/enfield/chrprfweap_enfield_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_enfieldbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/enfield/chrprfweap_enfield_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_enfieldbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/enfield/chrprfweap_enfield_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_enfieldbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/enfield/chrprfweap_enfield_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_enfieldbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/mantis/chrPrfComp_mantis_simgame.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_mantisbase-001.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/mantis/chrPrfComp_mantis_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mantis/chrprfweap_mantis_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mantisbase-001" }
 	
     ]
 }

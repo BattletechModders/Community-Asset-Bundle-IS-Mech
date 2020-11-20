@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_mantis",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_mantis_leftarm_laser_eh1",
+			"chrprfweap_mantis_leftarm_lrm10_mh1",
+			"chrprfweap_mantis_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_mantis_lefttorso_laser_eh1",
+			"chrprfweap_mantis_lefttorso_lrm10_mh1",
+			"chrprfweap_mantis_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_mantis_rightarm_laser_eh1",
+			"chrprfweap_mantis_rightarm_lrm10_mh1",
+			"chrprfweap_mantis_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_mantis_righttorso_laser_eh1",
+			"chrprfweap_mantis_righttorso_lrm10_mh1",
+			"chrprfweap_mantis_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_mantis_centertorso_laser_eh1",
+			"chrprfweap_mantis_centertorso_lrm10_mh1",
+			"chrprfweap_mantis_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

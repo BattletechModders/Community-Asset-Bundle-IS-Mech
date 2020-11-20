@@ -170,7 +170,10 @@ Creative Commons, Attribution, Non-commercial
 
 Models:
 Yeoman
-Bombardier 
+Bombardier
+Enfield
+Mantis
+Brigand
 
 SmallRobotsInAContainer/Napes
 License:
