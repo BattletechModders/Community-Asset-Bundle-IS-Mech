@@ -98,10 +98,7 @@ Warthog LAM v3
 Screamer
 Cockatrice LAM and Bot
 Gripen LAM and Bot
-Bombardier
-Sha Yu
-Brigand
-Enfield
+VF11 LAM
 
 Transient74 and David L. of SupermotoXL Designs:
 License:
@@ -202,6 +199,7 @@ Lynx
 Blackheart
 Fireball
 Battleaxe
+Sha Yu
 
 Unlicensed Models
 Mason

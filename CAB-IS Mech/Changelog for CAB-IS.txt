@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+5.5
+
+Added the VF11 LAM
+
 5.4
 
 Added the Mantis
@@ -13,6 +17,10 @@ Added the Enfield and Brigand
 5.2
 
 Added the Bombardier
+
+5.05
+
+Sha Yu snuck in?
 
 5.1
 
