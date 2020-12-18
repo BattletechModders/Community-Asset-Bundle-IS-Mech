@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+5.6
+
+Added the Thunder
+
 5.5
 
 Added the VF11 LAM

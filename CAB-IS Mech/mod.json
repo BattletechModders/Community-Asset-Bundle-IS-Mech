@@ -6386,7 +6386,45 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vf11lam/chrprfweap_vf11lam_rightarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_vf11lambase-001" },	
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vf11lam/chrprfweap_vf11lam_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vf11lambase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vf11lam/chrprfweap_vf11lam_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_vf11lambase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vf11lam/chrprfweap_vf11lam_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_vf11lambase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/thunder/chrPrfComp_thunder_simgame.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_thunderbase-001.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/thunder/chrPrfComp_thunder_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/thunder/chrPrfComp_thunder_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_lefttorso_blank_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_arrow_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_forearm_blank.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_lbx_bh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_leftarm_forearm_hand.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/thunder/chrprfweap_thunder_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_thunderbase-001" }
 	
     ]
 }

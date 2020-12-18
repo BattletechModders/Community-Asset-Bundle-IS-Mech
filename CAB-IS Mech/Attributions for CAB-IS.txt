@@ -171,6 +171,7 @@ Bombardier
 Enfield
 Mantis
 Brigand
+Thunder
 
 SmallRobotsInAContainer/Napes
 License:
