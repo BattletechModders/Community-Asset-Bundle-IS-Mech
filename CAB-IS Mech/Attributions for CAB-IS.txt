@@ -24,6 +24,7 @@ Avatar
 Bellerophon
 Bombard
 Clint
+Cyclone
 Dragon Fire
 Emperor
 Firebee

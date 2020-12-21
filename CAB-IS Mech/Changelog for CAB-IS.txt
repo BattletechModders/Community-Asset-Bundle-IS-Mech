@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+5.7
+
+Added the Cyclone
+
 5.6
 
 Added the Thunder
