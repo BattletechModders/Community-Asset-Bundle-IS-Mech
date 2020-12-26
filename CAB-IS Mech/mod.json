@@ -6502,7 +6502,51 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/cyclone/chrprfweap_cyclone_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_cyclonebase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/cyclone/chrprfweap_cyclone_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cyclonebase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/cyclone/chrprfweap_cyclone_righttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_cyclonebase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/cyclone/chrprfweap_cyclone_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cyclonebase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/cyclone/chrprfweap_cyclone_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cyclonebase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/excavator/chrPrfComp_excavator_simgame.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_excavatorbase-001.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/excavator/chrPrfComp_excavator_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/excavator/chrPrfComp_excavator_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_righttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_righttorso_gauss_bh3.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_rightarm_mortar_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_rac2_bh2.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_artillery_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_blank_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_blank_eh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_blank_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_srm2_mh2.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_lefttorso_mortar_bh3.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_leftarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_leftarm_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_leftarm_arrow_mh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_leftarm_mortar_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excavator/chrprfweap_excavator_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_excavatorbase-001" }
 	
     ]
 }

@@ -221,6 +221,10 @@ Mike.g
 Models:
 Crosscut
 
+Nordban
+Models:
+Interplanetary Excavator
+
 Maker Unknown:
 Models:
 Omega

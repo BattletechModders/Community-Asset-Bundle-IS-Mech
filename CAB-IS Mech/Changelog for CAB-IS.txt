@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+5.8
+
+Added the Excavator
+
 5.7
 
 Added the Cyclone
