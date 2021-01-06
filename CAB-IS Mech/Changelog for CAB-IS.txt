@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+5.9
+
+Added the Rakshasa
+
 5.8
 
 Added the Excavator

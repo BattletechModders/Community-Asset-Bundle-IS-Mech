@@ -1,0 +1,81 @@
+{
+    "ID" : "hardpointdatadef_rakshasa",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_rakshasa_leftarm_laser_eh1",
+			"chrprfweap_rakshasa_leftarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			"chrprfweap_rakshasa_leftarm_ac10_bh1"
+            ],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_rakshasa_lefttorso_lrm10_mh1"
+			"chrprfweap_rakshasa_lefttorso_laser_eh1"		
+			],
+			[
+			"chrprfweap_rakshasa_lefttorso_laser_eh2"			
+            ],			
+			[
+			"chrprfweap_rakshasa_lefttorso_laser_eh3"			
+            ]
+			],
+            "blanks" : [
+            ],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_rakshasa_rightarm_laser_eh1",
+			"chrprfweap_rakshasa_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			"chrprfweap_rakshasa_rightarm_ac10_bh1"
+			],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_rakshasa_righttorso_lrm10_mh1"
+			"chrprfweap_rakshasa_righttorso_laser_eh1"		
+			],
+			[
+			"chrprfweap_rakshasa_righttorso_laser_eh2"			
+            ],			
+			[
+			"chrprfweap_rakshasa_righttorso_laser_eh3"			
+            ]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrprfweap_rakshasa_head_laser_eh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        }
+    ]
+	
+}

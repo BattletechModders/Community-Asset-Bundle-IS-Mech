@@ -82,6 +82,7 @@ Vanquisher
 Neanderthal
 (Arthur) Pendragon
 Monster
+Rakshasa
 
 Transient74
 License:
