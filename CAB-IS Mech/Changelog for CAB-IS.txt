@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+6.1
+
+Added the Valkyrie II Redux
+
 6.0
 
 Added the Hollander Redux

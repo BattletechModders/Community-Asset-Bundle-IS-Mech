@@ -1,28 +1,10 @@
 {
     "ID" : "hardpointdatadef_valkyrieii",
-
-
-
     "HardpointData" : [
-        {
-            "location" : "head",
-            "weapons" : [
-				[
-					"chrprfweap_valkyrieii_head_laser_eh1"
-				]
-            ],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },
         {
             "location" : "leftarm",
             "weapons" : [
                 [
-					"chrprfweap_valkyrieii_leftarm_ac10_bh1",
 					"chrprfweap_valkyrieii_leftarm_ac20_bh1",
 					"chrprfweap_valkyrieii_leftarm_gauss_bh1",
 					"chrprfweap_valkyrieii_leftarm_laser_eh1",
@@ -31,20 +13,22 @@
 					"chrprfweap_valkyrieii_leftarm_lrm5_mh1",
 					"chrprfweap_valkyrieii_leftarm_mg_bh1",
 					"chrprfweap_valkyrieii_leftarm_ppc_eh1",
+					"chrprfweap_valkyrieii_leftarm_shield_bh1",
 					"chrprfweap_valkyrieii_leftarm_srm6_mh1",
 					"chrprfweap_valkyrieii_leftarm_uac5_bh1"
                 ],
-                [
-					"chrprfweap_valkyrieii_leftarm_ac20_bh2",
-					"chrprfweap_valkyrieii_leftarm_gauss_bh2",
+				[
 					"chrprfweap_valkyrieii_leftarm_laser_eh2",
+					"chrprfweap_valkyrieii_leftarm_lrm10_mh2",
+					"chrprfweap_valkyrieii_leftarm_lrm5_mh2",
 					"chrprfweap_valkyrieii_leftarm_ppc_eh2",
-					"chrprfweap_valkyrieii_leftarm_uac5_bh2"
-                ],
-                [
+					"chrprfweap_valkyrieii_leftarm_srm6_mh2"
+				],
+				[
 					"chrprfweap_valkyrieii_leftarm_laser_eh3",
 					"chrprfweap_valkyrieii_leftarm_ppc_eh3"
-                ]
+				]
+				
             ],
             "blanks" : [
                 
@@ -58,7 +42,6 @@
             "weapons" : [
                 [
 					"chrprfweap_valkyrieii_lefttorso_ac20_bh1",
-					"chrprfweap_valkyrieii_lefttorso_ac5_bh1",
 					"chrprfweap_valkyrieii_lefttorso_arrow_mh1",
 					"chrprfweap_valkyrieii_lefttorso_flamer_eh1",
 					"chrprfweap_valkyrieii_lefttorso_gauss_bh1",
@@ -68,22 +51,24 @@
 					"chrprfweap_valkyrieii_lefttorso_lrm5_mh1",
 					"chrprfweap_valkyrieii_lefttorso_mg_bh1",
 					"chrprfweap_valkyrieii_lefttorso_ppc_eh1",
-					"chrprfweap_valkyrieii_lefttorso_srm6_mh1"
+					"chrprfweap_valkyrieii_lefttorso_srm6_mh1",
+					"chrprfweap_valkyrieii_lefttorso_uac5_bh1"
                 ],
-                [
+				[
 					"chrprfweap_valkyrieii_lefttorso_flamer_eh2",
 					"chrprfweap_valkyrieii_lefttorso_laser_eh2",
 					"chrprfweap_valkyrieii_lefttorso_ppc_eh2"
-                ],
-                [
+				],
+				[
 					"chrprfweap_valkyrieii_lefttorso_laser_eh3"
-                ],
-                [
+				],
+				[
 					"chrprfweap_valkyrieii_lefttorso_laser_eh4"
-                ]
+				]
+				
             ],
             "blanks" : [
-                
+
             ],
             "mountingPoints" : [
                 
@@ -93,20 +78,20 @@
             "location" : "rightarm",
             "weapons" : [
                 [
-					"chrprfweap_valkyrieii_rightarm_ac10_bh1",
 					"chrprfweap_valkyrieii_rightarm_ac20_bh1",
 					"chrprfweap_valkyrieii_rightarm_gauss_bh1",
+					"chrprfweap_valkyrieii_rightarm_lance_bh1",
 					"chrprfweap_valkyrieii_rightarm_laser_eh1",
 					"chrprfweap_valkyrieii_rightarm_mace_bh1",
-					"chrprfweap_valkyrieii_rightarm_sword_bh1",
 					"chrprfweap_valkyrieii_rightarm_mg_bh1",
 					"chrprfweap_valkyrieii_rightarm_ppc_eh1",
+					"chrprfweap_valkyrieii_rightarm_sword_bh1",
 					"chrprfweap_valkyrieii_rightarm_uac5_bh1"
                 ],
-                [
+				[
 					"chrprfweap_valkyrieii_rightarm_laser_eh2",
 					"chrprfweap_valkyrieii_rightarm_ppc_eh2"
-                ]
+				]
             ],
             "blanks" : [
                 
@@ -120,7 +105,6 @@
             "weapons" : [
                 [
 					"chrprfweap_valkyrieii_righttorso_ac20_bh1",
-					"chrprfweap_valkyrieii_righttorso_ac5_bh1",
 					"chrprfweap_valkyrieii_righttorso_arrow_mh1",
 					"chrprfweap_valkyrieii_righttorso_flamer_eh1",
 					"chrprfweap_valkyrieii_righttorso_gauss_bh1",
@@ -130,22 +114,24 @@
 					"chrprfweap_valkyrieii_righttorso_lrm5_mh1",
 					"chrprfweap_valkyrieii_righttorso_mg_bh1",
 					"chrprfweap_valkyrieii_righttorso_ppc_eh1",
-					"chrprfweap_valkyrieii_righttorso_srm6_mh1"
+					"chrprfweap_valkyrieii_righttorso_srm6_mh1",
+					"chrprfweap_valkyrieii_righttorso_uac5_bh1"
                 ],
-                [
+				[
 					"chrprfweap_valkyrieii_righttorso_flamer_eh2",
 					"chrprfweap_valkyrieii_righttorso_laser_eh2",
 					"chrprfweap_valkyrieii_righttorso_ppc_eh2"
-                ],
-                [
+				],
+				[
 					"chrprfweap_valkyrieii_righttorso_laser_eh3"
-                ],
-                [
+				],
+				[
 					"chrprfweap_valkyrieii_righttorso_laser_eh4"
-                ]
+				]
+				
             ],
             "blanks" : [
-                
+
             ],
             "mountingPoints" : [
                 
