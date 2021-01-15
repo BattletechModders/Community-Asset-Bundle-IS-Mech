@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+6.2 
+
+Added the Phoenix Hawk LAM BattleMech mode
+
 6.1
 
 Added the Valkyrie II Redux

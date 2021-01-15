@@ -6596,7 +6596,28 @@
 	//	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_leftarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phawklammech/chrPrfComp_phawklammech_simgame.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_phawklammechbase-001.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phawklammech/chrPrfComp_phawklammech_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" }
 	
     ]
 }
