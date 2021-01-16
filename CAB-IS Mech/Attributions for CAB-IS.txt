@@ -98,7 +98,8 @@ Phantom LAM
 SLUF LAM
 Warthog LAM v2
 Warthog LAM v3
-Screamer
+Screamer LAM
+Screamer LAM BattleMech
 Cockatrice LAM and Bot
 Gripen LAM and Bot
 VF11 LAM

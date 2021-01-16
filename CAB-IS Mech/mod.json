@@ -6617,7 +6617,28 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/screamermech/chrPrfComp_screamermech_simgame.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_screamermechbase-001.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/screamermech/chrPrfComp_screamermech_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/screamermech/chrprfweap_screamermech_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_screamermechbase-001" }
 	
     ]
 }
