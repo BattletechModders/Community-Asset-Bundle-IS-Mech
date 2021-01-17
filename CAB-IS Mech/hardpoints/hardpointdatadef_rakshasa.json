@@ -18,7 +18,7 @@
             "location" : "lefttorso",
             "weapons" : [
 			[
-			"chrprfweap_rakshasa_lefttorso_lrm10_mh1"
+			"chrprfweap_rakshasa_lefttorso_lrm10_mh1",
 			"chrprfweap_rakshasa_lefttorso_laser_eh1"		
 			],
 			[
@@ -49,7 +49,7 @@
             "location" : "righttorso",
             "weapons" : [
 			[
-			"chrprfweap_rakshasa_righttorso_lrm10_mh1"
+			"chrprfweap_rakshasa_righttorso_lrm10_mh1",
 			"chrprfweap_rakshasa_righttorso_laser_eh1"		
 			],
 			[
