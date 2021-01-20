@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+6.4
+
+Added the Wasp/Stinger/Phoenix Hawk Unseen
+
 6.3
 
 Added the Screamer LAM BattleMech mode

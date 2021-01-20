@@ -153,7 +153,7 @@ Urbanmech50
 Uziel
 Urbie
 UrbieLord
-Wolfhound
+Wolfhound 
 Hammertime Omni
 Longbow
 Zeus X
@@ -164,6 +164,15 @@ Creative Commons - Non-Commercial
 
 Models:
 Mongoose
+
+SouthernMountain
+License:
+Creative Commons - Non-Commercial
+
+Models:
+Wasp Legacy
+Stinger Legacy
+Phoenix Hawk Legacy
 
 JuodasVarnas 
 License:
