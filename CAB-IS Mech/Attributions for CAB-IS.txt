@@ -167,7 +167,7 @@ Mongoose
 
 SouthernMountain
 License:
-Creative Commons - Attribution, Non-Commercial, Share-Alike
+Creative Commons - Attribution, Non-Commercial
 
 Models:
 Wasp Legacy
