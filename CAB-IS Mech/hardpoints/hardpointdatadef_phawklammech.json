@@ -64,22 +64,6 @@
             "mountingPoints" : [
                 
             ]
-        },
-		{
-            "location" : "centertorso",
-            "weapons" : [
-			[
-			"chrprfweap_phawklammech_centertorso_laser_eh1",
-			"chrprfweap_phawklammech_centertorso_lrm10_mh1",
-			"chrprfweap_phawklammech_centertorso_ac10_bh1"
-			]
-			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
         }
     ]
 	
