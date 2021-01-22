@@ -6610,11 +6610,9 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
-	//	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_rightarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
-	//	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_leftarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rakshasa/chrprfweap_rakshasa_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_rakshasabase-001" },	
