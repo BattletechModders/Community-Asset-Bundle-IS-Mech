@@ -84,6 +84,7 @@ Neanderthal
 Monster
 Rakshasa
 Phoenix Hawk LAM BattleMech
+Fafnir II
 
 Transient74
 License:

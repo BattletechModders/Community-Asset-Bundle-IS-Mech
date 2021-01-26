@@ -6782,7 +6782,32 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacy/chrprfweap_phawklegacy_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacy/chrprfweap_phawklegacy_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phawklegacybase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacy/chrprfweap_phawklegacy_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklegacybase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacy/chrprfweap_phawklegacy_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklegacybase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/fafnir2/chrPrfComp_fafnir2_simgame.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_fafnir2base-001.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/fafnir2/chrPrfComp_fafnir2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" }
 	
     ]
 }

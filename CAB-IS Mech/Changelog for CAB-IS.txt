@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+6.5
+
+Added the Fafnir II
+
 6.4
 
 Added the Wasp/Stinger/Phoenix Hawk Unseen
