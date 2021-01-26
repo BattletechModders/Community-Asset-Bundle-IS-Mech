@@ -61,9 +61,7 @@
            "weapons" : [
 			[
 			"chrPrfWeap_warthoglamv2_centertorso_ac2_bh1",
-			"chrPrfWeap_warthoglamv2_centertorso_lrm15_mh1",
-			"chrPrfWeap_warthoglamv2_centertorso_laser_eh1",
-			"chrPrfWeap_warthoglamv2_centertorso_ppc_eh1"
+			"chrPrfWeap_warthoglamv2_centertorso_lrm15_mh1"
 			]
 			],
             "blanks" : [],
