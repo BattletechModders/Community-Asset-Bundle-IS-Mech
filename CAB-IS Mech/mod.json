@@ -6807,7 +6807,37 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fafnir2/chrprfweap_fafnir2_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_fafnir2base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/helios/chrPrfComp_helios_simgame.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_heliosbase-001.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/helios/chrPrfComp_helios_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/helios/chrPrfComp_helios_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_lefttorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_lefttorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_lefttorso_lrm15_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_lefttorso_lrm20_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_lefttorso_srm2_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_lefttorso_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_lefttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_righttorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_righttorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_righttorso_lrm15_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_righttorso_lrm20_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_righttorso_srm2_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_righttorso_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_rightarm_lbx10_bh1.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" }
 	
     ]
 }

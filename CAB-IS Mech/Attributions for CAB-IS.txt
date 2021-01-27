@@ -186,6 +186,7 @@ Enfield
 Mantis
 Brigand
 Thunder
+Helios
 
 SmallRobotsInAContainer/Napes
 License:
