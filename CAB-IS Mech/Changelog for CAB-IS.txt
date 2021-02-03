@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+6.7
+
+Added the Community Hunchback
+
 6.6
 
 Added the Helios
