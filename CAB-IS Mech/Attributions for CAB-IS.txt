@@ -12,6 +12,7 @@ Stinger LAM
 Toro
 Titan II
 Wasp LAM
+Community Hunchback
 
 Lt. Shade
 License: 

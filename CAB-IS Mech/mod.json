@@ -6837,7 +6837,65 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/helios/chrprfweap_helios_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_heliosbase-001" },
+		
+		        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_hunchiebase-001.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hunchie/chrPrfComp_hunchie_simgame.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hunchie/chrPrfComp_hunchie_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_leftarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_rightarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_head_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_laser_eh5.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_laser_eh6.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_ac20_bh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_laser_eh5.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_ac20_bh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hunchie/chrprfweap_hunchie_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hunchiebase-001" }
 	
     ]
 }
