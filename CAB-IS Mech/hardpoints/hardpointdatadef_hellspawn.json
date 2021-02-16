@@ -6,34 +6,47 @@
             "weapons": [
                 [
                     "chrprfweap_hellspawn_leftarm_laser_eh1",
-                    "chrprfweap_hellspawn_leftarm_ppc_eh1"
-                ],
-                [
+                    "chrprfweap_hellspawn_leftarm_ppc_eh1",
+                    "chrprfweap_hellspawn_leftarm_gauss_bh1",
+                    "chrprfweap_hellspawn_leftarm_ac20_bh1",
+                    "chrprfweap_hellspawn_leftarm_srm6_mh1",
+                    "chrprfweap_hellspawn_leftarm_lrm15_mh1"					
+				],
+				[
                     "chrprfweap_hellspawn_leftarm_laser_eh2",
-                    "chrprfweap_hellspawn_leftarm_ppc_eh2"
-                ]
+                    "chrprfweap_hellspawn_leftarm_ppc_eh2",
+                    "chrprfweap_hellspawn_leftarm_lrm15_mh1"				
+                ],
+				[
+                    "chrprfweap_hellspawn_leftarm_mg_bh3",
+                    "chrprfweap_hellspawn_leftarm_flamer_eh3"					
+				]
             ],
-            "blanks": [
-                "chrprfweap_hellspawn_leftarm_blank_gb1"
-            ],
+            "blanks": [],
             "mountingPoints": []
         },
         {
             "location": "lefttorso",
             "weapons": [
-                [
-                    "chrprfweap_hellspawn_lefttorso_lrm10_mh1",
-                    "chrprfweap_hellspawn_lefttorso_lrm20_mh1",
+				[
                     "chrprfweap_hellspawn_lefttorso_srm6_mh1",
+                    "chrprfweap_hellspawn_lefttorso_lrm15_mh1",					
                     "chrprfweap_hellspawn_lefttorso_laser_eh1",
+                    "chrprfweap_hellspawn_lefttorso_flamer_eh1",
                     "chrprfweap_hellspawn_lefttorso_ppc_eh1"
-                ],
-                [
-                    "chrprfweap_hellspawn_lefttorso_lrm10_mh2",
-                    "chrprfweap_hellspawn_lefttorso_lrm20_mh2",
-                    "chrprfweap_hellspawn_lefttorso_srm6_mh2"
-                ]
-            ],
+				],
+				[
+                    "chrprfweap_hellspawn_lefttorso_srm6_mh2",
+                    "chrprfweap_hellspawn_lefttorso_lrm15_mh2",
+                    "chrprfweap_hellspawn_lefttorso_laser_eh1",
+                    "chrprfweap_hellspawn_lefttorso_flamer_eh1",
+                    "chrprfweap_hellspawn_lefttorso_ppc_eh1"
+				],
+				[
+                    "chrprfweap_hellspawn_lefttorso_srm6_mh3",
+                    "chrprfweap_hellspawn_lefttorso_lrm15_mh3"
+				]
+			],
             "blanks": [],
             "mountingPoints": []
         },
@@ -42,43 +55,71 @@
             "weapons": [
                 [
                     "chrprfweap_hellspawn_rightarm_laser_eh1",
-                    "chrprfweap_hellspawn_rightarm_ppc_eh1"
-                ],
-                [
+                    "chrprfweap_hellspawn_rightarm_ppc_eh1",
+                    "chrprfweap_hellspawn_rightarm_gauss_bh1",
+                    "chrprfweap_hellspawn_rightarm_ac20_bh1",
+                    "chrprfweap_hellspawn_rightarm_srm6_mh1",
+                    "chrprfweap_hellspawn_rightarm_lrm15_mh1"					
+				],
+				[
                     "chrprfweap_hellspawn_rightarm_laser_eh2",
-                    "chrprfweap_hellspawn_rightarm_lrm10_mh2",
-                    "chrprfweap_hellspawn_rightarm_srm6_mh2"
-                ]
-            ],
-            "blanks": [
-                "chrprfweap_hellspawn_rightarm_blank_gb1"
-            ],
+                    "chrprfweap_hellspawn_rightarm_ppc_eh2",
+                    "chrprfweap_hellspawn_rightarm_lrm15_mh1"			
+                ],
+				[
+                    "chrprfweap_hellspawn_rightarm_mg_bh3",
+                    "chrprfweap_hellspawn_rightarm_flamer_eh3"				
+				]			
+			],
+            "blanks": [],
             "mountingPoints": []
         },
         {
             "location": "righttorso",
             "weapons": [
-                [
+				[
                     "chrprfweap_hellspawn_righttorso_laser_eh1",
+                    "chrprfweap_hellspawn_righttorso_flamer_eh1",
                     "chrprfweap_hellspawn_righttorso_ppc_eh1"
-                ],
-                [
+				],
+				[
                     "chrprfweap_hellspawn_righttorso_laser_eh2",
+                    "chrprfweap_hellspawn_righttorso_flamer_eh2",
                     "chrprfweap_hellspawn_righttorso_ppc_eh2"
-                ]
-            ],
+				],
+				[
+                    "chrprfweap_hellspawn_righttorso_srm6_mh1",
+                    "chrprfweap_hellspawn_righttorso_lrm15_mh1"
+				]
+			],
             "blanks": [],
             "mountingPoints": []
         },
         {
             "location": "centertorso",
-            "weapons": [],
+            "weapons": [
+				[
+                    "chrprfweap_hellspawn_centertorso_ppc_eh1",
+                    "chrprfweap_hellspawn_centertorso_laser_eh1",
+                    "chrprfweap_hellspawn_centertorso_flamer_eh1"
+				],
+				[
+                    "chrprfweap_hellspawn_centertorso_mg_bh1",
+                    "chrprfweap_hellspawn_centertorso_srm6_mh1"
+				]				
+			],
             "blanks": [],
             "mountingPoints": []
         },
         {
             "location": "head",
-            "weapons": [],
+            "weapons": [
+				[
+                    "chrprfweap_hellspawn_head_mg_bh1",
+                    "chrprfweap_hellspawn_head_srm6_mh1",
+                    "chrprfweap_hellspawn_head_laser_eh1"					
+				]			
+			],
             "blanks": [],
             "mountingPoints": []
         }
