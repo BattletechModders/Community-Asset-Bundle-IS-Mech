@@ -6968,7 +6968,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/uziel/chrprfweap_uziel_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_uzielbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/uziel/chrprfweap_uziel_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_uzielbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/uziel/chrprfweap_uziel_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_uzielbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/uziel/chrprfweap_uziel_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_uzielbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/uziel/chrprfweap_uziel_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_uzielbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phawklegacylam/chrPrfComp_phawklegacylam_simgame.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_phawklegacylambase-001.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phawklegacylam/chrPrfComp_phawklegacylam_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" }
 	
     ]
 }
