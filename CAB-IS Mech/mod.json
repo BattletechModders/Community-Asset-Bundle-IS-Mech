@@ -6978,7 +6978,17 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklegacylam/chrprfweap_phawklegacylam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklegacylambase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/carronade/chrPrfComp_carronade_simgame.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_carronadebase-001.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/carronade/chrPrfComp_carronade_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" }
 	
     ]
 }
