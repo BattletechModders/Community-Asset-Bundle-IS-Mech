@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+6.9
+
+Added the Falcon
+
 6.8
 Added a lot of things i forgot to note
 
