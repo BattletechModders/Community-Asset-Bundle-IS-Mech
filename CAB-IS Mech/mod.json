@@ -6988,7 +6988,17 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/carronade/chrprfweap_carronade_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_carronadebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hito/chrPrfComp_hito_simgame.prefab", "AssetBundleName": "chrprfmech_hitobase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_hitobase-001.prefab", "AssetBundleName": "chrprfmech_hitobase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hito/chrPrfComp_hito_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_hitobase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hito/chrprfweap_hito_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hitobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hito/chrprfweap_hito_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hitobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hito/chrprfweap_hito_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hitobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hito/chrprfweap_hito_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hitobase-001" }
 	
     ]
 }

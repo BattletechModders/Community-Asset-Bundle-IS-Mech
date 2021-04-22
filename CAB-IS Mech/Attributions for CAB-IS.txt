@@ -249,3 +249,6 @@ Omega
 SirMortimer and Transient
 Model and Import:
 Carronade
+
+Vossiewulf and Transient
+Hitotsume Kozo
