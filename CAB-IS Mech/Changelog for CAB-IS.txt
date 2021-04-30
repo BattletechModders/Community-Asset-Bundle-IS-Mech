@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+7.0
+
+Added the Von Rohrs
+
 6.9
 
 Added the Falcon
