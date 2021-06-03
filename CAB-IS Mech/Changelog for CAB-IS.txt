@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+7.1
+
+Added the Hoplite
+
 7.0
 
 Added the Von Rohrs
