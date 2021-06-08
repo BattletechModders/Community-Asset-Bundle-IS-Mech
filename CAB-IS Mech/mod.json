@@ -7053,7 +7053,44 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hoplite/chrprfweap_hoplite_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hoplitebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hoplite/chrprfweap_hoplite_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hoplitebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hoplite/chrprfweap_hoplite_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hoplitebase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hoplite/chrprfweap_hoplite_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hoplitebase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hoplite/chrprfweap_hoplite_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hoplitebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/digking/chrPrfComp_digking_simgame.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_digkingbase-001.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_leftarm_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_leftarm_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_leftarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_leftarm_grinder_bh3.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_lefttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_mg_bh3.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_axe_bh4.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_blank_bh4.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_mace_bh4.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_saw_bh4.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_rightarm_miner_bh4.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" }
 	
     ]
 }

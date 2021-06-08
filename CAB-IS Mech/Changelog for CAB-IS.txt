@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+7.2
+
+Added the Dig King 
+
 7.1
 
 Added the Hoplite

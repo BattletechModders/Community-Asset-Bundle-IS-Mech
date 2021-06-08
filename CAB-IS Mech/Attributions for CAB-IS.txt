@@ -219,6 +219,13 @@ Fireball
 Battleaxe
 Sha Yu
 
+FrostRaptor
+License:
+CC BY-NC-SA 4.0
+
+Models:
+Dig King
+
 Unlicensed Models
 Mason
 Models:
