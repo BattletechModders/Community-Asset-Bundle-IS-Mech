@@ -1,0 +1,72 @@
+{
+    "ID" : "hardpointdatadef_toyama",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_toyama_leftarm_laser_eh1"
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_toyama_lefttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_toyama_rightarm_laser_eh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_toyama_righttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

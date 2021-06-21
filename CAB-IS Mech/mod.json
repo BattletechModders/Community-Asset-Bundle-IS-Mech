@@ -7100,7 +7100,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/toyama/chrPrfComp_toyama_simgame.prefab", "AssetBundleName": "chrprfmech_toyamabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_toyamabase-001.prefab", "AssetBundleName": "chrprfmech_toyamabase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/toyama/chrPrfComp_toyama_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_toyamabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toyama/chrprfweap_toyama_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_toyamabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toyama/chrprfweap_toyama_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_toyamabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toyama/chrprfweap_toyama_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_toyamabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toyama/chrprfweap_toyama_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_toyamabase-001" }
 	
     ]
 }
