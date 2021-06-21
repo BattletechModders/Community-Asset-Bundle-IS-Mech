@@ -7090,7 +7090,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/digking/chrprfweap_digking_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_digkingbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/vossieostscout/chrPrfComp_vossieostscout_simgame.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_vossieostscoutbase-001.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/vossieostscout/chrPrfComp_vossieostscout_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vossieostscout/chrprfweap_vossieostscout_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vossieostscoutbase-001" }
 	
     ]
 }

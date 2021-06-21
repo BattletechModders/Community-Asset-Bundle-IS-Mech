@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+7.3
+
+Added the Ostscout
+
 7.2
 
 Added the Dig King 
