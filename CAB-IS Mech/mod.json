@@ -7144,14 +7144,14 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_lefttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_lefttorso_blank_mh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_righttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_righttorso_blank_mh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gunslinger/chrprfweap_gunslinger_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_gunslingerbase-001" }
 	
     ]
 }
