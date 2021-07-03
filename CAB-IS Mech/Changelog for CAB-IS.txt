@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+7.5
+
+Added the Gunslinger
+
 7.4
 
 Added the Toyama
