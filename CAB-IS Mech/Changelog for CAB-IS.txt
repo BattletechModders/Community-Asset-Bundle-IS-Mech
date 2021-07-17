@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+7.6
+
+Updated the Juggernaut
+
 7.5
 
 Added the Gunslinger
