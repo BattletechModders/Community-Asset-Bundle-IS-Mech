@@ -255,13 +255,27 @@ Omega
 
 
 SirMortimer and Transient
-Model and Import:
+License:
+Unlicensed
+
+Models:
 Carronade
 Hoplite
 
 Vossiewulf and Transient
+License:
+Unlicensed
+
+Models:
 Hitotsume Kozo
 Falcon
 Von Rohrs
 Ostscout
 Toyama
+
+Brian Banzai and Transient
+License:
+Unlicensed
+
+Models:
+Shootist

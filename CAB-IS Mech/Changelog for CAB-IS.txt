@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+7.7
+
+Added the Shootist
+
 7.6
 
 Updated the Juggernaut
