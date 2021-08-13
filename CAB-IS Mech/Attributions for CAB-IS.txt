@@ -261,7 +261,6 @@ Unlicensed
 Models:
 Carronade
 Hoplite
-Ghost
 
 Vossiewulf and Transient
 License:
