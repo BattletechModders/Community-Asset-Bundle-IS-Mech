@@ -7166,7 +7166,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shootist/chrprfweap_shootist_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shootistbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shootist/chrprfweap_shootist_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shootistbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shootist/chrprfweap_shootist_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shootistbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shootist/chrprfweap_shootist_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shootistbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shootist/chrprfweap_shootist_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shootistbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ghost/chrPrfComp_ghost_simgame.prefab", "AssetBundleName": "chrprfmech_ghostbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ghostbase-001.prefab", "AssetBundleName": "chrprfmech_ghostbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ghost/chrPrfComp_ghost_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ghostbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ghost/chrprfweap_ghost_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ghostbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ghost/chrprfweap_ghost_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ghostbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ghost/chrprfweap_ghost_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ghostbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ghost/chrprfweap_ghost_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ghostbase-001" }
 	
     ]
 }
