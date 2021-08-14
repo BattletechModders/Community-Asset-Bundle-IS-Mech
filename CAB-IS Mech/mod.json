@@ -7183,6 +7183,8 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/legacy/chrPrfComp_legacy_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_legacybase-001" },
 		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/legacy/chrprfweap_legacy_leftarm_energy_eh1.prefab", "AssetBundleName": "chrprfmech_legacybase-001" },
+		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/legacy/chrprfweap_legacy_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_legacybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/legacy/chrprfweap_legacy_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_legacybase-001" },
 

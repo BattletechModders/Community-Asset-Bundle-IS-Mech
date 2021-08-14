@@ -3,7 +3,11 @@
     "HardpointData" : [
         {
             "location" : "leftarm",
-            "weapons" : [],
+            "weapons" : [
+			[
+			"chrprfweap_legacy_leftarm_energy_eh1"		
+			]
+			],
             "blanks" : [],
             "mountingPoints" : []
         },
