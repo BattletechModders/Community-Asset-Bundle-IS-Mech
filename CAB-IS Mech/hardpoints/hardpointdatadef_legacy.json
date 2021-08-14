@@ -1,0 +1,59 @@
+{
+    "ID" : "hardpointdatadef_legacy",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_legacy_lefttorso_ac10_bh1"		
+            ]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_legacy_rightarm_laser_eh1"	
+			],
+			[
+			"chrprfweap_legacy_rightarm_laser_eh2"		
+            ]
+			],
+            "blanks" : [
+			],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_legacy_righttorso_ac10_bh1"		
+            ],
+			[
+			"chrprfweap_legacy_righttorso_srm4_mh1"		
+            ]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        }
+    ]
+	
+}

@@ -86,6 +86,7 @@ Monster
 Rakshasa
 Phoenix Hawk LAM BattleMech
 Fafnir II
+Legacy
 
 Transient74
 License:
@@ -261,6 +262,7 @@ Unlicensed
 Models:
 Carronade
 Hoplite
+Ghost
 
 Vossiewulf and Transient
 License:
