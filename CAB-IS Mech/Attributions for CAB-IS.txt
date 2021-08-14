@@ -69,6 +69,7 @@ Ion BruinIon Cyclops
 Ion Dolorie
 Ion Longbow
 Ion Raptor
+Ion Raptor 2
 Ion Sunder
 Ion Zeus
 Owens

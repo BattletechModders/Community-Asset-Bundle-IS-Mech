@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+7.9
+
+Added the Ion Raptor 2
+
 7.8
 
 Added the Ghost and Legacy

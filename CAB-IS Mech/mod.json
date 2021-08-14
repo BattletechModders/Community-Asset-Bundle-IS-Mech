@@ -7191,7 +7191,43 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/legacy/chrprfweap_legacy_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_legacybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/legacy/chrprfweap_legacy_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_legacybase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/legacy/chrprfweap_legacy_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_legacybase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/legacy/chrprfweap_legacy_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_legacybase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionraptor2/chrPrfComp_ionraptor2_simgame.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ionraptor2base-001.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionraptor2/chrPrfComp_ionraptor2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+			{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_leftarm_mml7_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+			{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_rightarm_mml7_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_lefttorso_ams_bh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_lefttorso_arrowiv_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_lefttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_lefttorso_rac5_bh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_arrowiv_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_rac5_bh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" }
 	
     ]
 }
