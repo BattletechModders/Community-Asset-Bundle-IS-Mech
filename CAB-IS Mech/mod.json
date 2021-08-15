@@ -7237,7 +7237,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/redcorsair/chrPrfComp_redcorsair_simgame.prefab", "AssetBundleName": "chrprfmech_redcorsairbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_redcorsairbase-001.prefab", "AssetBundleName": "chrprfmech_redcorsairbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/redcorsair/chrPrfComp_redcorsair_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_redcorsairbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/redcorsair/chrprfweap_redcorsair_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_redcorsairbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/redcorsair/chrprfweap_redcorsair_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_redcorsairbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/redcorsair/chrprfweap_redcorsair_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_redcorsairbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/redcorsair/chrprfweap_redcorsair_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_redcorsairbase-001" }
 	
     ]
 }

@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+8.1
+
+Added the Red Corsair
+
 8.0
 
 Added the Gun

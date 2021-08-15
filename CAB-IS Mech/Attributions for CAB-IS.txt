@@ -265,6 +265,7 @@ Carronade
 Hoplite
 Ghost
 Gun
+Red Corsair
 
 Vossiewulf and Transient
 License:
