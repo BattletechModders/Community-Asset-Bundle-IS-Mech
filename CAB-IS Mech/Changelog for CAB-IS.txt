@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+8.0
+
+Added the Gun
+
 7.9
 
 Added the Ion Raptor 2

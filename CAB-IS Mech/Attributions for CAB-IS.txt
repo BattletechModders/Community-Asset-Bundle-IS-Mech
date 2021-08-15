@@ -264,6 +264,7 @@ Models:
 Carronade
 Hoplite
 Ghost
+Gun
 
 Vossiewulf and Transient
 License:

@@ -7227,7 +7227,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_rac5_bh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionraptor2/chrprfweap_ionraptor2_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_ionraptor2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gun/chrPrfComp_gun_simgame.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gunbase-001.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gun/chrPrfComp_gun_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun/chrprfweap_gun_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gunbase-001" }
 	
     ]
 }
