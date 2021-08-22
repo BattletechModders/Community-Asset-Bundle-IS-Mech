@@ -1,0 +1,74 @@
+{
+    "ID" : "hardpointdatadef_atlasiv",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_atlasiv_leftarm_ac5_bh1",
+			"chrprfweap_atlasiv_leftarm_ac10_bh1",
+			"chrprfweap_atlasiv_leftarm_ppc_eh1"
+			"chrprfweap_atlasiv_leftarm_ac20_bh1",
+			"chrprfweap_atlasiv_leftarm_rac5_bh1",
+			"chrprfweap_atlasiv_leftarm_gauss_bh1"
+			],
+			[
+			"chrprfweap_atlasiv_leftarm_laser_eh1",
+			"chrprfweap_atlasiv_leftarm_laser_eh2"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_atlasiv_lefttorso_laser_eh1"
+            ]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_atlasiv_rightarm_ac5_bh1",
+			"chrprfweap_atlasiv_rightarm_ac10_bh1",
+			"chrprfweap_atlasiv_rightarm_ppc_eh1"
+			"chrprfweap_atlasiv_rightarm_ac20_bh1",
+			"chrprfweap_atlasiv_rightarm_rac5_bh1",
+			"chrprfweap_atlasiv_rightarm_gauss_bh1"
+			],
+			[
+			"chrprfweap_atlasiv_rightarm_laser_eh1",
+			"chrprfweap_atlasiv_rightarm_laser_eh2"
+			]
+			],
+            "blanks" : [],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_atlasiv_righttorso_laser_eh1"
+            ]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        }
+    ]
+	
+}
