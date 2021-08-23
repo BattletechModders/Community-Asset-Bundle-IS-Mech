@@ -7253,11 +7253,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_atlasivbase-001.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },	
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/atlasiv/chrPrfComp_atlasiv_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
-		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
+			
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_leftarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
@@ -7265,8 +7261,6 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_leftarm_rac5_bh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlasiv/chrprfweap_atlasiv_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_atlasivbase-001" },
