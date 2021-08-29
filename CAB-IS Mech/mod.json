@@ -5765,7 +5765,6 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_leftarm_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_leftarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_leftarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/bellerophon/chrprfweap_bellerophon_leftarm_blank_mh2.prefab", "AssetBundleName": "chrprfmech_bellerophonbase-001" },
