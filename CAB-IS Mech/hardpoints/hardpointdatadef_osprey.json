@@ -5,11 +5,27 @@
         {
             "location" : "leftarm",
             "weapons" : [
-			[
+				[
 			"chrPrfWeap_osprey_leftarm_laser_eh1",
-			"chrPrfWeap_osprey_leftarm_ac10_bh1",
-			"chrPrfWeap_osprey_leftarm_lrm10_mh1"	
-			]
+			"chrPrfWeap_osprey_leftarm_flamer_eh1",
+			"chrPrfWeap_osprey_leftarm_ppc_eh1",
+			"chrPrfWeap_osprey_leftarm_lrm5_mh1",
+			"chrPrfWeap_osprey_leftarm_lrm10_mh1",
+			"chrPrfWeap_osprey_leftarm_lrm15_mh1",
+			"chrPrfWeap_osprey_leftarm_lrm20_mh1",
+			"chrPrfWeap_osprey_leftarm_srm4_mh1",
+			"chrPrfWeap_osprey_leftarm_srm6_mh1"
+				],
+				[
+			"chrPrfWeap_osprey_leftarm_laser_eh2",
+			"chrPrfWeap_osprey_leftarm_flamer_eh2",
+			"chrPrfWeap_osprey_leftarm_ppc_eh2",
+			"chrPrfWeap_osprey_leftarm_lrm5_mh2",
+			"chrPrfWeap_osprey_leftarm_lrm10_mh2",
+			"chrPrfWeap_osprey_leftarm_lrm15_mh2",
+			"chrPrfWeap_osprey_leftarm_srm4_mh2",
+			"chrPrfWeap_osprey_leftarm_srm6_mh2"
+				]
 			],
             "blanks" : [],
             "mountingPoints" : []
@@ -17,11 +33,22 @@
         {
             "location" : "lefttorso",
             "weapons" : [
-			[
-			"chrPrfWeap_osprey_lefttorso_laser_eh1",
+				[
+			"chrPrfWeap_osprey_lefttorso_ac2_bh1",
+			"chrPrfWeap_osprey_lefttorso_ac5_bh1",
 			"chrPrfWeap_osprey_lefttorso_ac10_bh1",
-			"chrPrfWeap_osprey_lefttorso_lrm10_mh1"	
-			]
+			"chrPrfWeap_osprey_lefttorso_ac20_bh1",
+			"chrPrfWeap_osprey_lefttorso_mg_bh1",
+			"chrPrfWeap_osprey_lefttorso_gauss_bh1",
+			"chrPrfWeap_osprey_lefttorso_lrm10_mh1",
+			"chrPrfWeap_osprey_lefttorso_lrm20_mh1",
+			"chrPrfWeap_osprey_lefttorso_srm6_mh1"
+				],
+				[
+			"chrPrfWeap_osprey_lefttorso_lrm10_mh2",
+			"chrPrfWeap_osprey_lefttorso_lrm20_mh2",
+			"chrPrfWeap_osprey_lefttorso_srm6_mh2"
+				]
 			],
             "blanks" : [],
             "mountingPoints" : []
@@ -29,11 +56,23 @@
         {
             "location" : "rightarm",
             "weapons" : [
-			[
+				[
 			"chrPrfWeap_osprey_rightarm_laser_eh1",
+			"chrPrfWeap_osprey_rightarm_flamer_eh1",
+			"chrPrfWeap_osprey_rightarm_ppc_eh1",
+			"chrPrfWeap_osprey_rightarm_ac2_bh1",
+			"chrPrfWeap_osprey_rightarm_ac5_bh1",
 			"chrPrfWeap_osprey_rightarm_ac10_bh1",
+			"chrPrfWeap_osprey_rightarm_ac20_bh1",
+			"chrPrfWeap_osprey_rightarm_mg_bh1",
+			"chrPrfWeap_osprey_rightarm_gauss_bh1",
 			"chrPrfWeap_osprey_rightarm_lrm10_mh1"	
-			]
+				],
+				[
+			"chrPrfWeap_osprey_rightarm_flamer_eh2",
+			"chrPrfWeap_osprey_rightarm_ppc_eh2",
+			"chrPrfWeap_osprey_rightarm_laser_eh2"
+				]
 			],
             "blanks" : [],
             "mountingPoints" : []
@@ -41,11 +80,26 @@
         {
             "location" : "righttorso",
             "weapons" : [
-			[
+				[
 			"chrPrfWeap_osprey_righttorso_laser_eh1",
 			"chrPrfWeap_osprey_righttorso_lrm10_mh1",
-			"chrPrfWeap_osprey_righttorso_ac10_bh1"		
-			]			
+			"chrPrfWeap_osprey_righttorso_lrm20_mh1",
+			"chrPrfWeap_osprey_righttorso_srm6_mh1",
+			"chrPrfWeap_osprey_righttorso_mg_bh1",
+			"chrPrfWeap_osprey_righttorso_gauss_bh1",
+			"chrPrfWeap_osprey_righttorso_ac2_bh1",
+			"chrPrfWeap_osprey_righttorso_ac5_bh1",
+			"chrPrfWeap_osprey_righttorso_ac10_bh1",
+			"chrPrfWeap_osprey_righttorso_ac20_bh1"
+				],
+				[
+			"chrPrfWeap_osprey_righttorso_srm6_mh2",
+			"chrPrfWeap_osprey_righttorso_mg_bh2",
+			"chrPrfWeap_osprey_righttorso_lrm10_mh2",
+			"chrPrfWeap_osprey_righttorso_lrm20_mh2",
+			"chrPrfWeap_osprey_righttorso_ac5_bh2",
+			"chrPrfWeap_osprey_righttorso_ac10_bh2"
+				]
 			],
             "blanks" : [],
             "mountingPoints" : []
