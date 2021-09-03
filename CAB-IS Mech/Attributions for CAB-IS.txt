@@ -88,6 +88,7 @@ Rakshasa
 Phoenix Hawk LAM BattleMech
 Fafnir II
 Legacy
+Atlas IV
 
 Transient74
 License:
