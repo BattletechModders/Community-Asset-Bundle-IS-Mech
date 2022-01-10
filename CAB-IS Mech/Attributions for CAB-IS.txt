@@ -89,6 +89,7 @@ Phoenix Hawk LAM BattleMech
 Fafnir II
 Legacy
 Atlas IV
+Seraph
 
 Transient74
 License:
