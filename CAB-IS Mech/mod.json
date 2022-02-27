@@ -7297,7 +7297,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/seraph/chrprfweap_seraph_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_seraphbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/seraph/chrprfweap_seraph_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_seraphbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/seraph/chrprfweap_seraph_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_seraphbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/seraph/chrprfweap_seraph_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_seraphbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/seraph/chrprfweap_seraph_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_seraphbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ymir/chrPrfComp_ymir_simgame.prefab", "AssetBundleName": "chrprfmech_ymirbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ymirbase-001.prefab", "AssetBundleName": "chrprfmech_ymirbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ymir/chrPrfComp_ymir_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ymirbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ymir/chrprfweap_ymir_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ymirbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ymir/chrprfweap_ymir_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ymirbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ymir/chrprfweap_ymir_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ymirbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ymir/chrprfweap_ymir_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ymirbase-001" }
 	
     ]
 }
