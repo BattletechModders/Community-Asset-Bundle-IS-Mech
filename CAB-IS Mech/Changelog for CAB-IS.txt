@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+8.5
+
+Added the Grigori
+
 8.4
 
 Added the Ymir
