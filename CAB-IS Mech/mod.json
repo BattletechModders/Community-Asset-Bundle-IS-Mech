@@ -3153,35 +3153,6 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/owens/chrPrfWeap_owens_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_owensbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/owens/chrPrfWeap_owens_head_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_owensbase-001" },
 
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phantom/chrPrfComp_phantom_simgame.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_phantombase-001.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phantom/chrPrfComp_phantom_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_head_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrprfweap_phantom_head_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phawklam/chrPrfComp_phawklam_simgame.prefab", "AssetBundleName": "chrprfmech_phawklambase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_phawklambase-001.prefab", "AssetBundleName": "chrprfmech_phawklambase-001" },
 
