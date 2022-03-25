@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+8.6
+
+Fixed some duplication issue with the Phantom LAM.
+
 8.5
 
 Added the Grigori
