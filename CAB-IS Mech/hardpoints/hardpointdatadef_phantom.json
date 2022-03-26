@@ -1,0 +1,102 @@
+{
+    "ID" : "hardpointdatadef_phantom",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_phantom_leftarm_laser_eh1",
+			"chrprfweap_phantom_leftarm_ac10_bh1",
+			"chrprfweap_phantom_leftarm_lrm10_mh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_phantom_lefttorso_laser_eh1",
+			"chrprfweap_phantom_lefttorso_ac10_bh1",
+			"chrprfweap_phantom_lefttorso_lrm10_mh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_phantom_rightarm_laser_eh1",
+			"chrprfweap_phantom_rightarm_ac10_bh1",
+			"chrprfweap_phantom_rightarm_lrm10_mh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_phantom_righttorso_laser_eh1",
+			"chrprfweap_phantom_righttorso_ac10_bh1",
+			"chrprfweap_phantom_righttorso_lrm10_mh1"
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrprfweap_phantom_head_laser_eh1",
+			"chrprfweap_phantom_head_ac10_bh1",
+			"chrprfweap_phantom_head_lrm10_mh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_phantom_centertorso_laser_eh1",
+			"chrprfweap_phantom_centertorso_ac10_bh1",
+			"chrprfweap_phantom_centertorso_lrm10_mh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
