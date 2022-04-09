@@ -1,0 +1,97 @@
+{
+    "ID" : "hardpointdatadef_iondeva",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_iondeva_leftarm_flamer_eh1"
+			]
+			],
+            "blanks" : [
+			"chrprfweap_iondeva_leftarm_blank_mh1"
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_iondeva_lefttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_iondeva_lefttorso_laser_eh2"
+			],
+			[
+			"chrprfweap_iondeva_lefttorso_lrm15_mh3"
+			],
+			[
+			"chrprfweap_iondeva_lefttorso_srm4_mh4"
+			]				
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_iondeva_rightarm_ppc_eh1",
+			"chrprfweap_iondeva_rightarm_ac10_bh1"			
+			],
+			[
+			"chrprfweap_iondeva_rightarm_laser_eh2"			
+			],	
+			[
+			"chrprfweap_iondeva_rightarm_laser_eh3"		
+			]
+			],
+            "blanks" : [
+            
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_iondeva_righttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_iondeva_righttorso_laser_eh2"
+			],
+			[
+			"chrprfweap_iondeva_righttorso_lrm15_mh3"
+			],
+			[
+			"chrprfweap_iondeva_righttorso_srm4_mh4"
+			]				
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
