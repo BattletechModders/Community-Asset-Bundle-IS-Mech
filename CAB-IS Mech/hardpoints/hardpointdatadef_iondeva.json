@@ -25,7 +25,8 @@
 			"chrprfweap_iondeva_lefttorso_laser_eh2"
 			],
 			[
-			"chrprfweap_iondeva_lefttorso_lrm15_mh3"
+			"chrprfweap_iondeva_lefttorso_lrm15_mh3",
+			"chrprfweap_iondeva_lefttorso_ppc_eh3"
 			],
 			[
 			"chrprfweap_iondeva_lefttorso_srm4_mh4"
@@ -69,7 +70,8 @@
 			"chrprfweap_iondeva_righttorso_laser_eh2"
 			],
 			[
-			"chrprfweap_iondeva_righttorso_lrm15_mh3"
+			"chrprfweap_iondeva_righttorso_lrm15_mh3",
+			"chrprfweap_iondeva_righttorso_ppc_eh3"
 			],
 			[
 			"chrprfweap_iondeva_righttorso_srm4_mh4"
@@ -85,6 +87,23 @@
 		{
             "location" : "centertorso",
             "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrprfweap_iondeva_head_laser_eh1"
+			],
+			[
+			"chrprfweap_iondeva_head_laser_eh2"
+			]			
+			],
             "blanks" : [
                 
             ],

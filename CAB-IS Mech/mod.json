@@ -7331,22 +7331,24 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/iondeva/chrPrfComp_iondeva_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_head_laser_eh2.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
+
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_lefttorso_lrm15_mh3.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_lefttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_lefttorso_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_leftarm_blank_mh1.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
-
-
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_righttorso_lrm15_mh3.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_righttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_righttorso_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 
-		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondeva/chrprfweap_iondeva_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_iondevabase-001" },
