@@ -113,6 +113,13 @@ Gripen LAM and Bot
 VF11 LAM
 LegacyPHawk
 
+Transient74 and IonRaptor
+License:
+Creative Commons, Non-commercial
+
+Models:
+Liberty
+
 Transient74 and David L. of SupermotoXL Designs:
 License:
 Creative Commons, Non-commercial
