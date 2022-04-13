@@ -7377,6 +7377,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
@@ -7392,6 +7393,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_libertybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/liberty/chrprfweap_liberty_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_libertybase-001" }
 	
     ]
