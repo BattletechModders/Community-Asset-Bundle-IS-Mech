@@ -112,6 +112,7 @@ Cockatrice LAM and Bot
 Gripen LAM and Bot
 VF11 LAM
 LegacyPHawk
+Freedom
 
 Transient74 and IonRaptor
 License:
