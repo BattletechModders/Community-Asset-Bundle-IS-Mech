@@ -113,6 +113,7 @@ Gripen LAM and Bot
 VF11 LAM
 LegacyPHawk
 Freedom
+Thunderstone
 
 Transient74 and IonRaptor
 License:

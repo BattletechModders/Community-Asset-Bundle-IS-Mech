@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+8.9
+
+Added the Thunderstone (non-canon).
+
 8.8
 
 Added the Freedom (non-canon)
