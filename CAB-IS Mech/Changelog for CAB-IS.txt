@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+9.0
+
+Added Generic Superheavy 1 (genericsh1)
+
 8.9
 
 Added the Thunderstone (non-canon).
