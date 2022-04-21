@@ -114,6 +114,7 @@ VF11 LAM
 LegacyPHawk
 Freedom
 Thunderstone
+Generic Superheavy 2
 
 Transient74 and IonRaptor
 License:

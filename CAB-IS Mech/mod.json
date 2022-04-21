@@ -7462,7 +7462,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericsh2/chrPrfComp_genericsh2_simgame.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_genericsh2base-001.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericsh2/chrPrfComp_genericsh2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" }
 	
     ]
 }
