@@ -7459,9 +7459,23 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericsh1/chrPrfComp_genericsh1_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_lefttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_righttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_centertorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },	
+
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh1/chrprfweap_genericsh1_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh1base-001" },	
 	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericsh2/chrPrfComp_genericsh2_simgame.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
