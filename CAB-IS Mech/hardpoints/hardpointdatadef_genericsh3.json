@@ -1,0 +1,105 @@
+{
+    "ID" : "hardpointdatadef_genericsh3",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh3_leftarm_ac10_bh1",
+			"chrprfweap_genericsh3_leftarm_ac20_bh1",
+			"chrprfweap_genericsh3_leftarm_ac5_bh1",
+			"chrprfweap_genericsh3_leftarm_ac2_bh1",
+			"chrprfweap_genericsh3_leftarm_gauss_bh1"
+			],
+			[
+			"chrprfweap_genericsh3_leftarm_laser_eh3"
+			],
+			[
+			"chrprfweap_genericsh3_leftarm_srm4_mh2"
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh3_lefttorso_laser_eh2"
+			],
+			[
+			"chrprfweap_genericsh3_lefttorso_ac10_bh1",
+			"chrprfweap_genericsh3_lefttorso_gauss_bh1",
+			"chrprfweap_genericsh3_lefttorso_lrm20_mh1"		
+			],
+			[
+			"chrprfweap_genericsh3_lefttorso_srm4_mh3"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh3_rightarm_ac10_bh1",
+			"chrprfweap_genericsh3_rightarm_ac20_bh1",
+			"chrprfweap_genericsh3_rightarm_ac5_bh1",
+			"chrprfweap_genericsh3_rightarm_ac2_bh1",
+			"chrprfweap_genericsh3_rightarm_gauss_bh1"
+			],
+			[
+			"chrprfweap_genericsh3_rightarm_laser_eh3"
+			],
+			[
+			"chrprfweap_genericsh3_rightarm_srm4_mh2"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh3_righttorso_laser_eh2"
+			],
+			[
+			"chrprfweap_genericsh3_righttorso_ac10_bh1",
+			"chrprfweap_genericsh3_righttorso_gauss_bh1",
+			"chrprfweap_genericsh3_righttorso_ppc_eh1",
+			"chrprfweap_genericsh3_righttorso_lrm20_mh1"		
+			],
+			[
+			"chrprfweap_genericsh3_righttorso_srm4_mh3"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

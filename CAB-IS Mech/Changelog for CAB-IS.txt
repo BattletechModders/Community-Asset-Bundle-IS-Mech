@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+9.2
+
+Added Generic Superheavy 3 (genericsh3)
+
 9.1
 
 Added Generic Superheavy 2 (genericsh2)

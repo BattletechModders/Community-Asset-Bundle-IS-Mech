@@ -7486,7 +7486,41 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh2/chrprfweap_genericsh2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh2base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericsh3/chrPrfComp_genericsh3_simgame.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_genericsh3base-001.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericsh3/chrPrfComp_genericsh3_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_lefttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_lefttorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_righttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_righttorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_leftarm_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_leftarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_leftarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_leftarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" }
 	
     ]
 }
