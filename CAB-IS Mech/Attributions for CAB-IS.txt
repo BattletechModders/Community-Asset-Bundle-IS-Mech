@@ -125,6 +125,13 @@ Liberty
 Generic Superheavy 1
 Generic Superheavy 3
 
+Transient74/IonRaptor/JuodasVarnas
+License:
+Creative Commons, Non-commercial
+
+Models:
+Schwerer Gustav
+
 Transient74 and David L. of SupermotoXL Designs:
 License:
 Creative Commons, Non-commercial

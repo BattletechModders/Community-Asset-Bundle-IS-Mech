@@ -7520,7 +7520,42 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh3/chrprfweap_genericsh3_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericsh3base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/schwerergustav/chrPrfComp_schwerergustav_simgame.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_schwerergustavbase-001.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/schwerergustav/chrPrfComp_schwerergustav_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_lefttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_lefttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_lefttorso_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_righttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_righttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_righttorso_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_rightarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/schwerergustav/chrprfweap_schwerergustav_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_schwerergustavbase-001" }
 	
     ]
 }

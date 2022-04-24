@@ -1,0 +1,92 @@
+{
+    "ID" : "hardpointdatadef_schwerergustav",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_schwerergustav_leftarm_laser_eh1",
+			"chrprfweap_schwerergustav_leftarm_ppc_eh1"
+			],
+			[
+			"chrprfweap_schwerergustav_leftarm_laser_eh2",
+			"chrprfweap_schwerergustav_leftarm_ppc_eh2"
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_schwerergustav_lefttorso_ac10_bh1",
+			"chrprfweap_schwerergustav_lefttorso_ac20_bh1",
+			"chrprfweap_schwerergustav_lefttorso_ac5_bh1",	
+			"chrprfweap_schwerergustav_lefttorso_ac2_bh1",
+			"chrprfweap_schwerergustav_lefttorso_gauss_bh1",
+			"chrprfweap_schwerergustav_lefttorso_laser_eh1",
+			"chrprfweap_schwerergustav_lefttorso_ppc_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_schwerergustav_rightarm_uac5_bh1",
+			"chrprfweap_schwerergustav_rightarm_ac10_bh1",
+			"chrprfweap_schwerergustav_rightarm_ac20_bh1",
+			"chrprfweap_schwerergustav_rightarm_ac5_bh1",
+			"chrprfweap_schwerergustav_rightarm_ac2_bh1",
+			"chrprfweap_schwerergustav_rightarm_gauss_bh1",
+			"chrprfweap_schwerergustav_rightarm_laser_eh1",
+			"chrprfweap_schwerergustav_rightarm_ppc_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_schwerergustav_righttorso_ac10_bh1",
+			"chrprfweap_schwerergustav_righttorso_ac20_bh1",
+			"chrprfweap_schwerergustav_righttorso_ac5_bh1",	
+			"chrprfweap_schwerergustav_righttorso_ac2_bh1",
+			"chrprfweap_schwerergustav_righttorso_gauss_bh1",
+			"chrprfweap_schwerergustav_righttorso_laser_eh1",
+			"chrprfweap_schwerergustav_righttorso_ppc_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
