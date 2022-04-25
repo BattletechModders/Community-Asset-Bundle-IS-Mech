@@ -2,7 +2,11 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
-9,3
+9.4
+
+Added Generic Superheavy 4 (genericsh4)
+
+9.3
 
 Added the Schwerer Gustav 
 
