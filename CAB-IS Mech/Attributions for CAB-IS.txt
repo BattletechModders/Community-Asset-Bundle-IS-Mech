@@ -125,6 +125,7 @@ Liberty
 Generic Superheavy 1
 Generic Superheavy 3
 Generic Superheavy 4
+Generic Superheavy 6
 
 Transient74/IonRaptor/JuodasVarnas
 License:
