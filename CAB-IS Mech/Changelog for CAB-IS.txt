@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+9.7
+
+Added Samuel "Shorty" Sneede's "Rifleman"
+
 9.6
 
 Added the Alligator

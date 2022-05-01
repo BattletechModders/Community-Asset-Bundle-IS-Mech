@@ -115,6 +115,7 @@ LegacyPHawk
 Freedom
 Thunderstone
 Generic Superheavy 2
+Shorty Sneede's Rifleman
 
 Transient74 and IonRaptor
 License:
