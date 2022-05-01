@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+9.8
+
+Added the Transient
+
 9.7
 
 Added Samuel "Shorty" Sneede's "Rifleman"
