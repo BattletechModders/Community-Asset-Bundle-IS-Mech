@@ -7652,7 +7652,38 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh6/chrprfweap_genericsh6_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh6base-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh6/chrprfweap_genericsh6_rightarm_lrm15_mh2.prefab", "AssetBundleName": "chrprfmech_genericsh6base-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh6/chrprfweap_genericsh6_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh6base-001" },	
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh6/chrprfweap_genericsh6_rightarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_genericsh6base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh6/chrprfweap_genericsh6_rightarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_genericsh6base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/alligator/chrPrfComp_alligator_simgame.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_alligatorbase-001.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/alligator/chrPrfComp_alligator_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/alligator/chrPrfComp_alligator_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_lrm20_mh4.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_lrm20_mh5.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_righttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_righttorso_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_righttorso_lrm20_mh4.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_righttorso_lrm20_mh5.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_rightarm_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_rightarm_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" }
 	
     ]
 }

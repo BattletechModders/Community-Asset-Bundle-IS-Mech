@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+9.6
+
+Added the Alligator
+
 9.5
 
 Added Generic Superheavy 6 (genericsh6)
