@@ -1,0 +1,72 @@
+{
+    "ID" : "hardpointdatadef_crabshasapult",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_crabshasapult_leftarm_laser_eh1"
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_crabshasapult_lefttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_crabshasapult_rightarm_laser_eh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_crabshasapult_righttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

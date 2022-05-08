@@ -130,6 +130,7 @@ Alligator (generic SH 5?)
 Generic Superheavy 6
 Transient
 PirateMech
+Crabshasapult FrankenMech
 
 Transient74/IonRaptor/JuodasVarnas
 License:
