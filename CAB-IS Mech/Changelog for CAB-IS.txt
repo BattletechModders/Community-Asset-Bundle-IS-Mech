@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+10.1
+
+Added the Ettin FrankenMech
+
 10.0
 
 Added the Crabshasapult FrankenMech

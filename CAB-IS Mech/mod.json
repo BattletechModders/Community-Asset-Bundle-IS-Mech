@@ -7772,7 +7772,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crabshasapult/chrprfweap_crabshasapult_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crabshasapultbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crabshasapult/chrprfweap_crabshasapult_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crabshasapultbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crabshasapult/chrprfweap_crabshasapult_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crabshasapultbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crabshasapult/chrprfweap_crabshasapult_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crabshasapultbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crabshasapult/chrprfweap_crabshasapult_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crabshasapultbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ettin/chrPrfComp_ettin_simgame.prefab", "AssetBundleName": "chrprfmech_ettinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ettinbase-001.prefab", "AssetBundleName": "chrprfmech_ettinbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ettin/chrPrfComp_ettin_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ettinbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ettin/chrprfweap_ettin_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ettinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ettin/chrprfweap_ettin_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ettinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ettin/chrprfweap_ettin_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ettinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ettin/chrprfweap_ettin_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ettinbase-001" }
 	
     ]
 }
