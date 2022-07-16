@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+10.3
+
+Added the Urbistator
+
 10.2
 
 Added the Assassin 2
