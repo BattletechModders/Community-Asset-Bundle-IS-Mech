@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+10.4
+
+Added the Agrotera
+
 10.3
 
 Added the Urbistator

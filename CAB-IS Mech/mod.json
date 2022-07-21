@@ -5757,7 +5757,19 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbiestator/chrprfweap_urbiestator_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_urbiestatorbase-001" },
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbiestator/chrprfweap_urbiestator_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_urbiestatorbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbiestator/chrprfweap_urbiestator_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_urbiestatorbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbiestator/chrprfweap_urbiestator_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_urbiestatorbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/leliagrotera/chrPrfComp_leliagrotera_simgame.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_leliagroterabase-001.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/leliagrotera/chrPrfComp_leliagrotera_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/leliagrotera/chrprfweap_leliagrotera_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/leliagrotera/chrprfweap_leliagrotera_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/leliagrotera/chrprfweap_leliagrotera_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/leliagrotera/chrprfweap_leliagrotera_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" }
 	
     ]
 }
