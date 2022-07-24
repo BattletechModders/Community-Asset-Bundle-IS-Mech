@@ -5769,7 +5769,19 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/leliagrotera/chrprfweap_leliagrotera_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/leliagrotera/chrprfweap_leliagrotera_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/leliagrotera/chrprfweap_leliagrotera_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/leliagrotera/chrprfweap_leliagrotera_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_leliagroterabase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/lelialbatross/chrPrfComp_lelialbatross_simgame.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_lelialbatrossbase-001.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/lelialbatross/chrPrfComp_lelialbatross_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelialbatross/chrprfweap_lelialbatross_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelialbatross/chrprfweap_lelialbatross_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelialbatross/chrprfweap_lelialbatross_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelialbatross/chrprfweap_lelialbatross_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" }
 	
     ]
 }

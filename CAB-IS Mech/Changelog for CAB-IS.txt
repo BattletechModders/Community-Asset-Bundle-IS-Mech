@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+10.5
+
+Added the Albatross
+
 10.4
 
 Added the Agrotera
