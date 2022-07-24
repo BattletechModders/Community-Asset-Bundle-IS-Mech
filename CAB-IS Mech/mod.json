@@ -5781,7 +5781,19 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelialbatross/chrprfweap_lelialbatross_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelialbatross/chrprfweap_lelialbatross_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelialbatross/chrprfweap_lelialbatross_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelialbatross/chrprfweap_lelialbatross_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelialbatrossbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/lelikoschei/chrPrfComp_lelikoschei_simgame.prefab", "AssetBundleName": "chrprfmech_lelikoscheibase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_lelikoscheibase-001.prefab", "AssetBundleName": "chrprfmech_lelikoscheibase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/lelikoschei/chrPrfComp_lelikoschei_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_lelikoscheibase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelikoschei/chrprfweap_lelikoschei_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelikoscheibase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelikoschei/chrprfweap_lelikoschei_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelikoscheibase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelikoschei/chrprfweap_lelikoschei_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelikoscheibase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelikoschei/chrprfweap_lelikoschei_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelikoscheibase-001" }
 	
     ]
 }
