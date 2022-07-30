@@ -335,3 +335,10 @@ Models:
 Agrotera
 Albatross
 Koschei
+
+Transient74, LtShade, and IonRaptor
+License:
+Creative Commons, Non-commercial
+
+Models:
+Jotunn

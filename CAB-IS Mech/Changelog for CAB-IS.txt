@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+10.7
+
+Added the Jotunn
+
 10.6
 
 Added the Koschei
