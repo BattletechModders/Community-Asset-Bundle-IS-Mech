@@ -342,3 +342,11 @@ Creative Commons, Non-commercial
 
 Models:
 Jotunn
+
+
+SirMortimer, IonRaptor, JuodasVarnas, FrostRaptor, Lt. Shade, GentlePayload, and Transient
+License:
+Unlicensed
+
+Models:
+WoBSH1

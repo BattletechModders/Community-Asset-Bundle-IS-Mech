@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+10.8
+
+Added the Word of Blake Superheavy 1
+
 10.7
 
 Added the Jotunn
