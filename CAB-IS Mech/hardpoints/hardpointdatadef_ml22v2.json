@@ -1,0 +1,91 @@
+{
+    "ID" : "hardpointdatadef_ml22v2",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_ml22v2_leftarm_laser_eh1",
+			"chrprfweap_ml22v2_leftarm_ppc_eh1"
+			],
+			[
+			"chrprfweap_ml22v2_leftarm_laser_eh2",
+			"chrprfweap_ml22v2_leftarm_ppc_eh2"
+			],
+			[
+			"chrprfweap_ml22v2_leftarm_ac10_bh3"
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_ml22v2_lefttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_ml22v2_rightarm_laser_eh1",
+			"chrprfweap_ml22v2_rightarm_ppc_eh1"
+			],
+			[
+			"chrprfweap_ml22v2_rightarm_laser_eh2",
+			"chrprfweap_ml22v2_rightarm_ppc_eh2"
+			],
+			[
+			"chrprfweap_ml22v2_rightarm_ac10_bh3"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_ml22v2_righttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_ml22v2_righttorso_gauss_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

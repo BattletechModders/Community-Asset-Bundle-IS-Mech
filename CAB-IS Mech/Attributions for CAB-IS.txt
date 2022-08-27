@@ -134,6 +134,13 @@ Transient
 PirateMech
 Crabshasapult FrankenMech
 
+Transient74, IonRaptor, FrostRaptor
+License:
+Creative Commons, Non-commercial
+
+Models:
+ML22v2
+
 Transient74/IonRaptor/JuodasVarnas
 License:
 Creative Commons, Non-commercial

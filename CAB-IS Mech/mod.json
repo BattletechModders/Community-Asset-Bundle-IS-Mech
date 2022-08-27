@@ -5880,7 +5880,30 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wobsh1/chrprfweap_wobsh1_rightarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_wobsh1base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wobsh1/chrprfweap_wobsh1_rightarm_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_wobsh1base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wobsh1/chrprfweap_wobsh1_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_wobsh1base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wobsh1/chrprfweap_wobsh1_rightarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_wobsh1base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wobsh1/chrprfweap_wobsh1_rightarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_wobsh1base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ml22v2/chrPrfComp_ml22v2_simgame.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ml22v2base-001.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ml22v2/chrPrfComp_ml22v2_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ml22v2/chrPrfComp_ml22v2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_leftarm_ac10_bh3.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_ac10_bh3.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" }
 	
     ]
 }
