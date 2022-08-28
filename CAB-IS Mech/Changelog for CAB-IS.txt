@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+11.0
+
+Added the Champion LAM
+
 10.9
 
 Added the ML22 v2

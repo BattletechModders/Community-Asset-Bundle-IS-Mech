@@ -5903,7 +5903,33 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_ac10_bh3.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ml22v2/chrprfweap_ml22v2_rightarm_ac10_bh3.prefab", "AssetBundleName": "chrprfmech_ml22v2base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/champlam/chrPrfComp_champlam_simgame.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_champlambase-001.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/champlam/chrPrfComp_champlam_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/champlam/chrPrfComp_champlam_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_lefttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_lefttorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_lefttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_righttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_righttorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" }
 	
     ]
 }
