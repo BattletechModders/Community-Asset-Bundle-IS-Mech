@@ -5929,7 +5929,50 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/champlam/chrprfweap_champlam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_champlambase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hazardmk2/chrPrfComp_hazardmk2_simgame.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_hazardmk2base-001.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hazardmk2/chrPrfComp_hazardmk2_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hazardmk2/chrPrfComp_hazardmk2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_lefttorso_lrm15_mh3.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_righttorso_lrm15_mh3.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_leftarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_leftarm_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_leftarm_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_axe_bh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" }
 	
     ]
 }

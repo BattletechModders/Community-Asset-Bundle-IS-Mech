@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+11.1
+
+Added the Hazard Mk 2
+
 11.0
 
 Added the Champion LAM
