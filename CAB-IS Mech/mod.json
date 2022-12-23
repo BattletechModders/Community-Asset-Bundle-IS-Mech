@@ -5972,7 +5972,41 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_rightarm_axe_bh2.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hazardmk2/chrprfweap_hazardmk2_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hazardmk2base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/vfwargerwalk/chrPrfComp_vfwargerwalk_simgame.prefab", "AssetBundleName": "chrprfmech_vfwargerwalkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_vfwargerwalkbase-001.prefab", "AssetBundleName": "chrprfmech_vfwargerwalkbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/vfwargerwalk/chrPrfComp_vfwargerwalk_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_vfwargerwalkbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vfwargerwalk/chrprfweap_vfwargerwalk_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vfwargerwalkbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vfwargerwalk/chrprfweap_vfwargerwalk_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vfwargerwalkbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vfwargerwalk/chrprfweap_vfwargerwalk_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vfwargerwalkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vfwargerwalk/chrprfweap_vfwargerwalk_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vfwargerwalkbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/vfwarhammer/chrPrfComp_vfwarhammer_simgame.prefab", "AssetBundleName": "chrprfmech_vfwarhammerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_vfwarhammerbase-001.prefab", "AssetBundleName": "chrprfmech_vfwarhammerbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/vfwarhammer/chrPrfComp_vfwarhammer_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_vfwarhammerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vfwarhammer/chrprfweap_vfwarhammer_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vfwarhammerbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vfwarhammer/chrprfweap_vfwarhammer_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vfwarhammerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vfwarhammer/chrprfweap_vfwarhammer_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vfwarhammerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/vfwarhammer/chrprfweap_vfwarhammer_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_vfwarhammerbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gun2/chrPrfComp_gun2_simgame.prefab", "AssetBundleName": "chrprfmech_gun2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gun2base-001.prefab", "AssetBundleName": "chrprfmech_gun2base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gun2/chrPrfComp_gun2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gun2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun2/chrprfweap_gun2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gun2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun2/chrprfweap_gun2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gun2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun2/chrprfweap_gun2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gun2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gun2/chrprfweap_gun2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gun2base-001" }
 	
     ]
 }

@@ -306,6 +306,7 @@ Carronade
 Hoplite
 Ghost
 Gun
+Gun 2 (reimport of the Gun to fix an issue with the arms)
 Red Corsair
 Ymir
 
@@ -359,3 +360,12 @@ Unlicensed
 
 Models:
 WoBSH1
+
+
+Minivalks, GP, IonRaptor, SouthernMountain, Transient
+License:
+Unlicensed
+
+Models:
+VF Warhammer
+VF Warhammer Gerwalk
