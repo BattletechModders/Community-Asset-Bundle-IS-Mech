@@ -1,0 +1,95 @@
+{
+    "ID" : "hardpointdatadef_mushu",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_mushu_leftarm_laser_eh1",
+			"chrprfweap_mushu_leftarm_mg_bh1",
+			"chrprfweap_mushu_leftarm_flamer_eh1"
+			],
+			[
+			"chrprfweap_mushu_leftarm_laser_eh2",
+			"chrprfweap_mushu_leftarm_mg_bh2",
+			"chrprfweap_mushu_leftarm_flamer_eh2"
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_mushu_lefttorso_laser_eh1",
+			"chrprfweap_mushu_lefttorso_flamer_eh1",
+			"chrprfweap_mushu_lefttorso_mg_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_mushu_rightarm_laser_eh1",
+			"chrprfweap_mushu_rightarm_mg_bh1",
+			"chrprfweap_mushu_rightarm_flamer_eh1"
+			],
+			[
+			"chrprfweap_mushu_rightarm_laser_eh2",
+			"chrprfweap_mushu_rightarm_mg_bh2",
+			"chrprfweap_mushu_rightarm_flamer_eh2"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_mushu_righttorso_ac10_bh3",
+			"chrprfweap_mushu_righttorso_gauss_bh3",
+			"chrprfweap_mushu_righttorso_ppc_eh3"
+			],
+			[
+			"chrprfweap_mushu_righttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_mushu_righttorso_flamer_eh1"
+			],
+			[
+			"chrprfweap_mushu_righttorso_mg_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

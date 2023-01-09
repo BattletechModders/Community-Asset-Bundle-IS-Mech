@@ -2,6 +2,14 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+11.6
+
+Added the Mushu
+
+11.5
+
+Added the StarDrive Stiletto
+
 11.4
 
 Added the GenericSH5
