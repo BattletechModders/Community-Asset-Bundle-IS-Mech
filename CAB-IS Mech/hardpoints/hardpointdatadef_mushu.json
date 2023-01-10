@@ -61,11 +61,6 @@
             "location" : "righttorso",
             "weapons" : [
 			[
-			"chrprfweap_mushu_righttorso_ac10_bh3",
-			"chrprfweap_mushu_righttorso_gauss_bh3",
-			"chrprfweap_mushu_righttorso_ppc_eh3"
-			],
-			[
 			"chrprfweap_mushu_righttorso_laser_eh1"
 			],
 			[
@@ -84,7 +79,13 @@
         },
 		{
             "location" : "centertorso",
-            "weapons" : [],
+            "weapons" : [
+			[
+			"chrprfweap_mushu_righttorso_ac10_bh3",
+			"chrprfweap_mushu_righttorso_gauss_bh3",
+			"chrprfweap_mushu_righttorso_ppc_eh3"
+			]
+			],
             "blanks" : [],
             "mountingPoints" : [
                 
