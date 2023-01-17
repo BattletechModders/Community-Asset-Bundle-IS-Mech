@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+11.7
+
+Added the GenericSH7
+
 11.6
 
 Added the Mushu

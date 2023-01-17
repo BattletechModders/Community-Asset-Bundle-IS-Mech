@@ -1,0 +1,90 @@
+{
+    "ID" : "hardpointdatadef_genericsh7",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh7_leftarm_laser_eh1",
+			"chrprfweap_genericsh7_leftarm_ppc_eh1",
+			"chrprfweap_genericsh7_leftarm_ac10_bh1",
+			"chrprfweap_genericsh7_leftarm_lrm10_mh1"
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh7_lefttorso_lrm10_mh1"
+			],
+			[
+			"chrprfweap_genericsh7_lefttorso_lrm10_mh2"
+			],
+			[
+			"chrprfweap_genericsh7_lefttorso_laser_eh3"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh7_rightarm_laser_eh1",
+			"chrprfweap_genericsh7_rightarm_ppc_eh1",
+			"chrprfweap_genericsh7_rightarm_ac10_bh1",
+			"chrprfweap_genericsh7_rightarm_lrm10_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh7_righttorso_lrm10_mh1"
+			],
+			[
+			"chrprfweap_genericsh7_righttorso_lrm10_mh2"
+			],
+			[
+			"chrprfweap_genericsh7_righttorso_laser_eh3"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_genericsh7_centertorso_arrow_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
