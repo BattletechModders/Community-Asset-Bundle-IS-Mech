@@ -381,3 +381,4 @@ Unlicensed
 
 Models:
 YF24 Gerwalk
+YF24 Mech

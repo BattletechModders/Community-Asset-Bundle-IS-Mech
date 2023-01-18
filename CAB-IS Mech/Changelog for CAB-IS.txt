@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+11.9
+
+Added the YF24 Mech-Mode
+
 11.8
 
 Added the YF24 Gerwalk

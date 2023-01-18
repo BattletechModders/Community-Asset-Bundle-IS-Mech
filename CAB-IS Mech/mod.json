@@ -6117,7 +6117,19 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24gerwalk/chrprfweap_yf24gerwalk_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24gerwalk/chrprfweap_yf24gerwalk_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24gerwalk/chrprfweap_yf24gerwalk_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24gerwalk/chrprfweap_yf24gerwalk_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/yf24mech/chrPrfComp_yf24mech_simgame.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_yf24mechbase-001.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/yf24mech/chrPrfComp_yf24mech_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24mech/chrprfweap_yf24mech_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24mech/chrprfweap_yf24mech_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24mech/chrprfweap_yf24mech_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24mech/chrprfweap_yf24mech_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" }
 	
     ]
 }
