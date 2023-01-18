@@ -6105,7 +6105,19 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh7/chrprfweap_genericsh7_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh7base-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh7/chrprfweap_genericsh7_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh7base-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh7/chrprfweap_genericsh7_centertorso_arrow_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh7base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh7/chrprfweap_genericsh7_centertorso_arrow_mh1.prefab", "AssetBundleName": "chrprfmech_genericsh7base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/yf24gerwalk/chrPrfComp_yf24gerwalk_simgame.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_yf24gerwalkbase-001.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/yf24gerwalk/chrPrfComp_yf24gerwalk_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24gerwalk/chrprfweap_yf24gerwalk_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24gerwalk/chrprfweap_yf24gerwalk_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24gerwalk/chrprfweap_yf24gerwalk_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24gerwalk/chrprfweap_yf24gerwalk_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24gerwalkbase-001" }
 	
     ]
 }

@@ -1,0 +1,57 @@
+{
+    "ID" : "hardpointdatadef_yf24gerwalk",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_yf24gerwalk_leftarm_laser_eh1"		
+            ]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_yf24gerwalk_lefttorso_laser_eh1"		
+            ]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_yf24gerwalk_rightarm_laser_eh1"	
+			]
+			],
+            "blanks" : [
+			],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_yf24gerwalk_righttorso_laser_eh1"		
+            ]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        }
+    ]
+	
+}

@@ -373,3 +373,11 @@ Unlicensed
 Models:
 VF Warhammer
 VF Warhammer Gerwalk
+
+
+Minivalks, Transient
+License:
+Unlicensed
+
+Models:
+YF24 Gerwalk
