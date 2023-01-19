@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+12.0
+
+Added the GenericLight1
+
 11.9
 
 Added the YF24 Mech-Mode

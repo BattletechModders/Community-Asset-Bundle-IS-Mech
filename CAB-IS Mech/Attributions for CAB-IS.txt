@@ -122,6 +122,7 @@ Assassin 2
 Champion LAM
 Stiletto (StarDrive)
 Mushu
+GenericLight1
 
 Transient74 and IonRaptor
 License:

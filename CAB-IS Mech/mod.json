@@ -6129,7 +6129,19 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24mech/chrprfweap_yf24mech_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24mech/chrprfweap_yf24mech_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24mech/chrprfweap_yf24mech_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yf24mech/chrprfweap_yf24mech_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yf24mechbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericlight1/chrPrfComp_genericlight1_simgame.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_genericlight1base-001.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericlight1/chrPrfComp_genericlight1_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight1/chrprfweap_genericlight1_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight1/chrprfweap_genericlight1_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight1/chrprfweap_genericlight1_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight1/chrprfweap_genericlight1_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" }
 	
     ]
 }
