@@ -6141,7 +6141,37 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight1/chrprfweap_genericlight1_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight1/chrprfweap_genericlight1_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight1/chrprfweap_genericlight1_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight1/chrprfweap_genericlight1_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight1base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hel/chrPrfComp_hel_simgame.prefab", "AssetBundleName": "chrprfmech_helbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_helbase-001.prefab", "AssetBundleName": "chrprfmech_helbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hel/chrPrfComp_hel_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_helbase-001" },	
+
+
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hel/chrPrfComp_hel_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_helbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hel/chrprfweap_hel_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_helbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hel/chrprfweap_hel_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_helbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hel/chrprfweap_hel_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_helbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hel/chrprfweap_hel_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_helbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hel/chrprfweap_hel_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_helbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hel/chrprfweap_hel_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_helbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/eris/chrPrfComp_eris_simgame.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_erisbase-001.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/eris/chrPrfComp_eris_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/eris/chrprfweap_eris_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/eris/chrprfweap_eris_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/eris/chrprfweap_eris_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/eris/chrprfweap_eris_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_erisbase-001" }
 	
     ]
 }
