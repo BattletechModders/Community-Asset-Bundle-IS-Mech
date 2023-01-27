@@ -6206,7 +6206,77 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/eris/chrprfweap_eris_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/eris/chrprfweap_eris_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/eris/chrprfweap_eris_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_erisbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/eris/chrprfweap_eris_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_erisbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericlight2/chrPrfComp_genericlight2_simgame.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_genericlight2base-001.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericlight2/chrPrfComp_genericlight2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_righttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_righttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_lefttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_lefttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight2/chrprfweap_genericlight2_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight2base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericlight3/chrPrfComp_genericlight3_simgame.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_genericlight3base-001.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericlight3/chrPrfComp_genericlight3_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_centertorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_centertorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_centertorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericlight3/chrprfweap_genericlight3_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_genericlight3base-001" }
 	
     ]
 }

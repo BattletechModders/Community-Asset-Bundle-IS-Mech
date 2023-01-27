@@ -123,6 +123,8 @@ Champion LAM
 Stiletto (StarDrive)
 Mushu
 GenericLight1
+GenericLight2
+GenericLight3
 
 Transient74 and IonRaptor
 License:

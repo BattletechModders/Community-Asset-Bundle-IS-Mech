@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+12.2
+
+Added the GenericLight2 and 3
+
 12.1
 
 Added the Eris and the Hel
