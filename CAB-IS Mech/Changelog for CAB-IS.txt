@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+12.3
+
+Added the GenericLight4
+
 12.2
 
 Added the GenericLight2 and 3

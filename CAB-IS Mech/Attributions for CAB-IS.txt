@@ -125,6 +125,7 @@ Mushu
 GenericLight1
 GenericLight2
 GenericLight3
+GenericLight4
 
 Transient74 and IonRaptor
 License:
