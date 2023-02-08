@@ -1,11 +1,8 @@
 Attributions for CAB-IS
 
-This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model) and the license under which that author releases their model.
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
 
 Colobos/Crackfoxx
-License: 
-Creative Commons, Non-commercial
-
 Models:
 Phoenix Hawk LAM
 Stinger LAM
@@ -15,9 +12,6 @@ Wasp LAM
 Community Hunchback
 
 Lt. Shade
-License: 
-Creative Commons, Attribution, Non-commercial
-
 Models:
 Archangel
 Argus
@@ -48,9 +42,6 @@ Valiant
 Valkyrie II
 
 GentlePayload:
-License:
-Creative Commons, Non-commercial
-
 Models:
 Hauptmann
 Anubis
@@ -58,9 +49,6 @@ Preta
 Thug
 
 Ion Raptor
-License:
-Creative Commons - Non-Commercial
-
 Models:
 Blitzkrieg
 Chimera
@@ -94,9 +82,6 @@ Grigori
 Deva
 
 Transient74
-License:
-Creative Commons, Non-commercial
-
 Models:
 Bruin
 Hazard
@@ -128,9 +113,6 @@ GenericLight3
 GenericLight4
 
 Transient74 and IonRaptor
-License:
-Creative Commons, Non-commercial
-
 Models:
 Liberty
 Generic Superheavy 1
@@ -145,31 +127,19 @@ PirateMech
 Crabshasapult FrankenMech
 
 Transient74, IonRaptor, FrostRaptor
-License:
-Creative Commons, Non-commercial
-
 Models:
 ML22v2
 
 Transient74/IonRaptor/JuodasVarnas
-License:
-Creative Commons, Non-commercial
-
 Models:
 Schwerer Gustav
 
 Transient74 and David L. of SupermotoXL Designs:
-License:
-Creative Commons, Non-commercial
-
 Models:
 Switchblade LAM
 Black Owl LAM
 
 SolahmaJoe
-License:
-Creative Commons, Non-Commercial
-
 Models:
 Crusader
 Wasp
@@ -180,9 +150,6 @@ Ostsol
 Valkyrie
 
 Piranha Games, Inc.
-License: 
-Unstated but seems to effectively be Creative Commons - Non-Commercial
-
 Models:
 Bushwacker
 Champion
@@ -213,25 +180,16 @@ Longbow
 Zeus X
 
 Rudy Valle
-License:
-Creative Commons - Non-Commercial
-
 Models:
 Mongoose
 
 SouthernMountain
-License:
-Creative Commons - Attribution, Non-Commercial
-
 Models:
 Wasp Legacy
 Stinger Legacy
 Phoenix Hawk Legacy
 
 JuodasVarnas 
-License:
-Creative Commons, Attribution, Non-commercial
-
 Models:
 Yeoman
 Bombardier
@@ -242,9 +200,6 @@ Thunder
 Helios
 
 SmallRobotsInAContainer/Napes
-License:
-Creative Commons, Attribution, Non-commercial
-
 Models:
 Anvil
 Gladiator
@@ -271,14 +226,11 @@ Battleaxe
 Sha Yu
 
 FrostRaptor
-License:
-CC BY-NC-SA 4.0
-
 Models:
 Dig King
 Gunslinger
 
-Unlicensed Models
+
 Mason
 Models:
 Viking
@@ -306,9 +258,6 @@ Omega
 
 
 SirMortimer and Transient
-License:
-Unlicensed
-
 Models:
 Carronade
 Hoplite
@@ -319,9 +268,6 @@ Red Corsair
 Ymir
 
 Vossiewulf and Transient
-License:
-Unlicensed
-
 Models:
 Hitotsume Kozo
 Falcon
@@ -330,68 +276,44 @@ Ostscout
 Toyama
 
 Brian Banzai and Transient
-License:
-Creative Commons - Non Commercial
-
 Models:
 Shootist
 
 
 SirMortimer, IonRaptor, JuodasVarnas, FrostRaptor, and Transient
-License:
-Unlicensed
-
 Models:
 Urbistator
 
 
 Momma Leli and Transient74
-License:
-Creative Commons, Attribution, Non-commercial, no derivitives, no modifications, share alike
-
 Models:
 Agrotera
 Albatross
 Koschei
 
 Transient74, LtShade, and IonRaptor
-License:
-Creative Commons, Non-commercial
-
 Models:
 Jotunn
 
 
 SirMortimer, IonRaptor, JuodasVarnas, FrostRaptor, Lt. Shade, GentlePayload, and Transient
-License:
-Unlicensed
-
 Models:
 WoBSH1
 
 
 Minivalks, GP, IonRaptor, SouthernMountain, Transient
-License:
-Unlicensed
-
 Models:
 VF Warhammer
 VF Warhammer Gerwalk
 
 
 Minivalks, Transient
-License:
-Unlicensed
-
 Models:
 YF24 Gerwalk
 YF24 Mech
 
 
 OnlyQ, Transient
-License:
-Unlicensed
-
 Models:
 Eris
 Hel
