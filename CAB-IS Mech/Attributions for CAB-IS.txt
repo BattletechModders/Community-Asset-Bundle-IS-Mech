@@ -111,6 +111,7 @@ GenericLight1
 GenericLight2
 GenericLight3
 GenericLight4
+Buccaneer
 
 Transient74 and IonRaptor
 Models:

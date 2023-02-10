@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+12.4
+
+Added the Buccaneer 
+
 12.3
 
 Added the GenericLight4
