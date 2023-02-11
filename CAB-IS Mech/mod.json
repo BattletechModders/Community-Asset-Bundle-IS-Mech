@@ -6323,7 +6323,20 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/buccaneer/chrprfweap_buccaneer_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_buccaneerbase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/buccaneer/chrprfweap_buccaneer_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_buccaneerbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/buccaneer/chrprfweap_buccaneer_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_buccaneerbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericsh8/chrPrfComp_genericsh8_simgame.prefab", "AssetBundleName": "chrprfmech_genericsh8base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_genericsh8base-001.prefab", "AssetBundleName": "chrprfmech_genericsh8base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/genericsh8/chrPrfComp_genericsh8_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_genericsh8base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh8/chrprfweap_genericsh8_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh8base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh8/chrprfweap_genericsh8_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh8base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh8/chrprfweap_genericsh8_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh8base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/genericsh8/chrprfweap_genericsh8_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_genericsh8base-001" }
 	
     ]
 }

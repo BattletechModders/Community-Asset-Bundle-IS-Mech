@@ -123,6 +123,7 @@ Alligator (generic SH 5?)
 Generic Superheavy 6
 Generic Superheavy 5
 Generic Superheavy 7
+Generic Superheavy 8
 Transient
 PirateMech
 Crabshasapult FrankenMech

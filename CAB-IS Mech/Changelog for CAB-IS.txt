@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+12.5
+
+Added the GenericSH8
+
 12.4
 
 Added the Buccaneer 
