@@ -1,0 +1,58 @@
+{
+    "ID" : "hardpointdatadef_jackrabbit",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_jackrabbit_leftarm_laser_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_jackrabbit_lefttorso_laser_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_jackrabbit_rightarm_laser_eh1"
+			]
+			],
+            "blanks" : [
+			],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_jackrabbit_righttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        }
+    ]
+	
+}
