@@ -113,6 +113,7 @@ GenericLight3
 GenericLight4
 Buccaneer
 Jackrabbit
+Rampage
 
 Transient74 and IonRaptor
 Models:

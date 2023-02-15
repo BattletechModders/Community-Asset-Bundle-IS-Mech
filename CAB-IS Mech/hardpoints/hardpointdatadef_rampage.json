@@ -1,0 +1,99 @@
+{
+    "ID" : "hardpointdatadef_rampage",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_rampage_leftarm_ac10_bh1",
+			"chrprfweap_rampage_leftarm_gauss_bh1",
+			"chrprfweap_rampage_leftarm_flamer_eh1",
+			"chrprfweap_rampage_leftarm_lrm5_mh1",
+			"chrprfweap_rampage_leftarm_lrm10_mh1",
+			"chrprfweap_rampage_leftarm_srm2_mh1",
+			"chrprfweap_rampage_leftarm_srm4_mh1",
+			"chrprfweap_rampage_leftarm_srm6_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_rampage_lefttorso_lrm5_mh1",
+			"chrprfweap_rampage_lefttorso_lrm10_mh1",
+			"chrprfweap_rampage_lefttorso_lrm15_mh1",
+			"chrprfweap_rampage_lefttorso_lrm20_mh1",
+			"chrprfweap_rampage_lefttorso_srm2_mh1",
+			"chrprfweap_rampage_lefttorso_srm4_mh1",
+			"chrprfweap_rampage_lefttorso_srm6_mh1"
+			],
+			[
+			"chrprfweap_rampage_lefttorso_laser_eh2",
+			"chrprfweap_rampage_lefttorso_flamer_eh2"
+			],
+			[
+			"chrprfweap_rampage_lefttorso_laser_eh3",
+			"chrprfweap_rampage_lefttorso_flamer_eh3"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_rampage_rightarm_laser_eh1",
+			"chrprfweap_rampage_rightarm_ac10_bh1",
+			"chrprfweap_rampage_rightarm_flamer_eh1",
+			"chrprfweap_rampage_rightarm_gauss_bh1"
+			]
+			],
+            "blanks" : [
+			],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_rampage_righttorso_lrm5_mh1",
+			"chrprfweap_rampage_righttorso_lrm10_mh1",
+			"chrprfweap_rampage_righttorso_lrm15_mh1",
+			"chrprfweap_rampage_righttorso_lrm20_mh1",
+			"chrprfweap_rampage_righttorso_srm2_mh1",
+			"chrprfweap_rampage_righttorso_srm4_mh1",
+			"chrprfweap_rampage_righttorso_srm6_mh1"
+			],
+			[
+			"chrprfweap_rampage_righttorso_laser_eh2",
+			"chrprfweap_rampage_righttorso_flamer_eh2"
+			],
+			[
+			"chrprfweap_rampage_righttorso_laser_eh3",
+			"chrprfweap_rampage_righttorso_flamer_eh3"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_rampage_centertorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        }
+    ]
+	
+}
