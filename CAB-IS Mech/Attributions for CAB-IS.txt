@@ -80,6 +80,7 @@ Atlas IV
 Seraph
 Grigori
 Deva
+Malak
 
 Transient74
 Models:

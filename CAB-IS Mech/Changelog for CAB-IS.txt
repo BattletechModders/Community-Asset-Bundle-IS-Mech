@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+12.8
+
+Added the Malak
+
 12.7
 
 Added the Rampage

@@ -6395,7 +6395,26 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rampage/chrprfweap_rampage_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_rampagebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rampage/chrprfweap_rampage_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_rampagebase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rampage/chrprfweap_rampage_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_rampagebase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/rampage/chrprfweap_rampage_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_rampagebase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/malak/chrPrfComp_malak_simgame.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_malakbase-001.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/malak/chrPrfComp_malak_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/malak/chrPrfComp_malak_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_lefttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_malakbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/malak/chrprfweap_malak_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_malakbase-001" }
 	
     ]
 }

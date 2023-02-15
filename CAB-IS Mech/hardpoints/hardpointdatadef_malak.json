@@ -1,0 +1,70 @@
+{
+    "ID" : "hardpointdatadef_malak",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_malak_lefttorso_srm2_mh1"
+			],
+			[
+			"chrprfweap_malak_lefttorso_ppc_eh2"
+			],
+			[
+			"chrprfweap_malak_lefttorso_laser_eh3"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_malak_rightarm_laser_eh1",
+			"chrprfweap_malak_rightarm_flamer_eh1"
+			]
+			],
+            "blanks" : [
+			],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_malak_righttorso_srm2_mh1"
+			],
+			[
+			"chrprfweap_malak_righttorso_ppc_eh2"
+			],
+			[
+			"chrprfweap_malak_righttorso_laser_eh3"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_malak_centertorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        }
+    ]
+	
+}
