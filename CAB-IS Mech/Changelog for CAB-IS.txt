@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+12.9
+
+Added the Dagoth
+
 12.8
 
 Added the Malak

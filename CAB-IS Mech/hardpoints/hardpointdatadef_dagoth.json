@@ -1,0 +1,132 @@
+{
+	"ID": "hardpointdatadef_dagoth",
+	"HardpointData": [
+		{
+			"location": "head",
+			"weapons": [
+				[
+					"chrprfweap_dagoth_head_mask_bh1"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "centertorso",
+			"weapons": [
+				[
+					"chrprfweap_dagoth_centertorso_laser_eh1"
+				],
+				[
+					"chrprfweap_dagoth_centertorso_laser_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "leftarm",
+			"weapons": [
+				[
+					"chrprfweap_dagoth_leftarm_ac20_bh1",
+					"chrprfweap_dagoth_leftarm_ac10_bh1",
+					"chrprfweap_dagoth_leftarm_flamer_eh1",
+					"chrprfweap_dagoth_leftarm_gauss_bh1",
+					"chrprfweap_dagoth_leftarm_laser_eh1",
+					"chrprfweap_dagoth_leftarm_lbx_bh1",
+					"chrprfweap_dagoth_leftarm_lrm10_mh1",
+					"chrprfweap_dagoth_leftarm_mg_bh1",
+					"chrprfweap_dagoth_leftarm_mace_bh1",
+					"chrprfweap_dagoth_leftarm_shield_bh1",
+					"chrprfweap_dagoth_leftarm_ppc_eh1",
+					"chrprfweap_dagoth_leftarm_hatchet_bh1",
+					"chrprfweap_dagoth_leftarm_srm4_mh1",
+					"chrprfweap_dagoth_leftarm_srm6_mh1",
+					"chrprfweap_dagoth_leftarm_uac5_bh1"
+
+				],
+				[
+					"chrprfweap_dagoth_leftarm_laser_eh2",
+					"chrprfweap_dagoth_leftarm_flamer_eh2",
+					"chrprfweap_dagoth_leftarm_ppc_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "lefttorso",
+			"weapons": [
+				[
+					"chrprfweap_dagoth_lefttorso_flamer_eh1",
+					"chrprfweap_dagoth_lefttorso_laser_eh1",
+					"chrprfweap_dagoth_lefttorso_lrm10_mh1",
+					"chrprfweap_dagoth_lefttorso_lrm5_mh1",
+					"chrprfweap_dagoth_lefttorso_narc_mh1",
+					"chrprfweap_dagoth_lefttorso_ppc_eh1",
+					"chrprfweap_dagoth_lefttorso_mortar_bh1",
+					"chrprfweap_dagoth_lefttorso_ac20_bh1",
+					"chrprfweap_dagoth_lefttorso_srm4_mh1",
+					"chrprfweap_dagoth_lefttorso_uac5_bh1",
+					"chrprfweap_dagoth_lefttorso_lbx_bh1",
+					"chrprfweap_dagoth_lefttorso_srm6_mh1",
+					"chrprfweap_dagoth_lefttorso_gauss_bh1",
+					"chrprfweap_dagoth_lefttorso_artillery_bh1",
+					"chrprfweap_dagoth_lefttorso_mg_bh1"
+
+				],
+				[
+					"chrprfweap_dagoth_lefttorso_flamer_eh2",
+					"chrprfweap_dagoth_lefttorso_laser_eh2",
+					"chrprfweap_dagoth_lefttorso_ppc_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "rightarm",
+			"weapons": [
+				[
+					"chrprfweap_dagoth_rightarm_laser_eh1",
+					"chrprfweap_dagoth_rightarm_sword_bh1",
+					"chrprfweap_dagoth_rightarm_ac20_bh1",
+					"chrprfweap_dagoth_rightarm_uac5_bh1",
+					"chrprfweap_dagoth_rightarm_ppc_eh1",
+					"chrprfweap_dagoth_rightarm_lbx_bh1",
+					"chrprfweap_dagoth_rightarm_ac10_bh1",
+					"chrprfweap_dagoth_rightarm_mg_bh1",
+					"chrprfweap_dagoth_rightarm_gauss_bh1"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "righttorso",
+			"weapons": [
+				[
+					"chrprfweap_dagoth_righttorso_ac20_bh1",
+					"chrprfweap_dagoth_righttorso_uac5_bh1",
+					"chrprfweap_dagoth_righttorso_lrm10_mh1",
+					"chrprfweap_dagoth_righttorso_lbx_bh1",
+					"chrprfweap_dagoth_righttorso_gauss_bh1",
+					"chrprfweap_dagoth_righttorso_artillery_bh1",
+					"chrprfweap_dagoth_righttorso_mg_bh1",
+					"chrprfweap_dagoth_righttorso_mortar_bh1",
+					"chrprfweap_dagoth_righttorso_lrm5_mh1",
+					"chrprfweap_dagoth_righttorso_laser_eh1",
+					"chrprfweap_dagoth_righttorso_srm4_mh1",
+					"chrprfweap_dagoth_righttorso_ppc_eh1",
+					"chrprfweap_dagoth_righttorso_srm6_mh1"
+				],
+				[
+					"chrprfweap_dagoth_righttorso_laser_eh2",
+					"chrprfweap_dagoth_righttorso_ppc_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		}
+	]
+}

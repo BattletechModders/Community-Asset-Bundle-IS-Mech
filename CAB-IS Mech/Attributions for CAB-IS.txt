@@ -20,6 +20,7 @@ Bellerophon
 Bombard
 Clint
 Cyclone
+Dagoth
 Dragon Fire
 Emperor
 Firebee
