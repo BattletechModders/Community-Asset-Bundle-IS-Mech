@@ -6483,7 +6483,23 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dagoth/chrprfweap_dagoth_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_dagothbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dagoth/chrprfweap_dagoth_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_dagothbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dagoth/chrprfweap_dagoth_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_dagothbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dagoth/chrprfweap_dagoth_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_dagothbase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dagoth/chrprfweap_dagoth_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_dagothbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/naginata/chrPrfComp_naginata_simgame.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_naginatabase-001.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/naginata/chrPrfComp_naginata_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },	
+
+
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/naginata/chrPrfComp_naginata_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naginata/chrprfweap_naginata_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naginata/chrprfweap_naginata_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naginata/chrprfweap_naginata_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naginata/chrprfweap_naginata_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" }
 	
     ]
 }

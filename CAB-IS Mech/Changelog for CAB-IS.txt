@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+13.0
+
+Added the Naginata
+
 12.9
 
 Added the Dagoth

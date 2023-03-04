@@ -116,6 +116,7 @@ GenericLight4
 Buccaneer
 Jackrabbit
 Rampage
+Naginata
 
 Transient74 and IonRaptor
 Models:
