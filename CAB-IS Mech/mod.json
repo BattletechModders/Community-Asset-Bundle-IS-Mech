@@ -5576,7 +5576,9 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/alligator/chrPrfComp_alligator_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/alligator/chrPrfComp_alligator_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
-		
+
+	    	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
+	    
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/alligator/chrprfweap_alligator_lefttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_alligatorbase-001" },
