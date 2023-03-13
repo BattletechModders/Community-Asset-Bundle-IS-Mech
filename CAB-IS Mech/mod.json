@@ -6501,7 +6501,58 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naginata/chrprfweap_naginata_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naginata/chrprfweap_naginata_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naginata/chrprfweap_naginata_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_naginatabase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/exterminator/chrPrfComp_exterminator_simgame.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_exterminatorbase-001.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/exterminator/chrPrfComp_exterminator_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/exterminator/chrPrfComp_exterminator_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_ac2_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_ac5_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_ac10_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_ac20_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_rightarm_gauss_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_ac2_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_ac5_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_ac10_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_ac20_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_gauss_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_ams_ah1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" }
 	
     ]
 }
