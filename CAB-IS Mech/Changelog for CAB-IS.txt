@@ -4,7 +4,7 @@ Changelog for CAB-IS
 
 13.1
 
-Added the Exterminator
+Updated the Avatar 
 
 13.0
 

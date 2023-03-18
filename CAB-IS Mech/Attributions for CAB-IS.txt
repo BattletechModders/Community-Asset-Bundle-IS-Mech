@@ -15,7 +15,7 @@ Lt. Shade
 Models:
 Archangel
 Argus
-Avatar
+Avatar Redux
 Bellerophon
 Bombard
 Clint
@@ -132,7 +132,6 @@ Generic Superheavy 8
 Transient
 PirateMech
 Crabshasapult FrankenMech
-Exterminator
 
 Transient74, IonRaptor, FrostRaptor
 Models:
