@@ -45,18 +45,6 @@
 			
             ],
             "mountingPoints" : []
-        },
-		{
-            "location" : "centertorso",
-            "weapons" : [
-			[
-			"chrprfweap_hel_centertorso_laser_eh1"
-			]
-			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : []
         }
     ]
 	
