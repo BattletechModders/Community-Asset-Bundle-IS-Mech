@@ -117,6 +117,7 @@ Buccaneer
 Jackrabbit
 Rampage
 Naginata
+Pillager
 
 Transient74 and IonRaptor
 Models:
