@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+13.3
+
+Added the Cossack
+
 13.2 
 
 Added the Pillager

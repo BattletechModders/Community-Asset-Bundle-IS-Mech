@@ -6560,7 +6560,21 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/pillager/chrprfweap_pillager_centertorso_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_pillagerbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/pillager/chrprfweap_pillager_centertorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_pillagerbase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/pillager/chrprfweap_pillager_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_pillagerbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/pillager/chrprfweap_pillager_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_pillagerbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cossack/chrPrfComp_cossack_simgame.prefab", "AssetBundleName": "chrprfmech_cossackbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_cossackbase-001.prefab", "AssetBundleName": "chrprfmech_cossackbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cossack/chrPrfComp_cossack_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_cossackbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cossack/chrPrfComp_cossack_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_cossackbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cossack/chrprfweap_cossack_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cossackbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cossack/chrprfweap_cossack_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cossackbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cossack/chrprfweap_cossack_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cossackbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cossack/chrprfweap_cossack_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cossackbase-001" }
 	
     ]
 }

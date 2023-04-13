@@ -275,6 +275,7 @@ Gun 2 (reimport of the Gun to fix an issue with the arms)
 Red Corsair
 Ymir
 
+
 Vossiewulf and Transient
 Models:
 Hitotsume Kozo
@@ -282,6 +283,12 @@ Falcon
 Von Rohrs
 Ostscout
 Toyama
+
+
+Rumia and Transient
+Models:
+Cossack
+
 
 Brian Banzai and Transient
 Models:
