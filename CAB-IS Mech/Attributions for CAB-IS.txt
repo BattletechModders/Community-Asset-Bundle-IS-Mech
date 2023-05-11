@@ -118,6 +118,8 @@ Jackrabbit
 Rampage
 Naginata
 Pillager
+331Pillager
+331Genlight2
 
 Transient74 and IonRaptor
 Models:

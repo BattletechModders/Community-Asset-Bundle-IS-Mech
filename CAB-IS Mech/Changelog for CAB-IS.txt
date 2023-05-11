@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+13.4
+
+Added the 331 Pillager and 331 GenLight2
+
 13.3
 
 Added the Cossack
