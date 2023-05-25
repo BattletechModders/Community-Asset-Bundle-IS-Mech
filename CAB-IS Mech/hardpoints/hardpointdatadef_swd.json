@@ -37,8 +37,6 @@
             "location" : "rightarm",
             "weapons" : [
 			[
-			"chrprfweap_swd_rightarm_laser_eh1",
-			"chrprfweap_swd_rightarm_lrm10_mh1",
 			"chrprfweap_swd_rightarm_ac10_bh1"
 			]
 			],

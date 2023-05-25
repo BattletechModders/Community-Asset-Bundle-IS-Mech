@@ -21,7 +21,6 @@
             "location" : "lefttorso",
             "weapons" : [
 			[
-			"chrprfweap_sluf_lefttorso_laser_eh1",
 			"chrprfweap_sluf_lefttorso_mg_bh1",
 			"chrprfweap_sluf_lefttorso_srm6_mh1"
 			]
