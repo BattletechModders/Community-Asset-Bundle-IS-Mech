@@ -135,6 +135,7 @@ Generic Superheavy 8
 Transient
 PirateMech
 Crabshasapult FrankenMech
+Komodo
 
 Transient74, IonRaptor, FrostRaptor
 Models:

@@ -6574,7 +6574,21 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331genlight2/chrprfweap_331genlight2_lefttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_331genlight2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331genlight2/chrprfweap_331genlight2_lefttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_331genlight2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331genlight2/chrprfweap_331genlight2_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_331genlight2base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331genlight2/chrprfweap_331genlight2_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_331genlight2base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331genlight2/chrprfweap_331genlight2_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_331genlight2base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/komodo/chrPrfComp_komodo_simgame.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_komodobase-001.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/komodo/chrPrfComp_komodo_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/komodo/chrPrfComp_komodo_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/komodo/chrprfweap_komodo_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/komodo/chrprfweap_komodo_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/komodo/chrprfweap_komodo_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/komodo/chrprfweap_komodo_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_komodobase-001" }
 	
     ]
 }
