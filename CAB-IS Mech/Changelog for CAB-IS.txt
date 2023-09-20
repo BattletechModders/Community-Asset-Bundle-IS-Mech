@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+13.6
+
+Moved the Pillager/331Pillager to CAB 3025
+
 13.5
 
 Added the Komodo
