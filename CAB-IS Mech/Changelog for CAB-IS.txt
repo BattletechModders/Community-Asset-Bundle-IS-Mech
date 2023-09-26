@@ -2,6 +2,10 @@ Changelog for CAB-IS
 
 -----------------------------------------------------
 
+13.7
+
+Added the Gurkha
+
 13.6
 
 Moved the Pillager/331Pillager to CAB 3025

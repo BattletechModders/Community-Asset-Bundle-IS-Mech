@@ -6508,7 +6508,23 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/komodo/chrprfweap_komodo_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/komodo/chrprfweap_komodo_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_komodobase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/komodo/chrprfweap_komodo_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_komodobase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gurkha/chrPrfComp_gurkha_simgame.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gurkhabase-001.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gurkha/chrPrfComp_gurkha_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gurkha/chrprfweap_gurkha_rightarm_sword_bh1.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gurkha/chrprfweap_gurkha_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gurkha/chrprfweap_gurkha_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gurkha/chrprfweap_gurkha_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gurkha/chrprfweap_gurkha_leftarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gurkha/chrprfweap_gurkha_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gurkha/chrprfweap_gurkha_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gurkhabase-001" }
 	
     ]
 }

@@ -82,6 +82,7 @@ Seraph
 Grigori
 Deva
 Malak
+Gurkha
 
 Transient74
 Models:
